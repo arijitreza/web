@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+    max-width: 80%;
+    background-color: aquamarine;
+    margin: auto;
+}
+img{
+    width: 100px;
+}
+.main_menu{
+    display: flex;
+}
+.menubar{
+    display: flex;
+}
+.menubar li{
+    position: relative;
+}

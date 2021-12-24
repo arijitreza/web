@@ -1,0 +1,392 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    /* background-color: #ffdc97; */
+}
+img{
+    max-width: 100%;
+    display: flex;
+}
+header{
+    background-color: rgb(255, 244, 220);
+}
+.container{
+    max-width: 80%;
+    margin: auto;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 150px;
+    padding-top: 3px;
+}
+.main_menu{
+    display: flex;
+}
+.main_menu li{
+    padding: 20px 13px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+}
+.main_menu li a{
+    color: brown;
+}
+.home{
+    background-color: rgb(215 215 215);
+}
+.main_menu li:hover{
+    background-color: #d37b04;
+    cursor: pointer;
+}
+.main_menu li:hover a{
+    color: #fff;
+}
+.dropdown{
+    display: none;
+    position: absolute;
+    top: 63px;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(255, 244, 220) !important;
+}
+.main_menu li:hover .dropdown a{
+    color: brown;
+}
+.main_menu .showtime:hover .dropdown{
+    display: block;
+}
+.main_menu li:hover .dropdown li:hover a{
+    color: #fff;
+}
+.sub_dropdown1{
+    display: none;
+    position: absolute;
+    top: 0px;
+    left: 131px;
+    width: 180px;
+    text-align: center;
+    background-color: rgb(255, 244, 220);
+}
+.main_menu li:hover .dropdown .day:hover .sub_dropdown1 a{
+    color: brown;
+}
+.main_menu li:hover .dropdown .day:hover .sub_dropdown1 li:hover a{
+    color: rgb(255, 255, 255);
+}
+.main_menu li:hover .dropdown .night:hover .sub_dropdown2 li:hover a{
+    color: rgb(255, 255, 255);
+}
+.day:hover .sub_dropdown1{
+    display: block;
+}
+.dropdown .day{
+    position: relative;
+}
+.main_menu li:hover .dropdown .night:hover .sub_dropdown2 a{
+    color: brown;
+}
+.sub_dropdown2{
+    display: none;
+    position: absolute;
+    top: 0px;
+    left: 131px;
+    width: 180px;
+    text-align: center;
+    background-color: rgb(255, 244, 220);
+}
+.night:hover .sub_dropdown2{
+    display: block;
+}
+.dropdown .night{
+    position: relative;
+}
+.slider{
+    background: url(img/slider1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container{
+    position: relative;
+}
+.slider_content h1{
+    position: absolute;
+    font-family: ChildrenSans;
+    letter-spacing: 3px;
+    font-size: 70px;
+    color: #fff;
+    top: 400px;
+    left: 0;
+}
+.big{
+    font-size: 90px;
+    letter-spacing: 3px;
+}
+.mission{
+    font-family: ChildrenSans;
+    font-size: 40px;
+}
+.card_a{
+    background-color: rgb(255, 244, 220);
+    padding: 30px;
+    box-shadow: 2px 0px 20px 2px black;
+}
+.card_a .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card_a .container .contents{
+    width: 45%;
+}
+.card_a .container .contents .heading{
+    font-family: Wicked Mouse Demo;
+    color: #a52a2a;
+    font-size: 33px;
+    font-weight: 400;
+}
+.card_a .container .contents .pera{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #a52a2a;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.hand_puppet{
+    width: 50%;
+}
+.hand_puppet img{
+    border-radius: 20px;
+    transition: 0.5s;
+}
+.hand_puppet img:hover{
+    transform: rotate(3deg);
+}
+.normal{
+    margin-bottom: 40px;
+
+}
+.normal .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.normal .container .heading h2{
+    font-family: Geneva, Tahoma, sans-serif;
+    color: #a52a2a;
+    font-size: 32px;
+}
+.normal .container .pera p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #a52a2a;
+    font-size: 25px;
+}
+.wpc{
+
+    max-width: 80%;
+    margin: auto;
+    background-color: #0f0030cc;
+    padding: 15px;
+    box-shadow: 5px 5px 8px -3px #000000;
+    border-radius: 20px;
+}
+.normal1 .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.normal1 .container .heading h2{
+    font-family: Geneva, Tahoma, sans-serif;
+    color: #fff;
+    font-size: 32px;
+}
+.normal1 .container .pera p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e2ffe1;
+    font-size: 20px;
+}
+.wpcc{
+    max-width: 80%;
+    margin: auto;
+    background-color: rgba(104, 2, 96, 0.897);
+    padding: 15px;
+    box-shadow: 5px 5px 8px -3px #000000;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.wpcc:hover, .wpc:hover {
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+}
+@keyframes shake {
+    10%, 90% {
+        transform: translate3d(-1px, 0, 0);
+    }
+    
+    20%, 80% {
+        transform: translate3d(2px, 0, 0);
+    }
+    
+    30%, 50%, 70% {
+        transform: translate3d(-4px, 0, 0);
+    }
+    
+    40%, 60% {
+        transform: translate3d(4px, 0, 0);
+    }
+}
+h4{
+    color: #fff;
+}
+.card_b{
+    width: 100%;
+    height: 500px;
+    display: block;
+    padding-top: 80px;
+    background: url(img/Untitled-1.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card_c{
+    padding-top: 40pt;
+    padding-bottom: 40pt;
+    background-color: rgb(255, 244, 220);
+    box-shadow: 2px 0px 20px 0px black;
+    height: auto;
+}
+.card_c .container .tickets{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.card_c h2{
+    font-family: ChildrenSans;    
+    text-align: center;
+    font-size: 50px;
+    color: brown;
+    position: relative;
+    top: 10px;
+}
+.card_c h1{
+    font-family: Geneva, Tahoma, sans-serif;
+    font-size: 23px;  
+    text-align: center;
+    color: #fff;
+    position: relative;
+    top: 10px;
+}
+.title_ticket{
+    width: 200px;
+    height: 50px;
+    background-color: #f42f2f;
+    position: relative;
+    top:30px;
+    left: 50px;
+    border-radius: 20px;
+}
+.pera_tickets{
+    height: 400px;
+    width: 300px;
+    background-color: #001c33;
+    border-radius: 10px;
+}
+.pera_tickets p{
+    text-align: center;
+    font-family: cursive;
+    color: aquamarine;
+    padding-top: 60px;
+    line-height: 2;
+    transition: 1s;
+}
+.card_c .container .tickets:hover p{
+    font-size: 20px;
+}
+.cross{
+    color: rgb(255, 82, 82);
+}
+.button {
+    background-color: #fcc921; /* Green */
+    border: none;
+    font-family: Wicked Mouse Demo;
+    color: brown;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    border-radius: 3px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .port{
+      padding-top: 40px;
+      padding-bottom: 40px;
+  }
+  .card_d .container .port h1{
+    text-align: center;
+    font-family: ChildrenSans;
+    font-size: 50px;
+    color: brown;
+  }
+  .folio{
+    margin-top: 25px;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-gap: 10px;
+  }
+  .box{
+    background-color: teal;
+    
+  }
+  .box img{
+      max-width: 100%;
+      transition: .5s;
+  }
+  .box img:hover{
+    transform: scale(1.1);
+  }
+  .card_e{
+      padding-top: 40px;
+      background-color: #ffd9a8;
+      padding-bottom: 40px;
+      box-shadow: 2px 0px 20px 0px black;
+  }
+  .footer{
+      display: grid;
+  }
+  .conatct_us{
+      display: flex;
+      justify-content: space-between;
+  }
+  .footer_menu li a{
+      color: brown;
+  }
+  .contact_section p{
+    color: brown;
+    font-size: 20px;
+  }
+  .conatct_us h2{
+      color: brown;
+
+  }
+  .last_footer{
+      margin-top: 20px;
+      margin-bottom: 10px;
+  }
+  .last_footer p{
+    text-align: center;
+    color: brown;
+  }

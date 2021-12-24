@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dropdown Menu</title>
+    <link rel="shortcut icon" href="favicon-32x32.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+       @font-face {
+        font-family: ChildrenSans;
+        src: url(font/ChildrenSans.woff) ;
+        }
+       @font-face {
+        font-family: Wicked Mouse Demo;
+        src: url(font/WickedMouse.woff) ;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav class="navigation">
+                <div class="logo">
+                    <img src="furgleland.png" alt="">
+                </div>
+                <ul class="main_menu">
+                    <li class="home"><a href="#">Home</a></li>
+                    <li class="showtime"><a href="#">Show Time</a>
+                        <ul class="dropdown">
+                            <li class="day"><a href="#">Day</a>
+                                <ul class="sub_dropdown1">
+                                    <li><a href="#">9am-10am</a></li>
+                                    <li><a href="#">11am-12pm</a></li>
+                                    <li><a href="#">3pm-4pm</a></li>
+                                </ul>
+                            </li>
+                            <li class="night"><a href="#">Night</a>
+                                <ul class="sub_dropdown2">
+                                    <li><a href="#">7pm-8pm</a></li>
+                                    <li><a href="#">8.30pm-9.30pm</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Puppet</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <section class="slider">
+        <div class="container">
+            <div class="slider_content">
+                <h1>Welcome! <br> <span class="big"> To Our World</i></span></h1>
+            </div>
+        </div>
+    </section>
+    <div class="card_a">
+        <div class="container">
+            <div class="contents">
+                <p class="heading">
+                    <p class="heading"> <span class="mission">Mission:</span> <br> Educating students
+                    about peers with
+                    different abilities,
+                    tolerance, and diversity
+                </p>
+                <p class="pera">
+                    Kids on the Block uses interactive puppetry to
+                    teach students about disabilities. Informative and
+                    engaging skits show children with disabilities as 
+                    active participants of society. Students also have 
+                    the opportunity to participate in a question and 
+                    answer period at the end of each program.  
+                </p>
+            </div>
+            <div class="hand_puppet">
+                <img src="img/1.jpg" alt="puppet in teachers hands">
+            </div>
+        </div>
+    </div>
+    <div class="card_b">
+        <div class="normal">
+            <div class="container">
+                <div class="heading" style="width: 50%;">
+                    <h2>Program Goals & Impact</h2>
+                </div>
+                <div class="pera" style="padding-left: 100px;">
+                    <p>Feedback from educators confirmed to The Children's Institute that Kids on the Block continues to meet its two special needs assembly program goals.</p>
+                </div>
+            </div> 
+        </div>
+        <div class="wpc">
+            <div class="normal1">
+                <div class="container">
+                    <div class="heading" style="width: 40%;">
+                        <h2>Goal 1 </h2><br> <h4 style="font-family: Arial, Helvetica, sans-serif;"> UNDERSTANDING & ACCEPTANCE </h4>
+                    </div>
+                    <div class="pera" style="padding-left: 100px; width: 60%;">
+                        <p>Feedback from educators confirmed to The Children's Institute that Kids on the Block continues to meet its two special needs assembly program goals.</p>
+                    </div>
+                </div> 
+            </div>
+        </div>
+        <div class="wpcc">
+            <div class="normal1">
+                <div class="container">
+                    <div class="heading" style="width: 40%;">
+                        <h2>Goal 2 </h2><br> <h4 style="font-family: Arial, Helvetica, sans-serif;"> INTERACTIVE LEARNING EXPERIENCES </h4>
+                    </div>
+                    <div class="pera" style="padding-left: 100px; width: 60%;">
+                        <p>To provide learning experiences aligning with and supplementing academic standards in the subjects of health, social studies, and science.</p>
+                    </div>
+                </div> 
+            </div>
+        </div>
+    </div>
+    <div class="card_c">
+        <div class="container">
+            <h2>Show Tickets</h2>
+                <div class="tickets">
+                    <div class="silver">
+                        <div class="title_ticket">
+                            <h1>Basic</h1>
+                        </div>
+                        <div class="pera_tickets">
+                            <P>
+                                <i class="fas fa-check-circle"></i> Seat Row E and F 
+                                <br>
+                                <i class="fas fa-check-circle"></i> Pop Corn
+                                <br>
+                                <span class="cross"><i class="fas fa-times-circle"></i> Coffee
+                                <br>
+                                <i class="fas fa-times-circle"></i> Shomucha
+                                <br>
+                                <i class="fas fa-times-circle"></i> Sultani Items
+                                <br>
+                                <i class="fas fa-times-circle"></i> Dim porota 
+                                <br>
+                                <i class="fas fa-times-circle"></i> Alu bhaji 
+                                
+                            </P></span>
+                            <br>
+                            <button class="button">Order Now!</button>
+                        </div>
+                    </div>
+                    <div class="gold">
+                        <div class="title_ticket">
+                            <h1>Standerd</h1>
+                        </div>
+                        <div class="pera_tickets">
+                            <p>
+                                <i class="fas fa-check-circle"></i> Seat Row C and D
+                                <br>
+                                <i class="fas fa-check-circle"></i> Pop Corn
+                                <br>
+                                <i class="fas fa-check-circle"></i> Coffee
+                                <br>
+                                <i class="fas fa-check-circle"></i> Shomucha
+                                <br>
+                                <span class="cross"><i class="fas fa-times-circle"></i> Sultani Items
+                                <br>
+                                <i class="fas fa-times-circle"></i> Dim porota 
+                                <br>
+                                <i class="fas fa-times-circle"></i> Alu bhaji 
+                            </p></span>
+                            <br>
+                            <button class="button">Order Now!</button>
+                        </div>
+                    </div>
+                    <div class="platinam">
+                        <div class="title_ticket">
+                            <h1>Premium</h1>
+                        </div>
+                        <div class="pera_tickets">
+                            <p>
+                                <i class="fas fa-check-circle"></i> Seat Row A and B 
+                                <br>
+                                <i class="fas fa-check-circle"></i> Pop Corn
+                                <br>
+                                <i class="fas fa-check-circle"></i> Coffee
+                                <br>
+                                <i class="fas fa-check-circle"></i> Shomucha
+                                <br>
+                                <i class="fas fa-check-circle"></i> Sultani Items
+                                <br>
+                                <i class="fas fa-check-circle"></i> Dim porota 
+                                <br>
+                                <i class="fas fa-check-circle"></i> Alu bhaji
+                            </p>
+                            <br>
+                            <button class="button">Order Now!</button>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <div class="card_d">
+        <div class="container">
+            <div class="port">
+                <h1>Our Happy Faces</h1>
+                <div class="folio">
+                    <div class="box box1">
+                        <img src="img/2.png" alt="">
+                    </div>
+                    <div class="box box2">
+                        <img src="img/3.png" alt="">
+                    </div>
+                    <div class="box box3">
+                        <img src="img/4.png" alt="">
+                    </div>
+                    <div class="box box4">
+                        <img src="img/5.png" alt="">
+                    </div>
+                    <div class="box box5">
+                        <img src="img/6.png" alt="">
+                    </div>
+                    <div class="box box6">
+                        <img src="img/7.png" alt="">
+                    </div>
+                    <div class="box box7">
+                        <img src="img/8.png" alt="">
+                    </div>
+                    <div class="box box8">
+                        <img src="img/9.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card_e">
+        <div class="container">
+            <div class="conatct_us">
+                <div class="footer_menu">
+                    <h2>Customer Care</h2>
+                    <br>
+                    <ul>
+                        <li><a href="#">Help Center</a></li>
+                        <li><a href="#">Terms And Condition</a></li>
+                        <li><a href="#">Return And Refund</a></li>
+                        <li><a href="#">Policy</a></li>
+                        <li><a href="#">Promo Code</a></li>
+                    </ul>
+                </div>
+                <div class="contact_section">
+                    <h2>Follow Us</h2>
+                    <br>
+                    <p>
+                        <i class="fab fa-facebook"></i>
+                        &nbsp;
+                        <i class="fab fa-instagram"></i>
+                        &nbsp;
+                        <i class="fab fa-youtube"></i>
+                        &nbsp;
+                        <i class="fab fa-twitter"></i>
+                        &nbsp;
+                        <i class="fab fa-pinterest"></i>
+                    </p>    
+                </div>
+                <div class="map">
+                    <div class="location">
+                        <h2>Our Location</h2>
+                        <br>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1394.861068353994!2d127.81096645803075!3d36.38127005442419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35650fe0f00699d9%3A0x61b1af6f4cd56653!2s489-3%20Daeseong-ri%2C%20Cheongsan-myeon%2C%20Ogcheon%2C%20Chungcheongbuk-do%2C%20South%20Korea!5e1!3m2!1sen!2sbd!4v1640324657946!5m2!1sen!2sbd" width="500" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="last_footer">
+        <p>
+            All rights reserved <br>
+            Rezaul Karim Reza
+        </p>
+    </div>
+</body>
+</html>
