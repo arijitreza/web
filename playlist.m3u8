@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, P sports
-http://30.30.30.30/live/skyfeed1011/index.m3u8
+http://30.30.30.30/live/skyfeed2004/index.m3u8
+#EXTINF:-1, Star Sports HD
+http://30.30.30.30/live/skyfeed2002/index.m3u8
 #EXTINF:-1, Star Sports HD
 http://30.30.30.30/live/skyfeed1011/index.m3u8
 #EXTINF:-1,&PRIVE HD-Rs 19
