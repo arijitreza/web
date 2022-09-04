@@ -25,7 +25,7 @@ http://103.162.136.235:4500/play/a00f/index.m3u8
 http://103.162.136.235:4500/play/a00q/index.m3u8
 #EXTINF:-1,Comedy Central
 http://103.162.136.235:4500/play/a00b/index.m3u8
-#EXTINF:-1,Discovery HD
+#EXTINF:-1,Discovery HDd
 http://103.162.136.235:4500/play/a008/index.m3u8
 #EXTINF:-1,Discovery Kids
 http://103.162.136.235:4500/play/a01j/index.m3u8
