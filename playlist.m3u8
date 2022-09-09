@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1, P sports
-.bd
 https://cdn.castmax.live/hls/streamhd598.m3u8|Accept=*%2F*|Origin=https%3A%2F%2Fcastmax.live|Referer=https%3A%2F%2Fcastmax.live%2F|User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+11%3B+RMX2101+Build%2FRKQ1.201217.002%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F104.0.5112.97+Mobile+Safari%2F537.36
 #EXTINF:-1, Star Sports HD
 http://30.30.30.30/live/skyfeed2002/index.m3u8
