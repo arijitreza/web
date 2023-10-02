@@ -1,85 +1,55 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X4sjnCJ/image.png" group-title="BANGLA",INDIPENDENT TV
-https://natasha.dr-strange.workers.dev/WANDA.m3u8?key=STREAM-KING&token=premium&id=7604%7CUser-agent=IRON-MAN
+#EXTINF:-1 tvg-logo="https://storage.needpix.com/rsynced_images/one-706897_1280.jpg" group-title="BANGLA",1
+http://chanel.dekhaott.com/stersports1hd/index.fmp4.m3u8?token=7du8JE0_2OUbF0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b6qxNzm/image.png" group-title="BANGLA",GAZI TV
-https://natasha.dr-strange.workers.dev/WANDA.m3u8?key=STREAM-KING&token=premium&id=24342%7CUser-agent=IRON-MAN
+#EXTINF:-1 tvg-logo="https://storage.needpix.com/rsynced_images/two-706896_1280.jpg" group-title="BANGLA",2
+https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1696237554~exp=1696280754~acl=/*~data=45.61.146.183-WEB~hmac=aa57b86489a03ebad8dccc51106e7064c4e7aaee1fc9a41e00838354dd7e08aa
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5TDrmqQ/image.png" group-title="BANGLA",INDIPENDENT
-https://natasha.dr-strange.workers.dev/WANDA.m3u8?key=STREAM-KING&token=premium&id=11125%7CUser-agent=IRON-MAN
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/three-706895_1280.jpg" group-title="BANGLA",3
+https://m3u-editor.com/live/serve/msrsagar/947034532.m3u8%7Creferer=https://www.nolive.me/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cxT26GG/image.png" group-title="BANGLA",CHANNEL I
-https://natasha.dr-strange.workers.dev/WANDA.m3u8?key=STREAM-KING&token=premium&id=9759%7CUser-agent=IRON-MAN
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_1280.jpg" group-title="BANGLA",4
+https://m3u-editor.com:443/live/serve/msrsagar/947044750.m3u8%7Creferer=https://www.nolive.me/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jr1RhgL/image.png" group-title="BANGLA",MACHRANGA
-http://103.55.144.46/hls/masranga.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_1280.jpg" group-title="BANGLA",5
+http://176.119.29.52/live.ts?channelId=278&deviceMac=00:1A:79:6E:26:8C
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="BANGLA",SOMOY TV
-http://103.55.144.46/hls/somoy.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_1280.jpg" group-title="BANGLA",6
+https://sportsleading.online/live/stream_e1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jr1RhgL/image.png" group-title="BANGLA",BANGLA VISION
-http://103.55.144.46/hls/banglavision.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="BANGLA",7
+https://sportsleading.online/live/stream_e2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jr1RhgL/image.png" group-title="BANGLA",ATN
-http://103.55.144.46/hls/atn.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jr1RhgL/image.png" group-title="BANGLA",NAGARIC
-http://103.55.144.46/hls/nagorik.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jr1RhgL/image.png" group-title="BANGLA",DURANTA
-http://103.55.144.46/hls/duranta.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jr1RhgL/image.png" group-title="BANGLA",GAAN BANGLA
-http://103.55.144.46/hls/gb.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jr1RhgL/image.png" group-title="BANGLA",JAMUNA
-http://103.55.144.46/hls/jamuna.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jr1RhgL/image.png" group-title="BANGLA",KHOOSHBU
-http://103.55.144.46/hls/khushboo.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGcPzh4/image.png" group-title="KALKATA",SUN BANGLA
-http://103.55.144.46/hls/sunbangla.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y6gZ9K5/image.png" group-title="KALKATA",SONY AATH
-http://103.55.144.46/hls/Sony_Aath.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y6gZ9K5/image.png" group-title="KALKATA",ENTER10 BANGLA
-http://103.55.144.46/hls/enterr10.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y6gZ9K5/image.png" group-title="KALKATA",AKASH 8
-http://103.55.144.46/hls/akash.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y6gZ9K5/image.png" group-title="KALKATA",S BANGLA
-http://103.55.144.46/hls/sangeetbangla.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y6gZ9K5/image.png" group-title="KALKATA",STAR JALSHA
-http://103.55.144.46/hls/starjalsha.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y6gZ9K5/image.png" group-title="KALKATA",ZEEE BANGLA
-http://103.55.144.46/hls/zeebanglahd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y6gZ9K5/image.png" group-title="KALKATA",COLORS BANGLA
-http://103.55.144.46/hls/colorsbangla.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y6gZ9K5/image.png" group-title="KALKATA",STAR JALSHA MOVIES
-http://103.55.144.46/hls/jalshamovies.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y6gZ9K5/image.png" group-title="KALKATA",COLORS BANGLA CINAMA
-http://103.55.144.46/hls/colore-bangla-cinema.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y6gZ9K5/image.png" group-title="KALKATA",ZEE BANGLA CINAMA
-http://103.55.144.46/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/eight-706890_1280.jpg" group-title="BANGLA",8
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6rMZQyh/image.png" group-title="OTHER",TRAVELXP
-http://103.55.144.46/hls/travelxp.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
