@@ -7,10 +7,10 @@ https://natasha.dr-strange.workers.dev/WANDA.m3u8?key=STREAM-KING&token=premium&
 https://natasha.dr-strange.workers.dev/WANDA.m3u8?key=STREAM-KING&token=premium&id=24342%7CUser-agent=IRON-MAN
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TDrmqQ/image.png" group-title="BANGLA",INDIPENDENT
-http://103.55.144.46/hls/nexus.m3u8
+https://natasha.dr-strange.workers.dev/WANDA.m3u8?key=STREAM-KING&token=premium&id=11125%7CUser-agent=IRON-MAN
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cxT26GG/image.png" group-title="BANGLA",CHANNEL I
-http://103.55.144.46/hls/channeli.m3u8
+https://natasha.dr-strange.workers.dev/WANDA.m3u8?key=STREAM-KING&token=premium&id=9759%7CUser-agent=IRON-MAN
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jr1RhgL/image.png" group-title="BANGLA",MACHRANGA
 http://103.55.144.46/hls/masranga.m3u8
