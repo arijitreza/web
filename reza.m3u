@@ -4,22 +4,22 @@
 https://sportsleading.online/live/stream_e1.m3u8
 
 #EXTINF:-1 tvg-logo="https://storage.needpix.com/rsynced_images/two-706896_1280.jpg" group-title="BANGLA",2
-https://sportsleading.online/live/stream_e2.m3u8
+https://sportsleading.online/live/stream_e3.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/three-706895_1280.jpg" group-title="BANGLA",3
-http://10.16.100.213:8080/hls/tsports.m3u8
+https://sports.freesportstime.com/live/streamfreecric.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_1280.jpg" group-title="BANGLA",4.
-http://10.16.100.206:8080/hls/StarSports1HD.m3u8
+http://45.152.114.175/starhindiworld/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_1280.jpg" group-title="BANGLA",5
-https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimT9gOpM1YN5nh-cBbxrmIAo
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_1280.jpg" group-title="BANGLA",6
-http://37.49.225.145:8080/F27423/701147ca/261
+https://sltlivetestgcp.yuppcdn.net/aes/smil:eventtvaes.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="BANGLA",7
-http://37.49.225.145:8080/F27423/701147ca/269
+https://headlinessportsfoot.com/chunklist/hlsch23.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/eight-706890_1280.jpg" group-title="BANGLA",8
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8
@@ -37,10 +37,10 @@ https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8
 
 
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/484548020/photo/number-thirteen.jpg?s=612x612&w=0&k=20&c=bpVMhaNhWwkHy4OaHJbwuYq4suNNaqtyNrlDcToS0J8=" group-title="BANGLA",13
-https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimYeLR_KgnNBrm73267aWCe4
+https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimYeLR_KgnNBrm73267aWCe4/m3u8
 
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/484548022/photo/number-fourteen.jpg?s=612x612&w=0&k=20&c=48mikT81OssWLzWJn1tGt_Ubs4_JN5zyDGYiMBQkou4=" group-title="BANGLA",14
-https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimeFUVxwHpp0grHigSBbB9Ms
+https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimeFUVxwHpp0grHigSBbB9Ms/m3u8
 
 
 
