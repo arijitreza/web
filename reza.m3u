@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://storage.needpix.com/rsynced_images/one-706897_1280.jpg" group-title="BANGLA",zee bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://storage.needpix.com/rsynced_images/one-706897_1280.jpg" group-title="BANGLA",1
 https://sportsleading.online/live/stream_e1.m3u8
 
