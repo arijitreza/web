@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UcTclRY5rATb4jiyXMLfwVsTDCLSgdETDM6Ebgsj3NKULRMlntJ7mnX43f8HixdSJhmqHSRHfg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Disney India
-http://46.175.129.181:80/play/live.php?mac=00:1A:79:37:56:A1&stream=363799&extension=m3u8&play_token=HUyEPc6H4y
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="BANGLA",star jalsha
-http://46.175.129.181:80/play/live.php?mac=00:1A:79:37:56:A1&stream=364106&extension=m3u8&play_token=bf4JAjra9G
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKY09WbSzaX4m7k8Pmz9czzyjt97KQruyjgH1Hf_wA=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",zee bangla
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://storage.needpix.com/rsynced_images/one-706897_1280.jpg" group-title="BANGLA",1
 https://sportsleading.online/live/stream_e1.m3u8
 
@@ -34,10 +25,10 @@ https://headlinessportsfoot.com/chunklist/hlsch23.m3u8
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8
 
 #EXTINF:-1 tvg-logo="https://storage.needpix.com/rsynced_images/nine-706889_1280.jpg" group-title="BANGLA",9
-
+https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimYeLR_KgnNBrm73267aWCe4/m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/489/743/original/number-ten-10-red-number-png.png" group-title="BANGLA",10
-
+https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimeFUVxwHpp0grHigSBbB9Ms/m3u8
 
 #EXTINF:-1 tvg-logo="https://media.baamboozle.com/uploads/images/12846/1547569685_35287" group-title="BANGLA",11
 
@@ -46,10 +37,17 @@ https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8
 
 
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/484548020/photo/number-thirteen.jpg?s=612x612&w=0&k=20&c=bpVMhaNhWwkHy4OaHJbwuYq4suNNaqtyNrlDcToS0J8=" group-title="BANGLA",13
-https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimYeLR_KgnNBrm73267aWCe4/m3u8
 
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/484548022/photo/number-fourteen.jpg?s=612x612&w=0&k=20&c=48mikT81OssWLzWJn1tGt_Ubs4_JN5zyDGYiMBQkou4=" group-title="BANGLA",14
-https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimeFUVxwHpp0grHigSBbB9Ms/m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UcTclRY5rATb4jiyXMLfwVsTDCLSgdETDM6Ebgsj3NKULRMlntJ7mnX43f8HixdSJhmqHSRHfg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Disney India
+http://46.175.129.181:80/play/live.php?mac=00:1A:79:37:56:A1&stream=363799&extension=m3u8&play_token=HUyEPc6H4y
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="BANGLA",star jalsha
+http://46.175.129.181:80/play/live.php?mac=00:1A:79:37:56:A1&stream=364106&extension=m3u8&play_token=bf4JAjra9G
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKY09WbSzaX4m7k8Pmz9czzyjt97KQruyjgH1Hf_wA=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",zee bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
 
 
 
