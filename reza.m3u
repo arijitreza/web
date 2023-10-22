@@ -25,16 +25,16 @@ https://sky.hlsjs.ru/sky/premium368/tracks-v1a1/mono.m3u8|Referer=https://webliv
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8
 
 #EXTINF:-1 tvg-logo="https://storage.needpix.com/rsynced_images/nine-706889_1280.jpg" group-title="BANGLA",9
-https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimYeLR_KgnNBrm73267aWCe4/m3u8
+http://10.16.100.212:8080/hls/PtvSports.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/008/489/743/original/number-ten-10-red-number-png.png" group-title="BANGLA",10
-https://skywatch.club:8443/play/QAkHqYPACG3ZLU9YN1CimeFUVxwHpp0grHigSBbB9Ms/m3u8
+http://10.16.100.214:8080/hls/tsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.baamboozle.com/uploads/images/12846/1547569685_35287" group-title="BANGLA",11
-
+http://172.16.30.254/hls2/push-dex.m3u8
 
 #EXTINF:-1 tvg-logo="https://mysticalnumbers.com/wp-content/uploads/2012/07/Number-12-Meaning-Twelve.jpg" group-title="BANGLA",12
-
+http://172.16.30.254/hls2/push-dex-backup.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/484548020/photo/number-thirteen.jpg?s=612x612&w=0&k=20&c=bpVMhaNhWwkHy4OaHJbwuYq4suNNaqtyNrlDcToS0J8=" group-title="BANGLA",13
 
