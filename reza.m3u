@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://storage.needpix.com/rsynced_images/one-706897_1280.jpg" group-title="BANGLA",1
-https://sportsleading.online/live/streamfreecric.m3u8
+https://hls.streambtw.com/live/stream_e1.m3u8
 
 #EXTINF:-1 tvg-logo="https://storage.needpix.com/rsynced_images/two-706896_1280.jpg" group-title="BANGLA",2
-https://sportsleading.online/live/stream_e2.m3u8
+https://hls.streambtw.com/live/stream_e2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/three-706895_1280.jpg" group-title="BANGLA",3
-https://sports.freesportstime.com/live/streamfreecric.m3u8
+https://choopa.freesportstime.com/live/streamfreecric.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_1280.jpg" group-title="BANGLA",4.
 http://test-otv2.ftpbd.net/streams/110/index.m3u8
@@ -41,7 +41,7 @@ http://172.16.30.254/hls2/push-dex-backup.m3u8
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/484548022/photo/number-fourteen.jpg?s=612x612&w=0&k=20&c=48mikT81OssWLzWJn1tGt_Ubs4_JN5zyDGYiMBQkou4=" group-title="BANGLA",14
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UcTclRY5rATb4jiyXMLfwVsTDCLSgdETDM6Ebgsj3NKULRMlntJ7mnX43f8HixdSJhmqHSRHfg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Disney India
-http://46.175.129.181:80/play/live.php?mac=00:1A:79:37:56:A1&stream=363799&extension=m3u8&play_token=HUyEPc6H4y
+http://59.103.244.39:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="BANGLA",star jalsha
 http://46.175.129.181:80/play/live.php?mac=00:1A:79:37:56:A1&stream=364106&extension=m3u8&play_token=bf4JAjra9G
