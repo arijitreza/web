@@ -41,7 +41,7 @@ http://172.16.30.254/hls2/push-dex-backup.m3u8
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/484548022/photo/number-fourteen.jpg?s=612x612&w=0&k=20&c=48mikT81OssWLzWJn1tGt_Ubs4_JN5zyDGYiMBQkou4=" group-title="BANGLA",14
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UcTclRY5rATb4jiyXMLfwVsTDCLSgdETDM6Ebgsj3NKULRMlntJ7mnX43f8HixdSJhmqHSRHfg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Disney India
-http://59.103.244.39:8000/play/a00h/index.m3u8
+http://59.103.244.39:8000/play/a00h
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="BANGLA",star jalsha
 http://46.175.129.181:80/play/live.php?mac=00:1A:79:37:56:A1&stream=364106&extension=m3u8&play_token=bf4JAjra9G
