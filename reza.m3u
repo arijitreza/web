@@ -36,7 +36,11 @@ http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/111409
 
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/484548020/photo/number-thirteen.jpg?s=612x612&w=0&k=20&c=bpVMhaNhWwkHy4OaHJbwuYq4suNNaqtyNrlDcToS0J8=" group-title="BANGLA",13
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/id/484548022/photo/number-fourteen.jpg?s=612x612&w=0&k=20&c=48mikT81OssWLzWJn1tGt_Ubs4_JN5zyDGYiMBQkou4=" group-title="BANGLA",14
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg" group-title="BANGLA",
+http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg" group-title="BANGLA",
+http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UcTclRY5rATb4jiyXMLfwVsTDCLSgdETDM6Ebgsj3NKULRMlntJ7mnX43f8HixdSJhmqHSRHfg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Disney India
 http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246763
