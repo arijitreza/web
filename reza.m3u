@@ -194,67 +194,286 @@ http://113.212.111.246:8080/hls/col12.m3u8
 
 
 
-#EXTINF:-1,& Flix HD
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/1.jpg",& Flix HD
 http://103.132.181.118:82/play/a00x
-#EXTINF:-1,& Picture
-http://103.132.181.118:82/play/a01c
-#EXTINF:-1,& Picture HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/2.jpg",IN: & prive
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/49557
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/3.jpg",& Picture HD
 http://103.132.181.118:82/play/a01b
-#EXTINF:-1,Animal Planet HD
-http://103.132.181.118:82/play/a00w
-#EXTINF:-1,Color BAngla HD
-http://103.132.181.118:82/play/a008
-#EXTINF:-1,Colors HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/4.png",IN: 9X Jalwa
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/45465
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/5.jpg",IN: 9X Jhakaas
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/165802
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/6.jpg",IN: 9X Tashan
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/45455
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/7.jpg",IN: 9XM
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/45471
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/8.jpg",IN: B4U Movies
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1369
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/9.jpg",IN: B4U Music
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1368
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/10.jpg",Colors HD
 http://103.132.181.118:82/play/a00g
-#EXTINF:-1,Discovery HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/11.jpg",IN: Colors Cineplex
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/19741
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/12.png",IN: Colors Rishtey
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/49547
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/13.png",Animal Planet HD
+http://103.132.181.118:82/play/a00w
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/14.png",Discovery HD
 http://103.132.181.118:82/play/a007
-#EXTINF:-1,Enter 10 Bangla
-http://103.132.181.118:82/play/a00n
-#EXTINF:-1,Jalsha Movie SD
-http://103.132.181.118:82/play/a00o
-#EXTINF:-1,Jalsha Movies HD
-http://103.132.181.118:82/play/a004
-#EXTINF:-1,MN+ Movies
-http://103.132.181.118:82/play/a00t
-#EXTINF:-1,NAT GEO HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/15.jpg",IN: Discovery Science
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1363
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/16.jpg",NAT GEO HD
 http://103.132.181.118:82/play/a006
-#EXTINF:-1,PIX
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/17.jpeg",Enter 10 Bangla
+http://103.132.181.118:82/play/a00n
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/18.jpg",IN: History
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/82604
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/19.png",IN: Hungama TV
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/267168
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/20.jpg",IN: Mastiii
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/76958
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/21.png",MN+ Movies
+http://103.132.181.118:82/play/a00t
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/22.png",IN: MTV India
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/193647
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/23.jpg",IN: Music India
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1358
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/24.png",PIX
 http://103.132.181.118:82/play/a00y
-#EXTINF:-1,STar Gold HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/25.jpg",STar Gold HD
 http://103.132.181.118:82/play/a00j
-#EXTINF:-1,STar Movies HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/26.png",STar Movies HD
 http://103.132.181.118:82/play/a005
-#EXTINF:-1,Sony AATH
-http://103.132.181.118:82/play/a009
-#EXTINF:-1,Sony MAX HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/27.jpg",Sony MAX HD
 http://103.132.181.118:82/play/a00c
-#EXTINF:-1,Sony SET HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/28.jpg",IN: Sony Max 2
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/4862
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/29.png",Sony SET HD
 http://103.132.181.118:82/play/a00h
-#EXTINF:-1,Sony Sport Ten 2
-http://103.132.181.118:82/play/a00v
-#EXTINF:-1,Sony Sport ten 1
-http://103.132.181.118:82/play/a00b
-#EXTINF:-1,Sony Yay
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/30.png",IN: Sony BBC Earth
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/192995
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/31.jpg",IN: Sony Pal
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/193645
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/32.png",IN: Sony SAB
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1073
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/33.png",Sony Yay
 http://103.132.181.118:82/play/a00q
-#EXTINF:-1,Star Jalsha HD
-http://103.132.181.118:82/play/a001
-#EXTINF:-1,Star Plus HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/34.png",Sony Sport ten 1
+http://103.132.181.118:82/play/a00b
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/35.png",Sony Sport Ten 2
+http://103.132.181.118:82/play/a00v
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/37.png",IN: Star Gold 2
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/43919
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/36.png",IN: Star Gold Select
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/297547
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/38.png",Star Plus HD
 http://103.132.181.118:82/play/a00e
-#EXTINF:-1,Star Sport 1 HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/39.jpg",Star Sport 1 HD
 http://103.132.181.118:82/play/a00a
-#EXTINF:-1,Star Sport SEL 1 HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/40.png",IN: Star Sports 2
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/3631
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/41.jpg",IN: Star Sports 3
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/62584
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/42.jpg",Star Sport SEL 1 HD
 http://103.132.181.118:82/play/a00u
-#EXTINF:-1,Star Sport SEL 1 HD
-http://103.132.181.118:82/play/a00l
-#EXTINF:-1,Sun Bangla
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/43.jpg",IN: Star Sports Select 2
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/16619
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/44.jpg",Sun Bangla
 http://103.132.181.118:82/play/a00s
-#EXTINF:-1,UTV Action
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/45.jpg",IN: Travelxp
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/82636
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/46.jpg",UTV Action
 http://103.132.181.118:82/play/a00m
-#EXTINF:-1,Zee Bangla Cinema
-http://103.132.181.118:82/play/a00d
-#EXTINF:-1,Zee Bangla HD
-http://103.132.181.118:82/play/a00k
-#EXTINF:-1,Zee Cinema HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/47.png",IN: Zee Action
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1353
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/48.png",IN: Zee Café
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/49561
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/49.jpg",Zee Cinema HD
 http://103.132.181.118:82/play/a00i
-#EXTINF:-1,Zee Tv HD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/50.png",Zee Tv HD
 http://103.132.181.118:82/play/a00f
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/51.jpg",IN: Zing
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1347
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/arijitreza/web/main/prac/52.jpg",IN: Zoom
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/192069
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,PK: 8XM
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/82577
+
+#EXTINF:-1,PK: A Plus
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/49504
+
+#EXTINF:-1,PK: A Sports
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/295025
+
+#EXTINF:-1,PK: Aaj Entertainment
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/19748
+
+#EXTINF:-1,PK: ARY Digital Asia
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/49510
+
+#EXTINF:-1,PK: ARY Musik
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1398
+
+#EXTINF:-1,PK: ARY World
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/49494
+
+#EXTINF:-1,PK: ARY Zindagi
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1396
+
+#EXTINF:-1,PK: Bol Entertainment
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/49517
+
+#EXTINF:-1,PK: Dawat e Islami
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/299501
+
+#EXTINF:-1,PK: Discover Pakistan
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/267107
+
+#EXTINF:-1,PK: Express Entertainment
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/147052
+
+#EXTINF:-1,PK: Fazal TV
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/49600
+
+#EXTINF:-1,PK: Film World
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/82238
+
+#EXTINF:-1,PK: Filmax
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/197124
+
+#EXTINF:-1,PK: Geo Kahani
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1392
+
+#EXTINF:-1,PK: Geo Super
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/16626
+
+#EXTINF:-1,PK: Har Pal Geo
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/166028
+
+#EXTINF:-1,PK: Hidayat TV
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/193651
+
+#EXTINF:-1,PK: Hum TV
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1387
+
+#EXTINF:-1,PK: Madani Channel English
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/299481
+
+#EXTINF:-1,PK: Neo TV
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1383
+
+#EXTINF:-1,PK: PTV Global
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1382
+#EXTINF:-1,PK: PTV Home
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1381
+
+#EXTINF:-1,PK: PTV Sports
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/16633
+
+#EXTINF:-1,PK: Ten Sports
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/151863
+
+#EXTINF:-1,PK: Urdu 1
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1376
+
+#EXTINF:-1,PK: Zindagi TV
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1374
+
+
+
+
+
+
+
+
+
+#EXTINF:-1tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png",SA: Makkah TV
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/47622
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg/800px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png",SA: Quran TV
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/45028
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png",PK: Peace TV
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/287043
+
+#EXTINF:-1tvg-logo="https://www.observerbd.com/2016/07/10/1468151205.jpg",PK: Peace TV Urdu
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/157334
+
+#EXTINF:-1tvg-logo="https://yt3.googleusercontent.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s900-c-k-c0x00ffffff-no-rj",UK: BBC News
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/696
+
+#EXTINF:-1tvg-logo="https://yt3.googleusercontent.com/n5DRh94eycw6xGcOKTn6LKQwztTwaw24fXPniFTXA3VPgwJaiOFdBwJNtXRHYUf7OdEAk9upwH0=s900-c-k-c0x00ffffff-no-rj",UK: CNN
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/300230
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s900-c-k-c0x00ffffff-no-rj",AF: Al Jazeera
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/193815
+
