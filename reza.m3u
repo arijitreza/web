@@ -45,14 +45,38 @@ http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UcTclRY5rATb4jiyXMLfwVsTDCLSgdETDM6Ebgsj3NKULRMlntJ7mnX43f8HixdSJhmqHSRHfg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Disney India
 http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246763
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gr38zbb/image.png" group-title="Kids", Cartoon Network
+https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LpBLv2x/image.png" group-title="Kids", POGO
+https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jzpr8LY/image.png" group-title="Kids", Nick
+https://i.mjh.nz/PlutoTV/15ca673e0d0bd6c2689c94ce3-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SnPRPJs/image.png" group-title="Kids", Nick Jr.
+https://i.mjh.nz/PlutoTV/160f5fabf0721880007cd50e3-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p28RnCx/image.png" group-title="Kids", Discovery Kids
+https://i.mjh.nz/SamsungTVPlus/INBC15000054I.m3u8
+
 #EXTINF:-1 group-title="Popular TV Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png", Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KVMpR12/image.png" ,Jalsha Movies HD
+http://103.132.181.118:82/play/a004
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKY09WbSzaX4m7k8Pmz9czzyjt97KQruyjgH1Hf_wA=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",zee bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WgNz29v/image.png" ,ZEE BANGLA CINEMA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Bangladeshi",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jgY0Y6P/image.png" ,Color Bangla HD
+http://103.132.181.118:82/play/a008
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rbGDc8y/image.png" group-title="Bangladeshi",Ananda TV
 https://nayeem-parvez.pw/api/bioscope.m3u8?id=ananda-tv
