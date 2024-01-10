@@ -1,28 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://e0.365dm.com/tvlogos/channels/3838-Logo.png?U2t5IFNwb3J0cyBGb290YmFsbA==", Sky Sports Football UK
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-origin=https://weblivehdplay.ru/
-https://code.vthanhtivi.pw/getlink/daddylive/370/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhRX2gg/image.png" group-title="BANGLA",1
-https://hls.streambtw.com/live/stream_e1.m3u8
+https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xftKF83/image.png" group-title="BANGLA",2
-https://webudit.webhd.ru/lb/premium65/index.m3u8?%7Creferer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+https://247c.mrgamingstreams.com/mrgamingsscric.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vq6pH5d/image.png" group-title="BANGLA",3
-https://webudit.webhd.ru/lb/premium346/index.m3u8?%7Creferer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WggMyZK/image.png" group-title="BANGLA",4
-https://webudit.webhd.ru/lb/premium32/index.m3u8?%7Creferer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1104670&extension=ts&play_token=YPQP41Id8k
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pRT8nBX/image.png" group-title="BANGLA",5
-https://webudit.webhd.ru/lb/premium412/index.m3u8?%7Creferer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1104677&extension=ts&play_token=5hr8BcPhxO
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t255PXK/image.png" group-title="BANGLA",6
 https://webudit.webhd.ru/lb/premium370/index.m3u8?%7Creferer=https://olalivehdplay.ru/z.m3u8/&user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
