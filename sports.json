@@ -2,7 +2,7 @@
   {
   "logo": "https://www.cricexec.com/wp-content/uploads/2021/09/Willow-tv-logo.png",
   "name": "Bein sports 1",
-  "link": "https://tv.durbinlive.com/api/chd/cric.php?ts=https://abo.zcast720.com:8075/view/hls/yiNrcBHt3VjsSRTqw8Q40g/1704967815/skyscric.m3u8",
+  "link": "https://tv.durbinlive.com/api/chd/crichd.php?v=superspcric",
   "origin": "",
   "referrer": "https://bigcast.xyz/",
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
