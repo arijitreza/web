@@ -4,7 +4,7 @@
   "name": "Bein sports 1",
   "link": "https://tv.durbinlive.com/api/chd/crichd.php?v=superspcric",
   "origin": "",
-  "referrer": "https://bigcast.xyz/",
+  "referrer": "",
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
   "cookie": "",
   "drmScheme": "widevine",
