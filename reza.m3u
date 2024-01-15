@@ -40,11 +40,11 @@ http://sonyiptv.net:8080/shabir1122/002601/111409
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="Kids Cartoon",24/7 MOTU PATLU 01
 http://xtv.ooo:8080/214535413/121315126/307079
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: Rick And Morty" tvg-logo="" group-title="Kids Cartoon",24/7 Kids: Rick And Morty
-http://xtv.ooo:8080/214535413/121315126/301505
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: Rick And Morty" tvg-logo="https://w7.pngwing.com/pngs/396/63/png-transparent-rick-morty-illustration-rick-sanchez-morty-smith-rick-and-morty-season-3-television-show-adult-swim-rick-and-morty-television-child-face.png" group-title="Kids Cartoon",24/7 Kids: Rick And Morty
+http://sonyiptv.net:8080/shabir1122/002601/141943
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UcTclRY5rATb4jiyXMLfwVsTDCLSgdETDM6Ebgsj3NKULRMlntJ7mnX43f8HixdSJhmqHSRHfg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Disney India
-http://xtv.ooo:8080/214535413/121315126/167551
+http://sonyiptv.net:8080/shabir1122/002601/267820
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gr38zbb/image.png" group-title="Kids", Cartoon Network
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
