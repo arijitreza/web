@@ -1,0 +1,1073 @@
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06341bf3dd635e6ca5c71188d0210373:2c6d9ccbf866eee8c42dcf9c343f179b
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
+
+06341bf3dd635e6ca5c71188d0210373:2c6d9ccbf866eee8c42dcf9c343f179b
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",Star Gold HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e4332f746b453148b0bd0af4af4b68b:87f63eb612b43fc9fec8f6c0ed99261a
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd
+
+9e4332f746b453148b0bd0af4af4b68b:87f63eb612b43fc9fec8f6c0ed99261a
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",Star Sports Select 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b11dd25b629159868b77d5cb4cdd8129:c94e61642a251d2ca3c32588688c9dd8
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
+
+b11dd25b629159868b77d5cb4cdd8129:c94e61642a251d2ca3c32588688c9dd8
+
+#EXTINF:-1 group-title="TATAPLAY Bengali" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png",Jalsha Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=408595b72cba5a45b7c0afa142c41d93:778c2475628b8c5ee986c078a1cc3054
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_583/output/manifest.mpd
+
+408595b72cba5a45b7c0afa142c41d93:778c2475628b8c5ee986c078a1cc3054
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",Star Bharat HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbbc36a45c7a5ec4878e04c437853b09:ec2353b02f54483761d14567ecc15b60
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd
+
+bbbc36a45c7a5ec4878e04c437853b09:ec2353b02f54483761d14567ecc15b60
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png",Asianet Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d088817b519d58c491ea2bfa5833882e:d1881fe9c650458f7e272ed697bca0f3
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd
+
+d088817b519d58c491ea2bfa5833882e:d1881fe9c650458f7e272ed697bca0f3
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cbe293fdc385dac8c0d502b04f338e4:508a60ec650583798fa0214c364ae596
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd
+
+1cbe293fdc385dac8c0d502b04f338e4:508a60ec650583798fa0214c364ae596
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png",Star Maa HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2e9f21f36875ea7bc5d282e53ffdc22:9b1e1eddebcedb00c9b49f40e7b9d506
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifest.mpd
+
+b2e9f21f36875ea7bc5d282e53ffdc22:9b1e1eddebcedb00c9b49f40e7b9d506
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11816-j9kz224o-v1/imageContent-11816-j9kz224o-m1.png",Star Suvarna HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9fbca67252552d48ccf07589a980267:51b1d490d8e12f99fb3c863e2d5e3f8e
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/manifest.mpd
+
+c9fbca67252552d48ccf07589a980267:51b1d490d8e12f99fb3c863e2d5e3f8e
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png",Star Pravah HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ede0d7275045396bd3bb6540701cbf5:bbb0a23f1e77a1cd89de2328acb9b3ee
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/manifest.mpd
+
+7ede0d7275045396bd3bb6540701cbf5:bbb0a23f1e77a1cd89de2328acb9b3ee
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12038-j9o0554o-v2/imageContent-12038-j9o0554o-m2.png",Star Suvarna Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dfbe1b0f61255d9ae0a0d7be62d0d5d:0f0af671634019543b08c7978899c374
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_767/output/manifest.mpd
+
+9dfbe1b0f61255d9ae0a0d7be62d0d5d:0f0af671634019543b08c7978899c374
+
+#EXTINF:-1 group-title="TATAPLAY Bengali" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png",Star Jalsha HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52e49084f4e75343b9083db013c0d404:6fa825f105371f818616901b93f35c39
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd
+
+52e49084f4e75343b9083db013c0d404:6fa825f105371f818616901b93f35c39
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11553-j9julvag-v3/imageContent-11553-j9julvag-m6.png",Star Maa Gold
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df4e7190196c5f38b543ce5d447b301f:9d5d46126c470f7e43c45174d9cedff2
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd
+
+df4e7190196c5f38b543ce5d447b301f:9d5d46126c470f7e43c45174d9cedff2
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",Star Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc5ea952698553daaba85787001d6093:5287d9f823a246fdb0ecfee38f00a92a
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd
+
+bc5ea952698553daaba85787001d6093:5287d9f823a246fdb0ecfee38f00a92a
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png",Star Utsav
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ec91def75f05db9bb3a9f8fb2fe0d61:d74f478ce725b2af2d4eb10d9ba7ece9
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd
+
+2ec91def75f05db9bb3a9f8fb2fe0d61:d74f478ce725b2af2d4eb10d9ba7ece9
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a9e4204f3f8577ebf6e79b3b18573f8:78ca20d6f8be904eec61c0e9aca3c511
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
+
+6a9e4204f3f8577ebf6e79b3b18573f8:78ca20d6f8be904eec61c0e9aca3c511
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",Star Sports Select 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7641523ac8758e3b1e0df228719e145:5718543676df110d4b457725b7ab56ec
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd
+
+a7641523ac8758e3b1e0df228719e145:5718543676df110d4b457725b7ab56ec
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png",Star Maa Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f3a6cfbb27451dd9f281666c8e62d81:e97151109ec009f69fdf9053c01514d0
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd
+
+9f3a6cfbb27451dd9f281666c8e62d81:e97151109ec009f69fdf9053c01514d0
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",Star Vijay HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3100743f5e4550ea8c5e6813d0905db1:deb85f9b726b68407251cb63fbfedeaf
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd
+
+3100743f5e4550ea8c5e6813d0905db1:deb85f9b726b68407251cb63fbfedeaf
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png",Asianet HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=afa116dde11a5b0882404230854616be:6a5a388ef5dddd1e12f4ec583ac1843f
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd
+
+afa116dde11a5b0882404230854616be:6a5a388ef5dddd1e12f4ec583ac1843f
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png",Sony
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08e8faf8154953029ddb1b38766c2693:aac7a11acf23bf8b2ba3c83bb64a36f2
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/manifest.mpd
+
+08e8faf8154953029ddb1b38766c2693:aac7a11acf23bf8b2ba3c83bb64a36f2
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12080-j9obub60-v6/imageContent-12080-j9obub60-m6.png",Sony PIX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79bd4f6d8dc15dfbbfeca842597ac9f1:522ef61a195c33cff5958246e2c47e3d
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/manifest.mpd
+
+79bd4f6d8dc15dfbbfeca842597ac9f1:522ef61a195c33cff5958246e2c47e3d
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png",Sony HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=019109c38852565088802d20c74aef89:6d49d4256a3f9ed49309f820a1b9d339
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/manifest.mpd
+
+019109c38852565088802d20c74aef89:6d49d4256a3f9ed49309f820a1b9d339
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-551-j5ky7ufk-v5/imageContent-551-j5ky7ufk-m7.png",Sony BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b5424ce88395495af266140da0bbd63:8c8dd568d1ede15d2f4722a360a29f59
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_400/output/manifest.mpd
+
+9b5424ce88395495af266140da0bbd63:8c8dd568d1ede15d2f4722a360a29f59
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png",Sony Sports Ten 2 SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d39d37e73df95fab9f37f2520fa24982:6e5a14a91f1b108b482fd16481ce1feb
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/manifest.mpd
+
+d39d37e73df95fab9f37f2520fa24982:6e5a14a91f1b108b482fd16481ce1feb
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png",Sony SAB HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db6f1dbe0c005c2694914cca4791f6d5:8923ad5aed715a8bf4f78239e10496dc
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd
+
+db6f1dbe0c005c2694914cca4791f6d5:8923ad5aed715a8bf4f78239e10496dc
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png",Sony PAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b99991d837a5c5787a2b3984a7b92c9:5a0d6f8509cd77e9fc73caa834c37376
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_193/output/manifest.mpd
+
+0b99991d837a5c5787a2b3984a7b92c9:5a0d6f8509cd77e9fc73caa834c37376
+
+#EXTINF:-1 group-title="TATAPLAY Bengali" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png",Sony Aath
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d76a20252105f72babdace28e0a8217:8d7eecc23b34da5bd53c00ec0b08e4d3
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_285/output/manifest.mpd
+
+4d76a20252105f72babdace28e0a8217:8d7eecc23b34da5bd53c00ec0b08e4d3
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png",Set Max 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba0fcc9269df5b449d95911ce98f4c1d:f78eb60f3c3128328f78119510504206
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_199/output/manifest.mpd
+
+ba0fcc9269df5b449d95911ce98f4c1d:f78eb60f3c3128328f78119510504206
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png",Sony Sports Ten 3 SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d262391181150e9bb1c1fa3f86d7db8:ddb63e3e93d60ef3feea4cc1ecedfd05
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifest.mpd
+
+0d262391181150e9bb1c1fa3f86d7db8:ddb63e3e93d60ef3feea4cc1ecedfd05
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png",Set Max
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8638698a12e5764be2929a13b74bb32:f03dd9920c1b413a1d59610da4369c9d
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_198/output/manifest.mpd
+
+a8638698a12e5764be2929a13b74bb32:f03dd9920c1b413a1d59610da4369c9d
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png",Sony Sports Ten 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cc361e170845936aea7b95c6efb478e:dc78eab46264d457a5db0f0c429ce4a6
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd
+
+1cc361e170845936aea7b95c6efb478e:dc78eab46264d457a5db0f0c429ce4a6
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png",Sony PIX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89413479ba07590893320faf05a6b7fd:7296dc1f8842849c294e367fc2ae2038
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd
+
+89413479ba07590893320faf05a6b7fd:7296dc1f8842849c294e367fc2ae2038
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png",Sony Sports Ten 1 SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=35694821a95c5923801ab1ba3be8ddaf:9008ae2db813ee6d472ab81e613db74f
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/manifest.mpd
+
+35694821a95c5923801ab1ba3be8ddaf:9008ae2db813ee6d472ab81e613db74f
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png",Sony Sports Ten 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4428be7aacfb557492c7fa552c3ecbf1:fd86b49ad205dec6b52be48e174e5192
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd
+
+4428be7aacfb557492c7fa552c3ecbf1:fd86b49ad205dec6b52be48e174e5192
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png",Sony WAH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d17841cd03dd59088ad7f6cfe5cc72f6:4a9f98fe377d30fc9437cb610917294a
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/manifest.mpd
+
+d17841cd03dd59088ad7f6cfe5cc72f6:4a9f98fe377d30fc9437cb610917294a
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png",Set Max HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f2d4172d5f5cc0b82729526fc2e626:f02b12170101f60d99416a71fe669a12
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/manifest.mpd
+
+83f2d4172d5f5cc0b82729526fc2e626:f02b12170101f60d99416a71fe669a12
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",Sony SAB
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcf90127045f5edabc5d94a932f5c6fe:7371b5068aa09b691b1f60045f7b9659
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd
+
+fcf90127045f5edabc5d94a932f5c6fe:7371b5068aa09b691b1f60045f7b9659
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png",Sony Sports Ten 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c71dd63f411a5099844a73fbe850c9fd:6d99d08dd98ddbe01176e09eb77e0296
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
+
+c71dd63f411a5099844a73fbe850c9fd:6d99d08dd98ddbe01176e09eb77e0296
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",Sony BBC Earth HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adb47eb7405c59c49c50e8f096386124:07dc8f57e699ff4622083ab7435e776a
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_722/output/manifest.mpd
+
+adb47eb7405c59c49c50e8f096386124:07dc8f57e699ff4622083ab7435e776a
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png",Sony Sports Ten 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d8cc6ee3c9a5a82a0071779f351a9a5:1d4d52698080d453b032ca44277fd274
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/manifest.mpd
+
+7d8cc6ee3c9a5a82a0071779f351a9a5:1d4d52698080d453b032ca44277fd274
+
+#EXTINF:-1 group-title="TATAPLAY Kids" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png",Sony YAY!
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77de287e104b5c369d554be9364e8d36:122bb43d53b0461c0e4bba5954a40cb5
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd
+
+77de287e104b5c369d554be9364e8d36:122bb43d53b0461c0e4bba5954a40cb5
+
+#EXTINF:-1 group-title="TATAPLAY Kids" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",Super Hungama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50b6cc4817f9538c916ce2e119228160:203152151a139c700c7258e62a982ba7
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd
+
+50b6cc4817f9538c916ce2e119228160:203152151a139c700c7258e62a982ba7
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png",Zee Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8576c517301c5e9388595360dae8b086:710b91a868e5a04dc85610beaea09eb0
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/manifest.mpd
+
+8576c517301c5e9388595360dae8b086:710b91a868e5a04dc85610beaea09eb0
+
+#EXTINF:-1 group-title="TATAPLAY Kids" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png",Pogo Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01788c60ef0d5e7abb23d69527fad4cb:cf2c74d68a086f069201e47729c603b7
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd
+
+01788c60ef0d5e7abb23d69527fad4cb:cf2c74d68a086f069201e47729c603b7
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png",Zee Bangla Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7307750b9f705ec98a78949d9ea73da4:cce18d081a3cf7c24377a7828fd010b0
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_418/output/manifest.mpd
+
+7307750b9f705ec98a78949d9ea73da4:cce18d081a3cf7c24377a7828fd010b0
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png",Zee Anmol
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=164c0214a66956899071a13afbbe6eba:e2edfddfd3a89e532b054677c7dd4007
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_826/output/manifest.mpd
+
+164c0214a66956899071a13afbbe6eba:e2edfddfd3a89e532b054677c7dd4007
+
+#EXTINF:-1 group-title="TATAPLAY Kids" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",Cartoon Network Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37da44b2890a5445bae74e315802850c:85aef421289081f788d821782023e911
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd
+
+37da44b2890a5445bae74e315802850c:85aef421289081f788d821782023e911
+
+#EXTINF:-1 group-title="TATAPLAY Kids" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png",Sonic Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=966ce4ee21745f4bb811fcf61e76aefd:dc81ea8e682e5bf2f20c6538a941df1c
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd
+
+966ce4ee21745f4bb811fcf61e76aefd:dc81ea8e682e5bf2f20c6538a941df1c
+
+#EXTINF:-1 group-title="TATAPLAY Kids" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f27d053d83d5284859cdd8b26bb17e2:bc97ff69f0df081716889703b8210dfd
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
+
+2f27d053d83d5284859cdd8b26bb17e2:bc97ff69f0df081716889703b8210dfd
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png",Zee Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5279eed19efe5b31923808751e15bf2f:b8c009d49f1f0e48bade1551c874dac6
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_185/output/manifest.mpd
+
+5279eed19efe5b31923808751e15bf2f:b8c009d49f1f0e48bade1551c874dac6
+
+#EXTINF:-1 group-title="TATAPLAY Kids" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",CN HD Plus Eng
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f581424c14e35eee924f0a0b9d22c81c:3553f635fdb1b3f006d9aeb8ed7341eb
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd
+
+f581424c14e35eee924f0a0b9d22c81c:3553f635fdb1b3f006d9aeb8ed7341eb
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png",& Pictures
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=322779a4eb8a5203b65191857df90527:0c42f48dd2f3627a1887f82e1ca6f9db
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_203/output/manifest.mpd
+
+322779a4eb8a5203b65191857df90527:0c42f48dd2f3627a1887f82e1ca6f9db
+
+#EXTINF:-1 group-title="TATAPLAY Music" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png",Zing
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31e5aaabadd058219a9dcfd569df359d:5d0a77e0dbdd7e286f6be137f1da1035
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_843/output/manifest.mpd
+
+31e5aaabadd058219a9dcfd569df359d:5d0a77e0dbdd7e286f6be137f1da1035
+
+#EXTINF:-1 group-title="TATAPLAY Kids" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png",Nick HD Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d45505e1ed36506ca72b39eda106d33f:3933cbbc42fdd9b1f783de394da1a52d
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/manifest.mpd
+
+d45505e1ed36506ca72b39eda106d33f:3933cbbc42fdd9b1f783de394da1a52d
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12077-j9ob4gm0-v2/imageContent-12077-j9ob4gm0-m2.png",Zee TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2342753bf6f15002ac06026a21e903f2:8f8a83419e8bb98da71e76eb262b2e71
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/manifest.mpd
+
+2342753bf6f15002ac06026a21e903f2:8f8a83419e8bb98da71e76eb262b2e71
+
+#EXTINF:-1 group-title="TATAPLAY Bengali" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png",Zee Bangla HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46b028eb40cc5e94a6fe97e1f096ca99:b096cecab89be3b05fa1836ebc5d55f7
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_834/output/manifest.mpd
+
+46b028eb40cc5e94a6fe97e1f096ca99:b096cecab89be3b05fa1836ebc5d55f7
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/%26TV.jpg/revision/latest?cb=20161205163128",& TV SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e5a8fa3ec6b5d38b2a7a482c7f66b8b:aeb09116533ca4830b4c0d0f8162bf28
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_196/output/manifest.mpd
+
+7e5a8fa3ec6b5d38b2a7a482c7f66b8b:aeb09116533ca4830b4c0d0f8162bf28
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11090-j95hdh6o-v1/imageContent-11090-j95hdh6o-m1.png",Zee Anmol Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d20232c8711957da8279ae927de0fd79:9743da22c2be7b9f712232d1a78b74b7
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_387/output/manifest.mpd
+
+d20232c8711957da8279ae927de0fd79:9743da22c2be7b9f712232d1a78b74b7
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11024-j8yix4g8-v1/imageContent-11024-j8yix4g8-m1.png",Zee Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=393d8ec0cb0354d7bde916ad5fe13b55:ad0c623105a0b9049279abbe932e55a8
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_205/output/manifest.mpd
+
+393d8ec0cb0354d7bde916ad5fe13b55:ad0c623105a0b9049279abbe932e55a8
+
+#EXTINF:-1 group-title="TATAPLAY Kids" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png",Disney Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7ebcd866c3454cfac63a19ac6f615fa:08bad163c54efea5067f0d76371f4e34
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd
+
+d7ebcd866c3454cfac63a19ac6f615fa:08bad163c54efea5067f0d76371f4e34
+
+#EXTINF:-1 group-title="TATAPLAY Kids" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png",Nick Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e634a5ce531a58e99a39dbf578e2554b:542fcaab2d74aa14622d4a49a8e16c11
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_117/output/manifest.mpd
+
+e634a5ce531a58e99a39dbf578e2554b:542fcaab2d74aa14622d4a49a8e16c11
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png",Zee Anmol
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=164c0214a66956899071a13afbbe6eba:e2edfddfd3a89e532b054677c7dd4007
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_826/output/manifest.mpd
+
+164c0214a66956899071a13afbbe6eba:e2edfddfd3a89e532b054677c7dd4007
+
+#EXTINF:-1 group-title="TATAPLAY Kids" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png",Nick JR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac57647f8b5a510a8beb537e9132c860:82ac98801102664354ec503b9045748d
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd
+
+ac57647f8b5a510a8beb537e9132c860:82ac98801102664354ec503b9045748d
+
+#EXTINF:-1 group-title="TATAPLAY Kids" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png",Gubbare
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=413a414b01f5516888a210ca9f27ee63:cb668f72eedce99c2de68950c5572f63
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/manifest.mpd
+
+413a414b01f5516888a210ca9f27ee63:cb668f72eedce99c2de68950c5572f63
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png",& Pictures HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6c456fea9005610ae143c8585e550b7:54cb269f7c0ca0021e18de88a96bee13
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd
+
+a6c456fea9005610ae143c8585e550b7:54cb269f7c0ca0021e18de88a96bee13
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png",& TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52d409ed90e452529ca39742460629c3:90d006a6b1f4ff6a90f2b1654392c836
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/manifest.mpd
+
+52d409ed90e452529ca39742460629c3:90d006a6b1f4ff6a90f2b1654392c836
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png",Zee Bollywood
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=789cf63851a9569d95fabd10d9f0a80c:d99687cd5f8708b25661fb84c1a2cbdb
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_204/output/manifest.mpd
+
+789cf63851a9569d95fabd10d9f0a80c:d99687cd5f8708b25661fb84c1a2cbdb
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png",Zee TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39dce4c603d65b52846e788acdf75c93:e120b49128e87f7a93f33af56f6eba26
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd
+
+39dce4c603d65b52846e788acdf75c93:e120b49128e87f7a93f33af56f6eba26
+
+#EXTINF:-1 group-title="TATAPLAY Music" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1018-j5nhzme0-v1/imageContent-1018-j5nhzme0-m1.png",MTV Beats SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=befeacb18d22597487a50b7fa97a8372:5541c05f300ce84957406ee7de5307b4
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_402/output/manifest.mpd
+
+befeacb18d22597487a50b7fa97a8372:5541c05f300ce84957406ee7de5307b4
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png",Colors Cineplex Bollywood
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57b73db0324f5c43ba6f6fa27b81bac6:525b731b308b37946fb075253f53e00f
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1827/output/manifest.mpd
+
+57b73db0324f5c43ba6f6fa27b81bac6:525b731b308b37946fb075253f53e00f
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12053-j9o3yhko-v1/imageContent-12053-j9o3yhko-m1.png",Colors
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=35556ab5abb65968bfac208e2e358a43:e6554bd6a7d1b6837fcda66eca412610
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_101/output/manifest.mpd
+
+35556ab5abb65968bfac208e2e358a43:e6554bd6a7d1b6837fcda66eca412610
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png",Colors Infinity HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1d903dae3875b87a197523297f4679e:caf153b2ec1c465dd3f1ef6aa540df24
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_304/output/manifest.mpd
+
+b1d903dae3875b87a197523297f4679e:caf153b2ec1c465dd3f1ef6aa540df24
+
+#EXTINF:-1 group-title="TATAPLAY Music" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png",MTV Beats HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31f563ec4d055f04a7077e638b046de4:48b212aa70185c15446e5845a3c8d524
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_637/output/manifest.mpd
+
+31f563ec4d055f04a7077e638b046de4:48b212aa70185c15446e5845a3c8d524
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18305-jcqmvp7s-v1/imageContent-18305-jcqmvp7s-m1.png",Colors Infinity
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41e465c1ad035207b4590ff751a022d5:bf3bfc80b513d6bd2c1d59a0a29d2cab
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_202/output/manifest.mpd
+
+41e465c1ad035207b4590ff751a022d5:bf3bfc80b513d6bd2c1d59a0a29d2cab
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",Colors HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27f0719986765b7eba6c470d3e94080e:b0b4e8285738927455337631ba392f6a
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd
+
+27f0719986765b7eba6c470d3e94080e:b0b4e8285738927455337631ba392f6a
+
+#EXTINF:-1 group-title="TATAPLAY Bengali" tvg-chno="" tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png",Colors Bangla SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a46de2622e758e6a10d32c19f9b7e1d:d1010c7d446a218e3c03b91bccbbeb23
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/manifest.mpd
+
+1a46de2622e758e6a10d32c19f9b7e1d:d1010c7d446a218e3c03b91bccbbeb23
+
+#EXTINF:-1 group-title="TATAPLAY Music" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png",MTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=964c9bfefeec55779ae3434bee89e737:ec5e5ede292b1ed7965fe789d8463571
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_638/output/manifest.mpd
+
+964c9bfefeec55779ae3434bee89e737:ec5e5ede292b1ed7965fe789d8463571
+
+#EXTINF:-1 group-title="TATAPLAY Music" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-330-j5jl5on4-v2/imageContent-330-j5jl5on4-m2.png",MTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f54725ccd5ca5757a8a2e0e5ea599f16:ba4332fb435d92ddb39ca09119eb31b4
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/manifest.mpd
+
+f54725ccd5ca5757a8a2e0e5ea599f16:ba4332fb435d92ddb39ca09119eb31b4
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png",Colors Cineplex HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bc728f9dc845aabba707af7be0658eb:0cf3d19577e5c17a72f1bfda175d6e36
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_385/output/manifest.mpd
+
+1bc728f9dc845aabba707af7be0658eb:0cf3d19577e5c17a72f1bfda175d6e36
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-149-j5frd0jc-v2/imageContent-149-j5frd0jc-m2.png",Colors Cineplex
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=959afc32d74b5277bdee9a0eb606d6de:83450611994855a364a98b35f5cb50c7
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_384/output/manifest.mpd
+
+959afc32d74b5277bdee9a0eb606d6de:83450611994855a364a98b35f5cb50c7
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RIS_Thumbnail-v3/RIS_Thumbnail.png",Colors Rishtey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77f567e7dc6658d6addb0063d7305b0e:9969684b6a107c50c28a325b0cb6a57d
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_694/output/manifest.mpd
+
+77f567e7dc6658d6addb0063d7305b0e:9969684b6a107c50c28a325b0cb6a57d
+
+#EXTINF:-1 group-title="TATAPLAY Bengali" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CLRBANG_Thumbnail-v2/CLRBANG_Thumbnail.png",Colors Bangla Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f32602f7bb5b86b1e5094d98dd5b6d:0dc0c590be4ef7fec26591327cc14463
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1305/output/manifest.mpd
+
+40f32602f7bb5b86b1e5094d98dd5b6d:0dc0c590be4ef7fec26591327cc14463
+
+#EXTINF:-1 group-title="TATAPLAY Bengali" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png",Colors Bangla HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cdbb87e83c652578ad941322dd0aa2f:7368dc8a7a8fcf77a065c1b93df32374
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_489/output/manifest.mpd
+
+9cdbb87e83c652578ad941322dd0aa2f:7368dc8a7a8fcf77a065c1b93df32374
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png",History 18 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b516de365885b969979bc9f46c4232b:b52a588cb82b5b71aabee0ab0bcc147d
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/manifest.mpd
+
+2b516de365885b969979bc9f46c4232b:b52a588cb82b5b71aabee0ab0bcc147d
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png",National Geographic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=245272f4c59e5b5e952e4ede09a17a0a:537de767b5d64bdd1f02f7242c667f2c
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_113/output/manifest.mpd
+
+245272f4c59e5b5e952e4ede09a17a0a:537de767b5d64bdd1f02f7242c667f2c
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8017-j7a4nf20-v1/imageContent-8017-j7a4nf20-m1.png",Epic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea55c9de88f75ec48fa660b696477103:4b6ee3e3b3a8782367222f53e6fe9355
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_194/output/manifest.mpd
+
+ea55c9de88f75ec48fa660b696477103:4b6ee3e3b3a8782367222f53e6fe9355
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11862-j9l2p61c-v1/imageContent-11862-j9l2p61c-m1.png",Travel XP HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e30d0c7294ea5bf9b6f2db3fd397969e:9afeafecaf89ec7963a46395b0af7a69
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_788/output/manifest.mpd
+
+e30d0c7294ea5bf9b6f2db3fd397969e:9afeafecaf89ec7963a46395b0af7a69
+
+#EXTINF:-1 group-title="TATAPLAY Music" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-475-j5jx44s8-v1/imageContent-475-j5jx44s8-m1.png",UTV Bindass
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a1dab14990530daa8d262795da2696:8f30638315744269b85c0b8f41ddc150
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_103/output/manifest.mpd
+
+e2a1dab14990530daa8d262795da2696:8f30638315744269b85c0b8f41ddc150
+
+#EXTINF:-1 group-title="TATAPLAY Music" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12030-j9nyctjk-v3/imageContent-12030-j9nyctjk-m5.png",VH1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f20ad1dc17e4551c9c59634cc45a512b:ec4a126d09e45d3d40260f3e166921d8
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_817/output/manifest.mpd
+
+f20ad1dc17e4551c9c59634cc45a512b:ec4a126d09e45d3d40260f3e166921d8
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-384-j5jpj9hc-v1/imageContent-384-j5jpj9hc-m1.png",Food Food
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0304779e74105b8fa2896d9670c06124:67b6a8fccadbf82393aad606ef13e064
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_154/output/manifest.mpd
+
+0304779e74105b8fa2896d9670c06124:67b6a8fccadbf82393aad606ef13e064
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png",Discovery World HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29fc18fed57050c6a957349ca58fc7c1:4e10c4cb90cd9f49e4540f0a3bdf1d17
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd
+
+29fc18fed57050c6a957349ca58fc7c1:4e10c4cb90cd9f49e4540f0a3bdf1d17
+
+#EXTINF:-1 group-title="TATAPLAY Music" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44228-jyzbtse0-v1/imageContent-44228-jyzbtse0-m1.png",ShowBox
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66b23e45fc7258c1998f46feba42b026:24b4c57bf56096f2d4f6f6762273122a
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_961/output/manifest.mpd
+
+66b23e45fc7258c1998f46feba42b026:24b4c57bf56096f2d4f6f6762273122a
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-745-j5l54bnc-v2/imageContent-745-j5l54bnc-m2.png",History 18
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e888fe48da554978fff9dd3103ec796:dc507298510b2edbb6d6c4e46499b38d
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_120/output/manifest.mpd
+
+2e888fe48da554978fff9dd3103ec796:dc507298510b2edbb6d6c4e46499b38d
+
+#EXTINF:-1 group-title="TATAPLAY Music" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png",Mastiii
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c3e65313fc455409060417ba69d7118:7815b9456dcbfb07a0fad558d0105115
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_279/output/manifest.mpd
+
+1c3e65313fc455409060417ba69d7118:7815b9456dcbfb07a0fad558d0105115
+
+#EXTINF:-1 group-title="TATAPLAY Music" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-946-j5mip6a0-v1/imageContent-946-j5mip6a0-m1.png",E24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00860c47faab5dd381c0fee33b634ca4:f1eb6da2f490d271cf47af7f060bca18
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_278/output/manifest.mpd
+
+00860c47faab5dd381c0fee33b634ca4:f1eb6da2f490d271cf47af7f060bca18
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png",Discovery Science
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=865fdba59a615b9b8bd27aee5c9a0a15:bb540dd8a376e58cbbb28266deb53140
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifest.mpd
+
+865fdba59a615b9b8bd27aee5c9a0a15:bb540dd8a376e58cbbb28266deb53140
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png",National Geographic HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f506b7e7efb1504ea2b72dfcbc9c810e:aabae3c84a5d1c5c8e51ca451b10daca
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
+
+f506b7e7efb1504ea2b72dfcbc9c810e:aabae3c84a5d1c5c8e51ca451b10daca
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png",National Geographic Wild HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d58f149e0e8753edbbb1ad18704d5204:d5eadfe5241c317c52d676092a751932
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifest.mpd
+
+d58f149e0e8753edbbb1ad18704d5204:d5eadfe5241c317c52d676092a751932
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png",Discovery Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82ef16e716555c93a67542fbb642b9fa:3bbe5c67a862dfbc20d978a4cb2b3f99
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd
+
+82ef16e716555c93a67542fbb642b9fa:3bbe5c67a862dfbc20d978a4cb2b3f99
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png",Discovery Turbo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea90862c38225601bc485c6b58c7970a:0786cbf259ac96e5bb17ea882f19121b
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_145/output/manifest.mpd
+
+ea90862c38225601bc485c6b58c7970a:0786cbf259ac96e5bb17ea882f19121b
+
+#EXTINF:-1 group-title="TATAPLAY Kids" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png",Discovery Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fb04a8b851b5b90b14b5400640ec533:9ce13b6d2fecd2c9f9899232163a41d9
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd
+
+4fb04a8b851b5b90b14b5400640ec533:9ce13b6d2fecd2c9f9899232163a41d9
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png",Animal Planet HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f43c71dda015c63a1f7b53bda6c0120:219061dfa01106e1b6de0582da2366cb
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd
+
+2f43c71dda015c63a1f7b53bda6c0120:219061dfa01106e1b6de0582da2366cb
+
+#EXTINF:-1 group-title="TATAPLAY Music" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-864-j5mava4o-v1/imageContent-864-j5mava4o-m1.png",Sangeet Bangla
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3be4a37a82c57759b0438b32cf4b594:4561770b946e56739be96f0c3447ead8
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_242/output/manifest.mpd
+
+e3be4a37a82c57759b0438b32cf4b594:4561770b946e56739be96f0c3447ead8
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11429-j9jqu3y0-v1/imageContent-11429-j9jqu3y0-m1.png",Fox Life HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0889c654504574982d7331ad5de8ff8:441eb116214cfcaf01219ee6102f5bc4
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_544/output/manifest.mpd
+
+b0889c654504574982d7331ad5de8ff8:441eb116214cfcaf01219ee6102f5bc4
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-438-j5jt26xc-v2/imageContent-438-j5jt26xc-m2.png",National Geographic Wild
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d99b9fb4059e5ebc8e1c1d5175e78665:78553b330607e182257f513880138c7c
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/manifest.mpd
+
+d99b9fb4059e5ebc8e1c1d5175e78665:78553b330607e182257f513880138c7c
+
+#EXTINF:-1 group-title="TATAPLAY Music" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png",B4U Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba38f0082ca0593dacf6310ce4c83dfc:a810680d5b5a6d0c4ed528e0dcb0004b
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_277/output/manifest.mpd
+
+ba38f0082ca0593dacf6310ce4c83dfc:a810680d5b5a6d0c4ed528e0dcb0004b
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png",TLC HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61d5072223d25c8a8cc8ae4578b0e0fa:eeacd7e1d7e40e7a0d4005491fce3e47
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_780/output/manifest.mpd
+
+61d5072223d25c8a8cc8ae4578b0e0fa:eeacd7e1d7e40e7a0d4005491fce3e47
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-453-j5jtup5s-v2/imageContent-453-j5jtup5s-m2.png",TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7abaeea182ea5b7f921082de11567a0c:e82c332d97c90a7263187f6782e7201e
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/manifest.mpd
+
+7abaeea182ea5b7f921082de11567a0c:e82c332d97c90a7263187f6782e7201e
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-157-j5frd4e8-v1/imageContent-157-j5frd4e8-m1.png",Travel XP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=279cc371445c54738d97303c19b76676:3a5169ed45b1f90b7f697e85d511a147
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_366/output/manifest.mpd
+
+279cc371445c54738d97303c19b76676:3a5169ed45b1f90b7f697e85d511a147
+
+#EXTINF:-1 group-title="TATAPLAY Knowledge" tvg-chno="" tvg-id="ts130" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-432-j5jsx754-v4/imageContent-432-j5jsx754-m4.png",Animal Planet SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f9452d01012567a9fc86bd160955e68:1311c77e7276a165b1a921344dd41738
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manifest.mpd
+
+2f9452d01012567a9fc86bd160955e68:1311c77e7276a165b1a921344dd41738
+
+#EXTINF:-1 group-title="TATAPLAY Music" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png",Zoom
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a7b1705d4ee5eb6a9a3f6546e5d3fb4:c8649f8481fc0aabd3de734572ce8e0b
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_164/output/manifest.mpd
+
+3a7b1705d4ee5eb6a9a3f6546e5d3fb4:c8649f8481fc0aabd3de734572ce8e0b
+
+#EXTINF:-1 group-title="TATAPLAY Music" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png",9X Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00fbeecf80075f3884b8fc5a65f08710:ef04c2fd067aef77c2674b6e68e5c11b
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_201/output/manifest.mpd
+
+00fbeecf80075f3884b8fc5a65f08710:ef04c2fd067aef77c2674b6e68e5c11b
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43104-jxzls8yw-v2/imageContent-43104-jxzls8yw-m2.png",B4U Kadak
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=922cbbf005095081870b9a073efd7958:f552f9186a04cefc5439708f707593d9
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/manifest.mpd
+
+922cbbf005095081870b9a073efd7958:f552f9186a04cefc5439708f707593d9
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67799-kx7m7rhc-v1/imageContent-67799-kx7m7rhc-m2.png",Manoranjan Grand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8ba66a05fea5150a56971e065b61c14:2ef50e4780e583587b795023f5903fcb
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1793/output/manifest.mpd
+
+c8ba66a05fea5150a56971e065b61c14:2ef50e4780e583587b795023f5903fcb
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png",Movies Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=caa69df483765e0189cf7840be803728:f9438d372e2924ac80281ef647ead352
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_235/output/manifest.mpd
+
+caa69df483765e0189cf7840be803728:f9438d372e2924ac80281ef647ead352
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-771-j5m3ayw0-v4/imageContent-771-j5m3ayw0-m4.png",Cinema TV India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bfde6e6987459b0bfb7a61b2d53dc78:e82655da1a87bc87b3618fdc92f0f4dc
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_357/output/manifest.mpd
+
+9bfde6e6987459b0bfb7a61b2d53dc78:e82655da1a87bc87b3618fdc92f0f4dc
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png",Goldmines
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e1248474d725556bc38748845fd4d13:aa8a2fbac3e41efceb10d26bf1db1bb3
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_1118/output/manifest.mpd
+
+0e1248474d725556bc38748845fd4d13:aa8a2fbac3e41efceb10d26bf1db1bb3
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DHAMB4U_Thumbnail-v2/DHAMB4U_Thumbnail.png",Dhamaka Movies B4U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b59312af359752d88ba34b8b4c668dd8:2760333588735a6246f79840550193fe
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1856/output/manifest.mpd
+
+b59312af359752d88ba34b8b4c668dd8:2760333588735a6246f79840550193fe
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-826-j5m9kx5c-v1/imageContent-826-j5m9kx5c-m1.png",MN+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6db394e030658fd866dd2970c90b596:1b6d0d464f632b10dfa3eb4f06c7a04b
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_259/output/manifest.mpd
+
+c6db394e030658fd866dd2970c90b596:1b6d0d464f632b10dfa3eb4f06c7a04b
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png",Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3759fa16c5695eb198af6746d52b11d8:9549095a04d81def9a48d6d02340b1c9
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/manifest.mpd
+
+3759fa16c5695eb198af6746d52b11d8:9549095a04d81def9a48d6d02340b1c9
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png",MNX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd35dd47a908574b9b154aaef83284d3:4dfe810f7348318d32b4535cd0a3dbf4
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/manifest.mpd
+
+fd35dd47a908574b9b154aaef83284d3:4dfe810f7348318d32b4535cd0a3dbf4
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ABZYMovies_Thumbnail-v1/ABZYMovies_Thumbnail.png",ABZY Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85ec1136fa29567fb2c838f28cb55364:8dc415590cd3e8f56d5f9faa987c6d95
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1917/output/manifest.mpd
+
+85ec1136fa29567fb2c838f28cb55364:8dc415590cd3e8f56d5f9faa987c6d95
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43106-jxzlt6x4-v2/imageContent-43106-jxzlt6x4-m7.png",Manoranjan TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd74163737fc58d887de85729d07522a:fa3b66ff6706a80642579a9458858d42
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_956/output/manifest.mpd
+
+bd74163737fc58d887de85729d07522a:fa3b66ff6706a80642579a9458858d42
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62150-knicubns-v2/imageContent-62150-knicubns-m2.png",Pasand
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=261c03ed199153818384f63d870d1c55:0e45c85338cd09f2728f0cfbb2cfe30e
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/manifest.mpd
+
+261c03ed199153818384f63d870d1c55:0e45c85338cd09f2728f0cfbb2cfe30e
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-751-j5l5kb9k-v3/imageContent-751-j5l5kb9k-m3.png",Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab4261cc69a459898be51c0078ce4566:8575df61591b3d419aad729113df1e64
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_236/output/manifest.mpd
+
+ab4261cc69a459898be51c0078ce4566:8575df61591b3d419aad729113df1e64
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11263-j9j1tch4-v2/imageContent-11263-j9j1tch4-m5.png",BFLIX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4567c4f7281f5fbeb92892e9a32dc81f:84ea55431dae8e543a13d60b9d93c0a2
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_472/output/manifest.mpd
+
+4567c4f7281f5fbeb92892e9a32dc81f:84ea55431dae8e543a13d60b9d93c0a2
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1017-j5ngpo2g-v1/imageContent-1017-j5ngpo2g-m1.png",MNX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=990088911ce351c6801b56574565f14e:f64682af08dafbd5321a7c2004b0bea7
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/manifest.mpd
+
+990088911ce351c6801b56574565f14e:f64682af08dafbd5321a7c2004b0bea7
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png",B4U Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca0c9047ff71521891338c7c17c770dd:0c874793f21ba3105edcff25260f6058
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd
+
+ca0c9047ff71521891338c7c17c770dd:0c874793f21ba3105edcff25260f6058
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png",Sports 18 - 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b214085d8ec54868f6626f70cb9745c:82beab718460390d93e6f4f64423e729
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd
+
+1b214085d8ec54868f6626f70cb9745c:82beab718460390d93e6f4f64423e729
+
+#EXTINF:-1 group-title="TATAPLAY Bengali" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-267-j5j8x17s-v1/imageContent-267-j5j8x17s-m2.png",Akash Aath
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=252bcb79d2ee505588c8ecaffddf03c1:62ec5d8a5885f3c666ce7185f54cb145
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_210/output/manifest.mpd
+
+252bcb79d2ee505588c8ecaffddf03c1:62ec5d8a5885f3c666ce7185f54cb145
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11200-j9i4gzig-v3/imageContent-11200-j9i4gzig-m4.png",WoW Cinema One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef275ba8e785582591143825a74e11b5:0d5424d212dad901a4f97484907f7d3f
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_824/output/manifest.mpd
+
+ef275ba8e785582591143825a74e11b5:0d5424d212dad901a4f97484907f7d3f
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png",Sports 18 - 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192dd5f0779d5983a3aa18276a9fb719:b372ee0b282e2bcaad31702289cb338f
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd
+
+192dd5f0779d5983a3aa18276a9fb719:b372ee0b282e2bcaad31702289cb338f
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11266-j9j2spmg-v1/imageContent-11266-j9j2spmg-m1.png",Big Magic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb91f808de855a648f6071f6f6b9bbf4:70a5971f191892e80d6d234d60ba7224
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_476/output/manifest.mpd
+
+bb91f808de855a648f6071f6f6b9bbf4:70a5971f191892e80d6d234d60ba7224
+
+#EXTINF:-1 group-title="TATAPLAY News" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-789-j5m5m0uw-v1/imageContent-789-j5m5m0uw-m1.png",Al jazeera
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f79d6b1f691258f98f41a009df426914:a3323b1f362b6aa1f88857c227de45d0
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_187/output/manifest.mpd
+
+f79d6b1f691258f98f41a009df426914:a3323b1f362b6aa1f88857c227de45d0
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SIDGL_Thumbnail-v1/SIDGL_Thumbnail.png",Sidharth GOLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=059b218565c959ffa1d190058ff10648:973132553ccc56e4582fc3127eac8375
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1952/output/manifest.mpd
+
+059b218565c959ffa1d190058ff10648:973132553ccc56e4582fc3127eac8375
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52856-k984c4vc-v1/imageContent-52856-k984c4vc-m1.png",1Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4f643b8a8bf5306920ef9f1b0c6f12b:818725595f79f91c47848147b1e0b0ca
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_1110/output/manifest.mpd
+
+e4f643b8a8bf5306920ef9f1b0c6f12b:818725595f79f91c47848147b1e0b0ca
+
+#EXTINF:-1 group-title="TATAPLAY Bengali" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9-j5f6oezc-v1/imageContent-9-j5f6oezc-m1.png",Ruposhi Bangla
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25b34d6e91285477b3ca409702ba7520:a4ba7f866a480e222e548a57f81f5b06
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_284/output/manifest.mpd
+
+25b34d6e91285477b3ca409702ba7520:a4ba7f866a480e222e548a57f81f5b06
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60986-klq1vs5s-v2/imageContent-60986-klq1vs5s-m5.png",Ishara TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf213daf5ef450948d303632374957e8:17f0ed805c2a5cad16c1c33271d8dcab
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd
+
+bf213daf5ef450948d303632374957e8:17f0ed805c2a5cad16c1c33271d8dcab
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43899-jyofyk1s-v4/imageContent-43899-jyofyk1s-m4.png",Tata Play Bollywood Premier
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f16aa47bcd1a56ccaab70f7c5541fe53:564b6f8f3774919bf1d832d8a267d20f
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_792/output/manifest.mpd
+
+f16aa47bcd1a56ccaab70f7c5541fe53:564b6f8f3774919bf1d832d8a267d20f
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-158-j5frd560-v2/imageContent-158-j5frd560-m3.png",Dangal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6f43a19d4e95776927743a80d5b518f:7a3e0bf57d56f66b0290e850bc03ff27
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_351/output/manifest.mpd
+
+d6f43a19d4e95776927743a80d5b518f:7a3e0bf57d56f66b0290e850bc03ff27
+
+#EXTINF:-1 group-title="TATAPLAY Bengali" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png",Enterr10 Bangla
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c72f370afa5ad9aea3f0abeb498d29:cefca92908b0d384f175a574e0f36125
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_978/output/manifest.mpd
+
+27c72f370afa5ad9aea3f0abeb498d29:cefca92908b0d384f175a574e0f36125
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11296-j9j5ux7s-v2/imageContent-11296-j9j5ux7s-m3.png",Comedy Central HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2e7098800c356869596c5037127e193:69b74402766f55ae3afc2ae2f76bba78
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_494/output/manifest.mpd
+
+c2e7098800c356869596c5037127e193:69b74402766f55ae3afc2ae2f76bba78
+
+#EXTINF:-1 group-title="TATAPLAY Bengali" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27017-jjo92wyg-v1/imageContent-27017-jjo92wyg-m1.png",Khusboo Bangla
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b0a3d9953aa5076a89ebd2fc693fffd:21f678ec7e5386ee75cc1c5735a068ba
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_597/output/manifest.mpd
+
+3b0a3d9953aa5076a89ebd2fc693fffd:21f678ec7e5386ee75cc1c5735a068ba
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SHEUM_Thumbnail-v2/SHEUM_Thumbnail.png",Shemaroo Umang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f3688f2deb5b01b2595cdecaf2daab:642d94982f7dccdc2f5f31a3f01b0177
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1865/output/manifest.mpd
+
+24f3688f2deb5b01b2595cdecaf2daab:642d94982f7dccdc2f5f31a3f01b0177
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11293-j9j5u4o0-v3/imageContent-11293-j9j5u4o0-m2.png",Comedy Central
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=015cbab8373f559683a7fbf283ba8d17:cb511be247045a8a0e68f6e7d6758526
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_493/output/manifest.mpd
+
+015cbab8373f559683a7fbf283ba8d17:cb511be247045a8a0e68f6e7d6758526
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v4/imageContent-798-j5m7esnc-m11.png",Dangal 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3945b37fce5b5676ac516da6d836979a:d6c365bcf3aec68084b57f4cd8f2452f
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_358/output/manifest.mpd
+
+3945b37fce5b5676ac516da6d836979a:d6c365bcf3aec68084b57f4cd8f2452f
+
+#EXTINF:-1 group-title="TATAPLAY News" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9031-j7u3nz6w-v1/imageContent-9031-j7u3nz6w-m1.png",Zee 24 Ghanta
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40d1153d3bf655f19ddbcc9ecbe87c74:87e6824b88039b60743514e1c7ba5942
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_419/output/manifest.mpd
+
+40d1153d3bf655f19ddbcc9ecbe87c74:87e6824b88039b60743514e1c7ba5942
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png",Eurosports HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccaf3c1207e2565085abb5ecdb238bd9:d69e6d34b020902444743fe58d8262c9
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd
+
+ccaf3c1207e2565085abb5ecdb238bd9:d69e6d34b020902444743fe58d8262c9
+
+#EXTINF:-1 group-title="TATAPLAY Sports" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png",Eurosports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=455d533d69f35c35aa0853e6212bc2e7:9c37476f7d577509aa6af2f5ce09c917
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/manifest.mpd
+
+455d533d69f35c35aa0853e6212bc2e7:9c37476f7d577509aa6af2f5ce09c917
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RPCHK_Thumbnail-v2/RPCHK_Thumbnail.png",Raapchik
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d5d23eb36965184b066bd63ce2023f3:9cdeae61faf597a64d97e0f1b8dece31
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1947/output/manifest.mpd
+
+8d5d23eb36965184b066bd63ce2023f3:9cdeae61faf597a64d97e0f1b8dece31
+
+#EXTINF:-1 group-title="TATAPLAY Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11293-j9j5u4o0-v3/imageContent-11293-j9j5u4o0-m2.png",Comedy Central
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=015cbab8373f559683a7fbf283ba8d17:cb511be247045a8a0e68f6e7d6758526
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_493/output/manifest.mpd
+
+015cbab8373f559683a7fbf283ba8d17:cb511be247045a8a0e68f6e7d6758526
+
+#EXTINF:-1 group-title="TATAPLAY Movies" tvg-chno="" tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png",& Xplor HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02b91cc72d1a531a9279df7afc34d596:d8183557842e0c3e991d0bd9e44ee0f8
+https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1963/output/manifest.mpd
+
+02b91cc72d1a531a9279df7afc34d596:d8183557842e0c3e991d0bd9e44ee0f8
+
+
+
