@@ -2,22 +2,22 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhRX2gg/image.png" group-title="BANGLA",1
-https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
+http://watchindia.net:8880/live/68601/37511/1067.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xftKF83/image.png" group-title="BANGLA",2
-https://247c.mrgamingstreams.com/mrgamingsscric.m3u8
+http://watchindia.net:8880/live/68601/37511/2090.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vq6pH5d/image.png" group-title="BANGLA",3
-https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
+http://watchindia.net:8880/live/68601/37511/2143.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WggMyZK/image.png" group-title="BANGLA",4
 http://sonyiptv.net:8080/10001/10001/52094
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pRT8nBX/image.png" group-title="BANGLA",5
-http://sonyiptv.net:8080/shabir1122/002601/267871
+http://sonyiptv.net:8080/10001/10001/267871
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t255PXK/image.png" group-title="BANGLA",6
-http://sonyiptv.net:8080/shabir1122/002601/99833
+http://sonyiptv.net:8080/10001/10001/99833
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n05VwNN/image.png" group-title="BANGLA",7
 https://webudit.webhd.ru/lb/premium369/index.m3u8?%7Creferer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
@@ -41,10 +41,10 @@ http://sonyiptv.net:8080/10001/10001/247168
 http://xtv.ooo:8080/214535413/121315126/307079
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: Rick And Morty" tvg-logo="https://w7.pngwing.com/pngs/396/63/png-transparent-rick-morty-illustration-rick-sanchez-morty-smith-rick-and-morty-season-3-television-show-adult-swim-rick-and-morty-television-child-face.png" group-title="Kids Cartoon",24/7 Kids: Rick And Morty
-http://sonyiptv.net:8080/shabir1122/002601/141943
+http://sonyiptv.net:8080/10001/10001/141943
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UcTclRY5rATb4jiyXMLfwVsTDCLSgdETDM6Ebgsj3NKULRMlntJ7mnX43f8HixdSJhmqHSRHfg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Disney India
-http://sonyiptv.net:8080/shabir1122/002601/267820
+http://sonyiptv.net:8080/10001/10001/267820
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gr38zbb/image.png" group-title="Kids", Cartoon Network
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
@@ -56,28 +56,28 @@ https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 https://i.mjh.nz/PlutoTV/15ca673e0d0bd6c2689c94ce3-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Kids", Sonic Nickelodeon
-http://sonyiptv.net:8080/shabir1122/002601/267824
+http://sonyiptv.net:8080/10001/10001/267824
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p28RnCx/image.png" group-title="Kids", Discovery Kids
-http://sonyiptv.net:8080/shabir1122/002601/267822
+http://sonyiptv.net:8080/10001/10001/267822
 
 #EXTINF:-1 group-title="Popular TV Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png", Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KVMpR12/image.png" ,Jalsha Movies HD
-http://103.132.181.118:82/play/a004
+http://watchindia.net:8880/live/68601/37511/2282.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKY09WbSzaX4m7k8Pmz9czzyjt97KQruyjgH1Hf_wA=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",zee bangla
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
+http://watchindia.net:8880/live/68601/37511/2283.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WgNz29v/image.png" ,ZEE BANGLA CINEMA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+http://watchindia.net:8880/live/68601/37511/2287.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Bangladeshi",Sony Aath
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+http://watchindia.net:8880/live/68601/37511/2286.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jgY0Y6P/image.png" ,Color Bangla HD
-http://103.132.181.118:82/play/a008
+http://watchindia.net:8880/live/68601/37511/2284.ts
 
 
 
