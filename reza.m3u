@@ -11,25 +11,25 @@ http://watchindia.net:8880/live/68601/37511/2090.ts
 http://watchindia.net:8880/live/68601/37511/2143.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WggMyZK/image.png" group-title="BANGLA",4
-http://sonyiptv.net:8080/10001/10001/52094
+http://watchindia.net:8880/live/68601/37511/2186.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pRT8nBX/image.png" group-title="BANGLA",5
-http://sonyiptv.net:8080/10001/10001/267871
+http://watchindia.net:8880/live/68601/37511/2091.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t255PXK/image.png" group-title="BANGLA",6
-http://sonyiptv.net:8080/10001/10001/99833
+http://watchindia.net:8880/live/68601/37511/2174.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n05VwNN/image.png" group-title="BANGLA",7
-https://webudit.webhd.ru/lb/premium369/index.m3u8?%7Creferer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+http://sonyiptv.net:8080/waqasin/002810/247166
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xL2SjZw/image.png" group-title="BANGLA",8
-http://sonyiptv.net:8080/10001/10001/247171
+http://sonyiptv.net:8080/waqasin/002810/247171
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJNjCH9/image.png" group-title="BANGLA",9
-http://sonyiptv.net:8080/10001/10001/247170
+http://watchindia.net:8880/live/68601/37511/2325.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fQxKkpk/image.png" group-title="BANGLA",10
-http://sonyiptv.net:8080/10001/10001/247168
+http://sonyiptv.net:8080/waqasin/002810/247168
 
 #EXTINF:-1 tvg-logo="https://media.baamboozle.com/uploads/images/12846/1547569685_35287" group-title="BANGLA",11
 
@@ -44,7 +44,7 @@ http://xtv.ooo:8080/214535413/121315126/307079
 http://sonyiptv.net:8080/10001/10001/141943
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UcTclRY5rATb4jiyXMLfwVsTDCLSgdETDM6Ebgsj3NKULRMlntJ7mnX43f8HixdSJhmqHSRHfg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Disney India
-http://sonyiptv.net:8080/10001/10001/267820
+http://sonyiptv.net:8080/waqasin/002810/246763
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gr38zbb/image.png" group-title="Kids", Cartoon Network
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
@@ -56,10 +56,10 @@ https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 https://i.mjh.nz/PlutoTV/15ca673e0d0bd6c2689c94ce3-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Kids", Sonic Nickelodeon
-http://sonyiptv.net:8080/10001/10001/267824
+http://sonyiptv.net:8080/waqasin/002810/246767
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p28RnCx/image.png" group-title="Kids", Discovery Kids
-http://sonyiptv.net:8080/10001/10001/267822
+http://sonyiptv.net:8080/waqasin/002810/246765
 
 #EXTINF:-1 group-title="Popular TV Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png", Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
