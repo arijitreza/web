@@ -1,23 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/author/21_08_2020-ipl_logo_20650553.jpg?VersionId=1LSxOLdYkLhQ9JrbrV.LPIccow8TJohg" group-title="BANGLA",IPL 1
-http://51.159.80.43/in_se/index.m3u8?token=aa8f93748f0cbde61d349151602ce0bc
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/author/21_08_2020-ipl_logo_20650553.jpg?VersionId=1LSxOLdYkLhQ9JrbrV.LPIccow8TJohg" group-title="BANGLA",IPL 2
-http://51.159.13.107:8090/AstCric_TeamB/index.m3u8?token=c6902c474f304202bf4bc951b29a31e5
+http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/422
 
-#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/author/21_08_2020-ipl_logo_20650553.jpg?VersionId=1LSxOLdYkLhQ9JrbrV.LPIccow8TJohg" group-title="BANGLA",IPL 3
-http://51.159.13.107/foAus501/index.m3u8?token=13342c33da097badce58a6b84cedf1b1
-
-#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/author/21_08_2020-ipl_logo_20650553.jpg?VersionId=1LSxOLdYkLhQ9JrbrV.LPIccow8TJohg" group-title="BANGLA",IPL 4
-http://54.39.100.215/PK_ASOP/index.m3u8?token=35c433c6ad1a973251744fef8315cd38
-
-#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/author/21_08_2020-ipl_logo_20650553.jpg?VersionId=1LSxOLdYkLhQ9JrbrV.LPIccow8TJohg" group-title="BANGLA",IPL 5
-http://51.159.13.107/US_WilowFam/index.m3u8?token=56208c48f029c5bec5ef1bf13d622d97
-
-#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/author/21_08_2020-ipl_logo_20650553.jpg?VersionId=1LSxOLdYkLhQ9JrbrV.LPIccow8TJohg" group-title="BANGLA",IPL 6
-http://51.159.80.43/UK_SP_G/index.m3u8?token=6421b265fa567cd18b3cf2a7af7625d4
-
+#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/author/21_08_2020-ipl_logo_20650553.jpg?VersionId=1LSxOLdYkLhQ9JrbrV.LPIccow8TJohg" group-title="BANGLA",IPL 1
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1220324/master.m3u8
 
 
 
