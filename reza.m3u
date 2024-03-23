@@ -1,13 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/author/21_08_2020-ipl_logo_20650553.jpg?VersionId=1LSxOLdYkLhQ9JrbrV.LPIccow8TJohg" group-title="BANGLA",IPL 4K
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100298/uhd_akamai_atv_bkp_avc_eng_ipl_s1_m1220324/index.m3u8
+https://the-nayeemparvez.xyz/jiocinema/stream.m3u8?id=3926000&e=.m3u8|cookie=cf_chl_3=27a10b05f447d82;%20cf_clearance=iVYcMNl0Lv1gWbuI7ND5ciatH8DsKuyKAsImc.HGliY-1711188209-1.0.1.1-f7I_xqnGkPTBwmiCSlpvlSEJZHvZn3XJe0RxthKsjSyM8qlIb7hdrwknjOLJ7zSh8lsu4AmR8owzsoI51g._gw&referer=https://the-nayeemparvez.xyz&user-agent=Mozilla/5.0%20(Linux;%20Android%2011;%20Infinix%20X6812)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.6099.230%20Mobile%20Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/author/21_08_2020-ipl_logo_20650553.jpg?VersionId=1LSxOLdYkLhQ9JrbrV.LPIccow8TJohg" group-title="BANGLA",IPL HD
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1220324/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/author/21_08_2020-ipl_logo_20650553.jpg?VersionId=1LSxOLdYkLhQ9JrbrV.LPIccow8TJohg" group-title="BANGLA",IPL Bangla
-http://prod-sports-north-gm.jiocinema.com/hls/live/2109774/hd_akamai_androidmob_avc_ben_ipl_s1_m1220324/master.m3u8
+https://the-nayeemparvez.xyz/jiocinema/stream.m3u8?id=3927331&e=.m3u8|cookie=cf_chl_3=27a10b05f447d82;%20cf_clearance=iVYcMNl0Lv1gWbuI7ND5ciatH8DsKuyKAsImc.HGliY-1711188209-1.0.1.1-f7I_xqnGkPTBwmiCSlpvlSEJZHvZn3XJe0RxthKsjSyM8qlIb7hdrwknjOLJ7zSh8lsu4AmR8owzsoI51g._gw&referer=https://the-nayeemparvez.xyz&user-agent=Mozilla/5.0%20(Linux;%20Android%2011;%20Infinix%20X6812)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.6099.230%20Mobile%20Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/author/21_08_2020-ipl_logo_20650553.jpg?VersionId=1LSxOLdYkLhQ9JrbrV.LPIccow8TJohg" group-title="BANGLA",IPL 1
 http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/422
