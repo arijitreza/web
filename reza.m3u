@@ -15,26 +15,47 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png", T Sports HD
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png", star sport 1
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D7:5F&stream=1104673&extension=ts&play_token=zjEKYlND1G&sn2=
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png", star sports 1
+http://xtv.ooo:8080/89998887/66600076/167575
 
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png", star sport 2
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D7:5F&stream=1104674&extension=ts&play_token=PyaSb8dQqW&sn2=
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png", star sports 2
+http://xtv.ooo:8080/89998887/66600076/167576
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryngSZ1J/ptvsports.jpg", PTV sports
+http://xtv.ooo:8080/89998887/66600076/220059
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDRoum_fljydrrcgXChrBl50SMRAiCJ1Oicg&s", ten sports
+http://xtv.ooo:8080/89998887/66600076/220060
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600280/1134.png", sky sport cricket
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D7:5F&stream=1104668&extension=ts&play_token=huYa7aUqwI&sn2=
+http://xtv.ooo:8080/89998887/66600076/167594
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4Y2WYYV/image.png", sky sport action
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D7:5F&stream=1458664&extension=ts&play_token=0TkQ5dgN8v&sn2=
+http://xtv.ooo:8080/89998887/66600076/346377
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", astro cricket
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D7:5F&stream=1104670&extension=ts&play_token=Z2pfrTLIZB&sn2=
+http://xtv.ooo:8080/89998887/66600076/167581
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png", Super sport cricket
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D7:5F&stream=1104669&extension=ts&play_token=nMolJAF3Y4&sn2=
+http://xtv.ooo:8080/89998887/66600076/167592
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdsSGRuYLYMYwAWMitSAiG9yR1apQ5jtBpNg&usqp=CAU", fox cricket 501
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D7:5F&stream=1104678&extension=ts&play_token=VF3Jskm2sy&sn2=
+http://xtv.ooo:8080/89998887/66600076/167593
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMBY5XsUTc5rtSNmZLyK8XJ0NdSO1_K3fsg&s", Disney India
+http://xtv.ooo:8080/89998887/66600076/167551
+
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="BANGLA",BD : Star Jalsa HD
+http://xtv.ooo:8080/89998887/66600076/245898
+
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fe/Jalsha_Movies_HD_logo_%282013-present%29.png/revision/latest?cb=20210423101024" group-title="BANGLA",BD : Star Jalsa HD
+http://xtv.ooo:8080/89998887/66600076/245900
+
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="BANGLA",BD: ZEE BANGLA HD
+http://xtv.ooo:8080/89998887/66600076/245893
+
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREA6enekHgjF8LL0s2vOLNmUUTv9Wwhf3QlA&s" group-title="BANGLA",BD: ZEE BANGLA Cinema
+http://xtv.ooo:8080/89998887/66600076/245897
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png", ATN Bangla
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=atn_bangla
