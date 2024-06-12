@@ -15,47 +15,85 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png", T Sports HD
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png", star sports 1
-http://xtv.ooo:8080/89998887/66600076/167575
 
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_2.png", star sports 2
-http://xtv.ooo:8080/89998887/66600076/167576
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryngSZ1J/ptvsports.jpg", PTV sports
-http://xtv.ooo:8080/89998887/66600076/220059
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDRoum_fljydrrcgXChrBl50SMRAiCJ1Oicg&s", ten sports
-http://xtv.ooo:8080/89998887/66600076/220060
 
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600280/1134.png", sky sport cricket
-http://xtv.ooo:8080/89998887/66600076/167594
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4Y2WYYV/image.png", sky sport action
-http://xtv.ooo:8080/89998887/66600076/346377
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", astro cricket
-http://xtv.ooo:8080/89998887/66600076/167581
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD 1
+https://tgaadi-web.tech/watch/play.php?tv=2186
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD 2
+https://tgaadi-web.tech/watch/play.php?tv=2232
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 3" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD 3
+https://tgaadi-web.tech/watch/play.php?tv=2456
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="Sports",Star Sports 2 HD 1
+https://tgaadi-web.tech/watch/play.php?tv=1069
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="Sports",Star Sports 2 HD 2
+https://tgaadi-web.tech/watch/play.php?tv=2163
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="Sports",Star Sports Select 1 HD 1
+https://tgaadi-web.tech/watch/play.php?tv=1070
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="Sports",Star Sports Select 1 HD 2
+https://tgaadi-web.tech/watch/play.php?tv=2292
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="Sports",Star Sports Select 2 HD
+https://tgaadi-web.tech/watch/play.php?tv=1071
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket 1" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Cricket.png" group-title="Sports",Sky Sports Cricket 1
+https://tgaadi-web.tech/watch/play.php?tv=2090
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket 2" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Cricket.png" group-title="Sports",Sky Sports Cricket 2
+https://tgaadi-web.tech/watch/play.php?tv=2143
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Main_Event.png" group-title="Sports",Sky Sports Main Event
+https://tgaadi-web.tech/watch/play.php?tv=2091
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="Sports",Sky Sports Premier League
+https://tgaadi-web.tech/watch/play.php?tv=2092
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_F1.png" group-title="Sports",Sky Sports F1
+https://tgaadi-web.tech/watch/play.php?tv=2094
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Arena.png" group-title="Sports",Sky Sports Arena
+https://tgaadi-web.tech/watch/play.php?tv=2095
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png" group-title="Sports",Sky Sports Golf
+https://tgaadi-web.tech/watch/play.php?tv=2096
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD 1
+https://tgaadi-web.tech/watch/play.php?tv=1756
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD 2
+https://tgaadi-web.tech/watch/play.php?tv=2215
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="Sports",Sony Ten 2 HD 1
+https://tgaadi-web.tech/watch/play.php?tv=1757
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="Sports",Sony Ten 2 HD 2
+https://tgaadi-web.tech/watch/play.php?tv=2608
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_3_HD.png" group-title="Sports",Sony Ten 3 HD
+https://tgaadi-web.tech/watch/play.php?tv=1758
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="Sports 18 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="Sports",Sports 18 HD
+https://tgaadi-web.tech/watch/play.php?tv=2423
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sports 1" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="Sports",Fox Sports 1
+https://tgaadi-web.tech/watch/play.php?tv=2421
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD Sports" tvg-logo="https://watchindia.net/images/channels/sports/DD_Sports.png" group-title="Sports",DD Sports
+https://tgaadi-web.tech/watch/play.php?tv=2380
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="Willow HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Willow_HD.png" group-title="Sports",Willow HD 1
+https://tgaadi-web.tech/watch/play.php?tv=1067
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="Willow HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Willow_HD.png" group-title="Sports",Willow HD 2
+https://tgaadi-web.tech/watch/play.php?tv=2145
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://watchindia.net/images/channels/sports/Astro_Cricket.png" group-title="Sports",Astro Cricket
+https://tgaadi-web.tech/watch/play.php?tv=2174
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png", Super sport cricket
-http://xtv.ooo:8080/89998887/66600076/167592
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdsSGRuYLYMYwAWMitSAiG9yR1apQ5jtBpNg&usqp=CAU", fox cricket 501
-http://xtv.ooo:8080/89998887/66600076/167593
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMBY5XsUTc5rtSNmZLyK8XJ0NdSO1_K3fsg&s", Disney India
-http://xtv.ooo:8080/89998887/66600076/167551
+http://filex.tv:8080/mohsin8080/347509/246763
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="BANGLA",BD : Star Jalsa HD
-http://xtv.ooo:8080/89998887/66600076/245898
+http://filex.tv:8080/mohsin8080/347509/413344
 
-#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fe/Jalsha_Movies_HD_logo_%282013-present%29.png/revision/latest?cb=20210423101024" group-title="BANGLA",BD : Star Jalsa HD
-http://xtv.ooo:8080/89998887/66600076/245900
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fe/Jalsha_Movies_HD_logo_%282013-present%29.png/revision/latest?cb=20210423101024" group-title="BANGLA",BD : Star Jalsa Movies
+http://filex.tv:8080/mohsin8080/347509/288302
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="BANGLA",BD: ZEE BANGLA HD
-http://xtv.ooo:8080/89998887/66600076/245893
+http://filex.tv:8080/mohsin8080/347509/413339
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREA6enekHgjF8LL0s2vOLNmUUTv9Wwhf3QlA&s" group-title="BANGLA",BD: ZEE BANGLA Cinema
-http://xtv.ooo:8080/89998887/66600076/245897
+http://filex.tv:8080/mohsin8080/347509/413340
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png", ATN Bangla
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=atn_bangla
