@@ -1,13 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="⚽| Thể thao quốc tế" tvg-logo="https://e0.365dm.com/tvlogos/channels/3838-Logo.png?U2t5IFNwb3J0cyBGb290YmFsbA==", Sky Sports Football UK
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0+(Windows+NT+11.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/113.0.0.0+Safari/537.36+Edg/113.0.1774.42
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru
-#EXTVLCOPT:http-origin=https://claplivehdplay.ru
-https://webhdrus.onlinehdhls.ru/lb/premium598/index.m3u8|referer=https://claplivehdplay.ru/
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_060681001717400250.png", toffee 1
 https://fifabd.xyz/IPxRANAPK/play.m3u8?id=match-1
 
