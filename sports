@@ -37,19 +37,27 @@
     "drmScheme": "",
     "drmLicense": ""
   },
-
-   {
-    "name":"T20 World Cup ",
-    "link":"https://webhdrus.onlinehdhls.ru/lb/premium65/index.m3u8|referer=https://claplivehdplay.ru/",
-    "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
+  {
+    "name":"Star Sports 1",
+    "link":"http://lb.watchindia.net:8880/live/31885/81026/2186.m3u8?token=TRINVkBbGwkUUloIU1RXWgkMAVZdVVMJVAUHAQlSCQFTBVYOVVEMBlISFRIXQxAGWVVmWlwSWApXW1MbGhBKBkRvDFMRCRsLAAkKEkgVFgpVXRsJCBxASA8HRw0aVApWBglHGxFWQUdTQldRCGgGBk5RWlYaCgxNCg9JFVcLZgdTXQRZVxEDEQYSFRINRBJBAlZMX1QcQFoPFxdWTAAbWRQDVQMLERURVV9MXhBFG0ECGmxgGhxAXR4XAFlLDFYNFApHWgBGAREaElBDO0UHEExKXFJVVRAaXEFVFRRHVAJObwZYXV1cUEJZVl4XFVhBChoVEVVfDFESDBdoSAxdQQwSVAEHBA0RSw==",
+    "logo":"",
     "origin":"",
     "referrer":"https://www.t.me/rriptv",
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
     "cookie":""
   },
    {
-    "name":"T20 World Cup",
-    "link":"https://webhdrus.onlinehdhls.ru/lb/premium270/index.m3u8|referer=https://claplivehdplay.ru/",
+    "name":"Sky sports cricket ",
+    "link":"https://webhdrus.onlinehdhls.ru/lb/premium65/index.m3u8|referer=https://claplivehdplay.ru/",
+    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGA9ND-MGrzIXSPfKuWG5H5Vnq1layowvXDQ&s",
+    "origin":"",
+    "referrer":"https://www.t.me/rriptv",
+    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "cookie":""
+  },
+   {
+    "name":"Super sports cricket",
+    "link":"https://webhdrus.onlinehdhls.ru/lb/premium368/index.m3u8|referer=https://claplivehdplay.ru/",
     "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
     "origin":"https://claplivehdplay.ru",
     "referrer":"https://www.t.me/rriptv",
@@ -57,7 +65,7 @@
     "cookie":""
   },
    {
-    "name":"T20 World Cup",
+    "name":"PTV sports",
     "link":"https://webhdrus.onlinehdhls.ru/lb/premium450/index.m3u8|referer=https://claplivehdplay.ru/",
     "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
     "origin":"https://claplivehdplay.ru",
@@ -67,8 +75,8 @@
   },
 
  {
-    "name":"T20 World Cup",
-    "link":"https://webhdrus.onlinehdhls.ru/lb/premium598/index.m3u8|referer=https://claplivehdplay.ru/",
+    "name":"Willow",
+    "link":"http://us-e1.watchindia.net:8880/live/31885/81026/1067.m3u8?token=TRINVkBbGwkUAwoFBw4HVQFZCQYPU1taVVRcAA9XWFUHCQQHVgRYVQcSFRIXQxAGWVVmWlwSWAlWVVIbGhBKBkRvDFMRCRsLAAkKEkgVFgpVXRsJCBxASA8HRw0aVABSAQZdABEfG1ZORFxCClYOPFxdT1pbVUACCBYJWxRHVg1pVABaUl1dEQwSCRJIFQsQSBoDXU1cDhREAQxDSgRNBhQKRwEACwgRGhJaXxFZFhFBGgMRbWNAFEQGHUNdC0oKWV5HDRFeCkYOEhUSDUQ9EV1LTUFdUQ9dFEFfFQhHFUFbUR1oUFxXXVNTTVkLWRFBAhoLERQSD1cIChFYSjpJClISXxUBAg4EAgUPEhk=",
     "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
     "origin":"https://claplivehdplay.ru",
     "referrer":"https://www.t.me/rriptv",
@@ -77,7 +85,7 @@
   },
  
   {
-    "name":"T20 World Cup",
+    "name":"Astro cricket",
     "link":"https://webhdrus.onlinehdhls.ru/lb/premium370/index.m3u8|referer=https://claplivehdplay.ru/",
     "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
     "origin":"https://claplivehdplay.ru",
@@ -112,67 +120,6 @@
     "referrer":"https://www.t.me/rriptv",
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
     "cookie":""
-  },
-
-  {
-    "name":"PTV Sports ",
-    "link":"https://webhdrus.onlinehdhls.ru/lb/premium450/index.m3u8|referer=https://claplivehdplay.ru/",
-    "logo":"https://i.postimg.cc/GmQ0kntF/ptv.png",
-    "origin":"",
-    "referrer":"https://www.t.me/rriptv",
-    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "cookie":""
-  },
-
-
-   
- 
-  {
-    "name": "Star Jalsha VIP",
-    "link": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png",
-    "origin": "",
-    "referrer": "",
-    "userAgent": "",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "Somoy TV",
-    "link": "https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png",
-    "origin": "",
-    "referrer": "",
-    "userAgent": "",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-
-
-  {
-    "name": "Colors Bangla",
-    "link": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/2505/logo/240x240/mobile_logo_200057001655891962.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "https://bldcmprod-cdn.toffeelive.com",
-    "userAgent": "Toffee (Linux; Telegram:https://t.me/rriptv) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1718431462:KeyName=prod_linear:Signature=n6GfpaeKuaLJdMKd1F3Uy-FC9WvDmnDRQtoH3npsb6udyU60h7SS78bSRYTbxr-d-yulSl0NUGIuOFNsIEe-Ag",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  
-  {
-    "name": "Ekattor TV",
-    "link": "https://bdviptv.000webhostapp.com/yt.php?c=@EkattorTelevision",
-    "logo": "https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png",
-    "origin": "",
-    "referrer": "",
-    "userAgent": "",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
   }
 
 ]
