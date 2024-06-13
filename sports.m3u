@@ -123,15 +123,3 @@
   }
 
 ]
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
-#EXTINF:-1 group-title="LIVE EVENTS(Himel-OP)" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToN2X3FO3ePY0JWnFJ8g6WwzKvxluMQE5AZQX0aaacpEQso8pVm1PjkCY&s=10",Prime Eng NS Or Ott
-https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1105b85e6db6214e686e462206ed86ec:59d851187354b65fa2d14829046893ef
-#EXTINF:-1 group-title="LIVE EVENTS(Himel-OP)" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToN2X3FO3ePY0JWnFJ8g6WwzKvxluMQE5AZQX0aaacpEQso8pVm1PjkCY&s=10",Prime Hindi Ns Or Ott
-https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd
