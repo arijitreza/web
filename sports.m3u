@@ -37,9 +37,37 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+
+{
+    "name":"T Sports HD ",
+    "link":"https://live-cdn.tsports.com/live-01/index.m3u8",
+    "logo":"https://i.postimg.cc/8PQzXnkV/mobile-logo-LIVE-1-64e4dd8e16430.png",
+    "origin":"",
+    "referrer":"",
+    "userAgent":"",
+    "cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1718313309:KeyName=tsports-ed25519-01:Signature=m-_JRs4_M-MPz18alTiqZDLXVY2vODhpySFp43yIPJgtrsecZLeJAw5nIOZm_QwCA6KLoucslg2RLrAYv9tQBQ"
+  },
+   {
+    "name":"T Sports HD ",
+    "link":"https://live-cdn.tsports.com/live-02/index.m3u8",
+    "logo":"https://i.postimg.cc/8PQzXnkV/mobile-logo-LIVE-1-64e4dd8e16430.png",
+    "origin":"",
+    "referrer":"",
+    "userAgent":"",
+    "cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1718313309:KeyName=tsports-ed25519-01:Signature=m-_JRs4_M-MPz18alTiqZDLXVY2vODhpySFp43yIPJgtrsecZLeJAw5nIOZm_QwCA6KLoucslg2RLrAYv9tQBQ"
+  },
   {
     "name":"Star Sports 1",
-    "link":"http://176.119.29.52/live.ts?channelId=49566&uid=13086&deviceMac=00:1A:79:00:02:27",
+    "link":"http://private1.clientline.club:80/YRvYQzBhWP/p5gBYkJBa7/321471?play_token=suiZmQ2qn0",
+    "logo":"",
+    "origin":"",
+    "referrer":"https://www.t.me/rriptv",
+    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "cookie":""
+  },
+{
+    "name":"Star Sports 1",
+    "link":"http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:67:D7:5F&stream=1104673&extension=ts&play_token=3oPMK3edX2&sn2=",
     "logo":"",
     "origin":"",
     "referrer":"https://www.t.me/rriptv",
@@ -93,24 +121,7 @@
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
     "cookie":""
   },
-   {
-    "name":"T Sports HD ",
-    "link":"https://live-cdn.tsports.com/live-01/index.m3u8",
-    "logo":"https://i.postimg.cc/8PQzXnkV/mobile-logo-LIVE-1-64e4dd8e16430.png",
-    "origin":"",
-    "referrer":"",
-    "userAgent":"",
-    "cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1718313309:KeyName=tsports-ed25519-01:Signature=m-_JRs4_M-MPz18alTiqZDLXVY2vODhpySFp43yIPJgtrsecZLeJAw5nIOZm_QwCA6KLoucslg2RLrAYv9tQBQ"
-  },
-   {
-    "name":"T Sports HD ",
-    "link":"https://live-cdn.tsports.com/live-02/index.m3u8",
-    "logo":"https://i.postimg.cc/8PQzXnkV/mobile-logo-LIVE-1-64e4dd8e16430.png",
-    "origin":"",
-    "referrer":"",
-    "userAgent":"",
-    "cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1718313309:KeyName=tsports-ed25519-01:Signature=m-_JRs4_M-MPz18alTiqZDLXVY2vODhpySFp43yIPJgtrsecZLeJAw5nIOZm_QwCA6KLoucslg2RLrAYv9tQBQ"
-  },
+   
  
    {
     "name":"Star Sports 1 Hindi",
