@@ -3,17 +3,7 @@
 
 [
 
-  {
-    "name": "TV1",
-    "link": "https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd",
-    "logo": "https://easydna.ph/wp-content/uploads/2021/09/TV1-Philippines-Online-Live-Streaming.png",
-    "origin": "mprod-cdn.toffeelive.com",
-    "referrer": "PiratesTV",
-    "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718417160:KeyName=prod_live_events:Signature=_bKmxxGnGVwHOI63BBymExeSvDNKKXWg0LumFicKL-ooyZ0Bv7ZoAJL8hKXO8dheZ6PJ9M6bn8aWG-Y0sNgACg",
-    "drmScheme": "clearkey",
-    "drmLicense": "5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b"
-  },
+  
   {
     "name": "Channel-1 English VIP",
     "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
@@ -208,6 +198,28 @@
     "referrer":"https://www.t.me/rriptv",
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
     "cookie":""
-  }
+  },
+{
+    "name": "TV1",
+    "link": "https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd",
+    "logo": "https://easydna.ph/wp-content/uploads/2021/09/TV1-Philippines-Online-Live-Streaming.png",
+    "origin": "mprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718417160:KeyName=prod_live_events:Signature=_bKmxxGnGVwHOI63BBymExeSvDNKKXWg0LumFicKL-ooyZ0Bv7ZoAJL8hKXO8dheZ6PJ9M6bn8aWG-Y0sNgACg",
+    "drmScheme": "clearkey",
+    "drmLicense": "5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b"
+  },
+{
+    "name": "NZ3",
+    "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=sky2nz",
+    "logo": "https://easydna.ph/wp-content/uploads/2021/09/TV1-Philippines-Online-Live-Streaming.png",
+    "origin": "https://ptvsports2.com/",
+    "referrer": "https://ptvsports2.com/play.php?",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
 
 ]
