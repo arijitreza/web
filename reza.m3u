@@ -19,18 +19,26 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" CRICKET 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)", CRICKET 01
-http://filex.tv:8080/mohsin8080/347509/141872
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)",CRICKET 02
-http://filex.tv:8080/mohsin8080/347509/191878
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)",CRICKET 03
-http://filex.tv:8080/mohsin8080/347509/178637
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)",CRICKET 04
-http://filex.tv:8080/mohsin8080/347509/191879
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET 05" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)",CRICKET 05
-http://filex.tv:8080/mohsin8080/347509/141723
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET 06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)",CRICKET 06
-http://filex.tv:8080/mohsin8080/347509/191819
+#EXTINF:-1 tvg-id="" group-title="ＭＲＫＩＮＧ~CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png", SERVER 1
+https://mrkingtv.shodns.in/xstream.php?id=220059.ts
+
+#EXTINF:-1 tvg-id="" group-title="ＭＲＫＩＮＧ~CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png", SERVER 2
+https://mrkingtv.shodns.in/xstream.php?id=220060.ts
+
+#EXTINF:-1 tvg-id="" group-title="ＭＲＫＩＮＧ~CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png", SERVER 3
+https://mrkingtv.shodns.in/xstream.php?id=220061.ts
+
+#EXTINF:-1 tvg-id="" group-title="ＭＲＫＩＮＧ~CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png", SERVER 4
+https://mrkingtv.shodns.in/xstream.php?id=220062.ts
+
+#EXTINF:-1 tvg-id="" group-title="ＭＲＫＩＮＧ~CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png", SERVER 5
+https://mrkingtv.shodns.in/xstream.php?id=220063.ts
+
+#EXTINF:-1 tvg-id="" group-title="ＭＲＫＩＮＧ~CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png", SERVER 6
+https://mrkingtv.shodns.in/xstream.php?id=220064.ts
+
+#EXTINF:-1 tvg-id="" group-title="ＭＲＫＩＮＧ~CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png", SERVER 7
+https://mrkingtv.shodns.in/xstream.php?id=220065.ts
 
 
 
@@ -38,7 +46,7 @@ http://filex.tv:8080/mohsin8080/347509/191819
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMBY5XsUTc5rtSNmZLyK8XJ0NdSO1_K3fsg&s", Disney India
-http://filex.tv:8080/mohsin8080/347509/246763
+https://mrkingtv.shodns.in/xstream.php?id=167551.ts
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="BANGLA",BD : Star Jalsa HD
 http://filex.tv:8080/mohsin8080/347509/413344
