@@ -18,28 +18,62 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
 
 
 
-
-#EXTINF:-1 tvg-id="" group-title="ＭＲＫＩＮＧ~CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png", SERVER 1
-https://mrkingtv.shodns.in/xstream.php?id=220059.ts
-
-#EXTINF:-1 tvg-id="" group-title="ＭＲＫＩＮＧ~CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png", SERVER 2
-https://mrkingtv.shodns.in/xstream.php?id=220060.ts
-
-#EXTINF:-1 tvg-id="" group-title="ＭＲＫＩＮＧ~CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png", SERVER 3
-https://mrkingtv.shodns.in/xstream.php?id=220061.ts
-
-#EXTINF:-1 tvg-id="" group-title="ＭＲＫＩＮＧ~CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png", SERVER 4
-https://mrkingtv.shodns.in/xstream.php?id=220062.ts
-
-#EXTINF:-1 tvg-id="" group-title="ＭＲＫＩＮＧ~CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png", SERVER 5
-https://mrkingtv.shodns.in/xstream.php?id=220063.ts
-
-#EXTINF:-1 tvg-id="" group-title="ＭＲＫＩＮＧ~CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png", SERVER 6
-https://mrkingtv.shodns.in/xstream.php?id=220064.ts
-
-#EXTINF:-1 tvg-id="" group-title="ＭＲＫＩＮＧ~CRI  | T20 World Cup (2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cricketball.png/220px-Cricketball.png", SERVER 7
-https://mrkingtv.shodns.in/xstream.php?id=220065.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="PK | PTV SPORTS SD" tvg-logo="http://webotv.asia:80/images/4db6f5b82bb4be0f8cca1cd50ac36483.png" group-title="CRICKET ➾",PK | PTV SPORTS SD
+http://filex.tv:8080/mohsin8080/347509/250211
+#EXTINF:-1 tvg-id="" tvg-name="PK | PTV SPORTS HD." tvg-logo="" group-title="CRICKET ➾",PK | PTV SPORTS HD.
+http://filex.tv:8080/mohsin8080/347509/190767
+#EXTINF:-1 tvg-id="" tvg-name=" CRICKET 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)", CRICKET 01
+http://filex.tv:8080/mohsin8080/347509/141872
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)",CRICKET 02
+http://filex.tv:8080/mohsin8080/347509/191878
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)",CRICKET 03
+http://filex.tv:8080/mohsin8080/347509/178637
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)",CRICKET 04
+http://filex.tv:8080/mohsin8080/347509/191879
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 05" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)",CRICKET 05
+http://filex.tv:8080/mohsin8080/347509/141723
+#EXTINF:-1 tvg-id="" tvg-name="CRICKET 06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)",CRICKET 06
+http://filex.tv:8080/mohsin8080/347509/191819
+#EXTINF:-1 tvg-id="" tvg-name="IN | 18 SPORTS HD" tvg-logo="http://filex.tv:8080/images/1adcf489ec18dfcb479c92b2a480425e.png" group-title="CRICKET ➾",IN | 18 SPORTS HD
+http://filex.tv:8080/mohsin8080/347509/52077
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO SUPER HD" tvg-logo="http://filex.tv:8080/images/1cb1214582ea8bd940f668d15cb75849.png" group-title="CRICKET ➾",PK | GEO SUPER HD
+http://filex.tv:8080/mohsin8080/347509/52080
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 1 HD" tvg-logo="http://filex.tv:8080/images/91b082932cd749b2f5901584b078fea2.png" group-title="CRICKET ➾",IN | SONY TEN 1 HD
+http://filex.tv:8080/mohsin8080/347509/52083
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 2 HD" tvg-logo="http://filex.tv:8080/images/7c01d33d407b043d4e6bde3333027505.png" group-title="CRICKET ➾",IN | SONY TEN 2 HD
+http://filex.tv:8080/mohsin8080/347509/52085
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 3 HD" tvg-logo="http://filex.tv:8080/images/25530a31c5d8d360c8ab2f40db10215e.png" group-title="CRICKET ➾",IN | SONY TEN 3 HD
+http://filex.tv:8080/mohsin8080/347509/52086
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 1 HD" tvg-logo="http://filex.tv:8080/images/49262566acaa5b4680908ee4c851d6ff.png" group-title="CRICKET ➾",IN | STAR SPORTS 1 HD
+http://filex.tv:8080/mohsin8080/347509/52094
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 2 HD" tvg-logo="http://filex.tv:8080/images/cbd5bfac451fe6e0d9712c213952164d.png" group-title="CRICKET ➾",IN | STAR SPORTS 2 HD
+http://filex.tv:8080/mohsin8080/347509/52096
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS SELECT 1 HD" tvg-logo="https://i.ibb.co/rbgvLYd/Star-Sports-Select-1-X-Vision.png" group-title="CRICKET ➾",IN | STAR SPORTS SELECT 1 HD
+http://filex.tv:8080/mohsin8080/347509/52098
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS SELECT 2 HD" tvg-logo="https://i.ibb.co/dPP0vQS/Star-Sports-Select-2-X-Vision.png" group-title="CRICKET ➾",IN | STAR SPORTS SELECT 2 HD
+http://filex.tv:8080/mohsin8080/347509/52100
+#EXTINF:-1 tvg-id="" tvg-name="IN | TEN SPORTS HD" tvg-logo="http://sonyiptv.net:8080/images/085cd7b634f82c02e429f158d225db6f.png" group-title="CRICKET ➾",IN | TEN SPORTS HD
+http://filex.tv:8080/mohsin8080/347509/52106
+#EXTINF:-1 tvg-id="" tvg-name="IN | DD SPORTS" tvg-logo="http://filex.tv:8080/images/1fd5a426e1d04bedcab2bd12431e3ed2.png" group-title="CRICKET ➾",IN | DD SPORTS
+http://filex.tv:8080/mohsin8080/347509/52107
+#EXTINF:-1 tvg-id="" tvg-name="IN | WILLOW CRICKET HD" tvg-logo="http://webotv.asia:80/images/3ce85a6163e85e04102131ebd9c31709.png" group-title="CRICKET ➾",IN | WILLOW CRICKET HD
+http://filex.tv:8080/mohsin8080/347509/52109
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY SPORTS HD" tvg-logo="" group-title="CRICKET ➾",PK | ARY SPORTS HD
+http://filex.tv:8080/mohsin8080/347509/62393
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 1 HINDI FHD " tvg-logo="" group-title="CRICKET ➾",IN | STAR SPORTS 1 HINDI FHD 
+http://filex.tv:8080/mohsin8080/347509/90342
+#EXTINF:-1 tvg-id="" tvg-name="BD | T SPORTS" tvg-logo="http://filex.tv:8080/images/1adcf489ec18dfcb479c92b2a480425e.png" group-title="CRICKET ➾",BD | T SPORTS
+http://filex.tv:8080/mohsin8080/347509/111409
+#EXTINF:-1 tvg-id="" tvg-name="IN | FAST SPORTS " tvg-logo="" group-title="CRICKET ➾",IN | FAST SPORTS 
+http://filex.tv:8080/mohsin8080/347509/277207
+#EXTINF:-1 tvg-id="" tvg-name="NZ | SKY SPORTS CRICKET FHD" tvg-logo="http://webotv.asia:80/images/4218471aa13f88189539f8da6ad18f4d.png" group-title="CRICKET ➾",NZ | SKY SPORTS CRICKET FHD
+http://filex.tv:8080/mohsin8080/347509/250199
+#EXTINF:-1 tvg-id="" tvg-name="AF | SUPER SPORTS CRICKET " tvg-logo="" group-title="CRICKET ➾",AF | SUPER SPORTS CRICKET 
+http://filex.tv:8080/mohsin8080/347509/53044
+#EXTINF:-1 tvg-id="" tvg-name="TEN CRICKET HD" tvg-logo="" group-title="CRICKET ➾",TEN CRICKET HD
+http://filex.tv:8080/mohsin8080/347509/99833
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="" group-title="CRICKET ➾",ASTRO CRICKET
+http://filex.tv:8080/mohsin8080/347509/297577
 
 
 
