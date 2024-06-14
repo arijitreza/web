@@ -3,7 +3,17 @@
 
 [
 
-  
+  {
+    "name": "TV1",
+    "link": "https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd",
+    "logo": "https://easydna.ph/wp-content/uploads/2021/09/TV1-Philippines-Online-Live-Streaming.png",
+    "origin": "mprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718417160:KeyName=prod_live_events:Signature=_bKmxxGnGVwHOI63BBymExeSvDNKKXWg0LumFicKL-ooyZ0Bv7ZoAJL8hKXO8dheZ6PJ9M6bn8aWG-Y0sNgACg",
+    "drmScheme": "clearkey",
+    "drmLicense": "5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b"
+  },
   {
     "name": "Channel-1 English VIP",
     "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
