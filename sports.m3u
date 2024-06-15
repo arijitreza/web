@@ -37,6 +37,35 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+{
+    "name": "AMAZON prime",
+    "link": "https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYmQqjMn_wUu9N6ZR4htvQWztGBwpP42hlA&s",
+    "origin": "mprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "clearkey",
+    "drmLicense": "d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31"
+  },
+{
+    "name":"Nagorik tv",
+    "link":"http://113.212.111.246:8080/hls/col12.m3u8",
+    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s",
+    "origin":"",
+    "referrer":"https://www.t.me/rriptv",
+    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "cookie":""
+  },
+{
+    "name":"Nagorik tv",
+    "link":"https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8",
+    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s",
+    "origin":"",
+    "referrer":"https://www.t.me/rriptv",
+    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "cookie":""
+  },
   {
     "name": "LIVE | UEFA Euro 2024",
     "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
@@ -62,7 +91,7 @@
   {
     "name":"Star Sports 1",
     "link":"http://private1.clientline.club:80/YRvYQzBhWP/p5gBYkJBa7/321471?play_token=suiZmQ2qn0",
-    "logo":"",
+    "logo":"https://i.postimg.cc/hvB3J57m/Star-Sports-Live-Cricket-Streaming.png",
     "origin":"",
     "referrer":"https://www.t.me/rriptv",
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -71,7 +100,7 @@
 {
     "name": "Star sports 1",
     "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=starsp1in",
-    "logo": "https://easydna.ph/wp-content/uploads/2021/09/TV1-Philippines-Online-Live-Streaming.png",
+    "logo": "https://i.postimg.cc/hvB3J57m/Star-Sports-Live-Cricket-Streaming.png",
     "origin": "https://ptvsports2.com/",
     "referrer": "https://ptvsports2.com/play.php?",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -163,6 +192,15 @@
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
     "cookie":""
   },
+{
+    "name":"TEN sports",
+    "link":"https://webhdrus.onlinehdhls.ru/lb/premium741/index.m3u8|referer=https://claplivehdplay.ru/",
+    "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
+    "origin":"https://claplivehdplay.ru",
+    "referrer":"https://www.t.me/rriptv",
+    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "cookie":""
+  },
 
  {
     "name":"Willow",
@@ -240,7 +278,30 @@
   },
 {
     "name": "PTV Sports",
+    "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=tenspk",
+    "logo": "https://easydna.ph/wp-content/uploads/2021/09/TV1-Philippines-Online-Live-Streaming.png",
+    "origin": "https://ptvsports2.com/",
+    "referrer": "https://ptvsports2.com/play.php?",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+{
+    "name": "Super Sports Grandstand",
     "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=supergrandstand",
+    "logo": "https://easydna.ph/wp-content/uploads/2021/09/TV1-Philippines-Online-Live-Streaming.png",
+    "origin": "https://ptvsports2.com/",
+    "referrer": "https://ptvsports2.com/play.php?",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+
+{
+    "name": "Starzplay Criclife",
+    "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=spch32",
     "logo": "https://easydna.ph/wp-content/uploads/2021/09/TV1-Philippines-Online-Live-Streaming.png",
     "origin": "https://ptvsports2.com/",
     "referrer": "https://ptvsports2.com/play.php?",
