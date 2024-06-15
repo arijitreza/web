@@ -198,7 +198,7 @@
 
  {
     "name":"Willow",
-    "link":"http://us-e1.watchindia.net:8880/live/31885/81026/1067.m3u8?token=TRINVkBbGwkUAwoFBw4HVQFZCQYPU1taVVRcAA9XWFUHCQQHVgRYVQcSFRIXQxAGWVVmWlwSWAlWVVIbGhBKBkRvDFMRCRsLAAkKEkgVFgpVXRsJCBxASA8HRw0aVABSAQZdABEfG1ZORFxCClYOPFxdT1pbVUACCBYJWxRHVg1pVABaUl1dEQwSCRJIFQsQSBoDXU1cDhREAQxDSgRNBhQKRwEACwgRGhJaXxFZFhFBGgMRbWNAFEQGHUNdC0oKWV5HDRFeCkYOEhUSDUQ9EV1LTUFdUQ9dFEFfFQhHFUFbUR1oUFxXXVNTTVkLWRFBAhoLERQSD1cIChFYSjpJClISXxUBAg4EAgUPEhk=",
+    "link":"https://webhdrus.onlinehdhls.ru/lb/premium346/index.m3u8|referer=https://claplivehdplay.ru/",
     "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmQ3gkiYWF1Pvc0k3K-uiT3YNDF1MX-BgtQ&s",
     "origin":"https://claplivehdplay.ru",
     "referrer":"https://www.t.me/rriptv",
@@ -215,6 +215,15 @@
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
     "cookie":""
   },
+{
+    "name":"Sky sport 2 NZ",
+    "link":"https://webhdrus.onlinehdhls.ru/lb/premium589/index.m3u8|referer=https://claplivehdplay.ru/",
+    "logo":"https://yt3.googleusercontent.com/curN9Dfj2hV6BgP1O03ibSsf8nRhrUbdhJ6MyBwO_T73xT8yI00aJwWyT3_Io-MkQ6g69jzv=s900-c-k-c0x00ffffff-no-rj",
+    "origin":"https://claplivehdplay.ru",
+    "referrer":"https://www.t.me/rriptv",
+    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "cookie":""
+  },
  {
     "name":"Sky sport 3 NZ",
     "link":"https://webhdrus.onlinehdhls.ru/lb/premium590/index.m3u8|referer=https://claplivehdplay.ru/",
@@ -225,17 +234,6 @@
     "cookie":""
   },
 
-{
-    "name": "Sky sport 3 NZ",
-    "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=sky2nz",
-    "logo": "https://yt3.googleusercontent.com/curN9Dfj2hV6BgP1O03ibSsf8nRhrUbdhJ6MyBwO_T73xT8yI00aJwWyT3_Io-MkQ6g69jzv=s900-c-k-c0x00ffffff-no-rj",
-    "origin": "https://ptvsports2.com/",
-    "referrer": "https://ptvsports2.com/play.php?",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
 
 {
     "name": "Sky sports cricket",
@@ -261,7 +259,7 @@
   },
 {
     "name": "PTV Sports",
-    "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=ptvspspk",
+    "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=ptvpk",
     "logo": "",
     "origin": "https://ptvsports2.com/",
     "referrer": "https://ptvsports2.com/play.php?",
