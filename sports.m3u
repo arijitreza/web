@@ -37,8 +37,9 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+
 {
-    "name": "AMAZON prime",
+    "name": "AMAZON prime 1",
     "link": "https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYmQqjMn_wUu9N6ZR4htvQWztGBwpP42hlA&s",
     "origin": "mprod-cdn.toffeelive.com",
@@ -47,6 +48,17 @@
     "cookie": "",
     "drmScheme": "clearkey",
     "drmLicense": "d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31"
+  },
+{
+    "name": "AMAZON prime 2",
+    "link": "https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYmQqjMn_wUu9N6ZR4htvQWztGBwpP42hlA&s",
+    "origin": "mprod-cdn.toffeelive.com",
+    "referrer": "PiratesTV",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "clearkey",
+    "drmLicense": "1105b85e6db6214e686e462206ed86ec:59d851187354b65fa2d14829046893ef"
   },
 {
     "name":"Nagorik tv",
@@ -131,7 +143,7 @@
 {
     "name":"Sky sports main event",
     "link":"https://webhdrus.onlinehdhls.ru/lb/premium38/index.m3u8|referer=https://claplivehdplay.ru/",
-    "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",
     "origin":"https://claplivehdplay.ru",
     "referrer":"https://www.t.me/rriptv",
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -140,7 +152,7 @@
 {
     "name":"Sky sports action",
     "link":"https://webhdrus.onlinehdhls.ru/lb/premium37/index.m3u8|referer=https://claplivehdplay.ru/",
-    "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
+    "logo":"https://archive.org/download/SkySportsAction_201708//sky%20sports%20action_thumb.jpg",
     "origin":"https://claplivehdplay.ru",
     "referrer":"https://www.t.me/rriptv",
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -149,7 +161,7 @@
    {
     "name":"Super sports cricket",
     "link":"https://webhdrus.onlinehdhls.ru/lb/premium368/index.m3u8|referer=https://claplivehdplay.ru/",
-    "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
+    "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",
     "origin":"https://claplivehdplay.ru",
     "referrer":"https://www.t.me/rriptv",
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -158,35 +170,17 @@
 {
     "name":"Super sports cricket",
     "link":"https://webhdrus.onlinehdhls.ru/lb/premium412/index.m3u8|referer=https://claplivehdplay.ru/",
-    "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
+    "logo":"https://www.dstv.com/media/wyuiuifx/ss_grandstand.png?width=330",
     "origin":"https://claplivehdplay.ru",
     "referrer":"https://www.t.me/rriptv",
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
     "cookie":""
   },
 
-{
-    "name":"Sky sports main event",
-    "link":"https://webhdrus.onlinehdhls.ru/lb/premium38/index.m3u8|referer=https://claplivehdplay.ru/",
-    "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
-    "origin":"https://claplivehdplay.ru",
-    "referrer":"https://www.t.me/rriptv",
-    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "cookie":""
-  },
-{
-    "name":"Sky sports action",
-    "link":"https://webhdrus.onlinehdhls.ru/lb/premium37/index.m3u8|referer=https://claplivehdplay.ru/",
-    "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
-    "origin":"https://claplivehdplay.ru",
-    "referrer":"https://www.t.me/rriptv",
-    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "cookie":""
-  },
    {
     "name":"PTV sports",
     "link":"https://webhdrus.onlinehdhls.ru/lb/premium450/index.m3u8|referer=https://claplivehdplay.ru/",
-    "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
     "origin":"https://claplivehdplay.ru",
     "referrer":"https://www.t.me/rriptv",
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -195,7 +189,7 @@
 {
     "name":"TEN sports",
     "link":"https://webhdrus.onlinehdhls.ru/lb/premium741/index.m3u8|referer=https://claplivehdplay.ru/",
-    "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
+    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26nqiIYus2CDK6cRnFRzcR_7_oaXkf6J2mQ&s",
     "origin":"https://claplivehdplay.ru",
     "referrer":"https://www.t.me/rriptv",
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -205,7 +199,7 @@
  {
     "name":"Willow",
     "link":"http://us-e1.watchindia.net:8880/live/31885/81026/1067.m3u8?token=TRINVkBbGwkUAwoFBw4HVQFZCQYPU1taVVRcAA9XWFUHCQQHVgRYVQcSFRIXQxAGWVVmWlwSWAlWVVIbGhBKBkRvDFMRCRsLAAkKEkgVFgpVXRsJCBxASA8HRw0aVABSAQZdABEfG1ZORFxCClYOPFxdT1pbVUACCBYJWxRHVg1pVABaUl1dEQwSCRJIFQsQSBoDXU1cDhREAQxDSgRNBhQKRwEACwgRGhJaXxFZFhFBGgMRbWNAFEQGHUNdC0oKWV5HDRFeCkYOEhUSDUQ9EV1LTUFdUQ9dFEFfFQhHFUFbUR1oUFxXXVNTTVkLWRFBAhoLERQSD1cIChFYSjpJClISXxUBAg4EAgUPEhk=",
-    "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
+    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmQ3gkiYWF1Pvc0k3K-uiT3YNDF1MX-BgtQ&s",
     "origin":"https://claplivehdplay.ru",
     "referrer":"https://www.t.me/rriptv",
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -215,7 +209,7 @@
   {
     "name":"Astro cricket",
     "link":"https://webhdrus.onlinehdhls.ru/lb/premium370/index.m3u8|referer=https://claplivehdplay.ru/",
-    "logo":"https://i.postimg.cc/PJqKvHnm/download-2.jpg",
+    "logo":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",
     "origin":"https://claplivehdplay.ru",
     "referrer":"https://www.t.me/rriptv",
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -224,7 +218,7 @@
  {
     "name":"Sky sport 3 NZ",
     "link":"https://webhdrus.onlinehdhls.ru/lb/premium590/index.m3u8|referer=https://claplivehdplay.ru/",
-    "logo":"https://i.postimg.cc/hvB3J57m/Star-Sports-Live-Cricket-Streaming.png",
+    "logo":"https://yt3.googleusercontent.com/curN9Dfj2hV6BgP1O03ibSsf8nRhrUbdhJ6MyBwO_T73xT8yI00aJwWyT3_Io-MkQ6g69jzv=s900-c-k-c0x00ffffff-no-rj",
     "origin":"https://claplivehdplay.ru",
     "referrer":"https://www.t.me/rriptv",
     "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -234,7 +228,7 @@
 {
     "name": "Sky sport 3 NZ",
     "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=sky2nz",
-    "logo": "https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png",
+    "logo": "https://yt3.googleusercontent.com/curN9Dfj2hV6BgP1O03ibSsf8nRhrUbdhJ6MyBwO_T73xT8yI00aJwWyT3_Io-MkQ6g69jzv=s900-c-k-c0x00ffffff-no-rj",
     "origin": "https://ptvsports2.com/",
     "referrer": "https://ptvsports2.com/play.php?",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -246,7 +240,7 @@
 {
     "name": "Sky sports cricket",
     "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=maloskyscric",
-    "logo": "https://easydna.ph/wp-content/uploads/2021/09/TV1-Philippines-Online-Live-Streaming.png",
+    "logo": "",
     "origin": "https://ptvsports2.com/",
     "referrer": "https://ptvsports2.com/play.php?",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -257,7 +251,7 @@
 {
     "name": "Willow",
     "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=willowspusa",
-    "logo": "https://easydna.ph/wp-content/uploads/2021/09/TV1-Philippines-Online-Live-Streaming.png",
+    "logo": "",
     "origin": "https://ptvsports2.com/",
     "referrer": "https://ptvsports2.com/play.php?",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -268,7 +262,7 @@
 {
     "name": "PTV Sports",
     "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=ptvspspk",
-    "logo": "https://easydna.ph/wp-content/uploads/2021/09/TV1-Philippines-Online-Live-Streaming.png",
+    "logo": "",
     "origin": "https://ptvsports2.com/",
     "referrer": "https://ptvsports2.com/play.php?",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -277,9 +271,9 @@
     "drmLicense": ""
   },
 {
-    "name": "PTV Sports",
+    "name": "TEN Sports",
     "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=tenspk",
-    "logo": "https://easydna.ph/wp-content/uploads/2021/09/TV1-Philippines-Online-Live-Streaming.png",
+    "logo": "",
     "origin": "https://ptvsports2.com/",
     "referrer": "https://ptvsports2.com/play.php?",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -290,7 +284,7 @@
 {
     "name": "Super Sports Grandstand",
     "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=supergrandstand",
-    "logo": "https://easydna.ph/wp-content/uploads/2021/09/TV1-Philippines-Online-Live-Streaming.png",
+    "logo": "",
     "origin": "https://ptvsports2.com/",
     "referrer": "https://ptvsports2.com/play.php?",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -302,7 +296,7 @@
 {
     "name": "Starzplay Criclife",
     "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=spch32",
-    "logo": "https://easydna.ph/wp-content/uploads/2021/09/TV1-Philippines-Online-Live-Streaming.png",
+    "logo": "",
     "origin": "https://ptvsports2.com/",
     "referrer": "https://ptvsports2.com/play.php?",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -316,7 +310,7 @@
 {
     "name": "TV1",
     "link": "https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd",
-    "logo": "https://easydna.ph/wp-content/uploads/2021/09/TV1-Philippines-Online-Live-Streaming.png",
+    "logo": "",
     "origin": "mprod-cdn.toffeelive.com",
     "referrer": "PiratesTV",
     "userAgent": "",
