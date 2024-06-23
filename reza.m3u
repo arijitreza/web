@@ -2,10 +2,10 @@
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_060681001717400250.png", toffee 1
-https://fifabd.xyz/IPxRANAPKx73/play.m3u8?id=match-1
+https://fifabd.xyz/JOIN@TGxRANAPKX73/play.m3u8?id=match-1
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300099/logo/240x240/mobile_logo_332351001717400403.png", toffee 2
-https://fifabd.xyz/IPxRANAPKx73/play.m3u8?id=match-2
+https://fifabd.xyz/JOIN@TGxRANAPKX73/play.m3u8?id=match-2
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png", Gazi TV
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
@@ -270,5 +270,157 @@ https://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40dbb569b90b5c7798f63ed6d7577ccb:4ea09395289d3c2e633f24f07c180169
+#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",bein 2
+https://bein-apac-live.akamaized.net/bein/sea_bein_sports_02/sea_bein_sports_02.isml/playlist.mpd?hdnts=st=-62135596800~exp=1719150087~acl=/*~id=VID_rJHu7MJKFCZQOW6DioIrknYonzAE~hmac=f14c736eafd0073d0e8278d4b9cc7039115f4256cdd3028f5e8d5b8613765984
 
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7
+#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",bein 2 my
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVv%2FaciHRqnNnDuZfWMEk6l0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV59922231%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWPQU-EMBSE_02PDX2LUA49rdnExKDJolcztI9KttC1ZTfx3wuKc3wz38vMkmD56dEMKEB1rQlDX6raNWh6TfqAinRflVZk_mqjIWERwjj7NroNez8fP1QhC0mkpCLRbe9OAX5Ptrep52QO_9iZ0320bFwe5B1ZwvvEHssYZ_ka8P2Wwh4R3O3VVFU_VE1RriItlu3aIV9WR3wiH-N0RWL3HP0vsC4JmcUV9gLPLSY28y2EP-4lubXND5_xMYT0AAAA&tenantId=6001
+
+#EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", FIFA+
+https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/706976543.m3u8
+
+#EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", VNL
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
+https://bit.ly/4dIklUF
+https://xyssatu.pages.dev/hls/vnlch1.m3u8
+https://rbtv.livestreamingbolatv1.workers.dev/https://fhlsport18.1mv.xyz/by07rspx/s2/v3b/6p50432rnUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/10/chunks.m3u8
+https://xyssatu.pages.dev/hls/vnlch2.m3u8
+========================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key00051ad8db73a944abe9ec83ad88987b:100c985696718d923c4b1289c1cf0d7d
+#https://linear014-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tntsport1)/manifest_hd.mpd
+https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(tntsport1)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00050654545edbcf400de7c11a3ace78:7fc6cab788206f4b2c10fe5225def411
+https://linear014-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(tntsport2)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000540adbb30871d80550825b28bc4c3:402edc50e9288aadc551bceaf347a517
+https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(tntsport3)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000540adbb30871d80550825b28bc4c3:402edc50e9288aadc551bceaf347a517
+https://linear014-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(tntsport4)/manifest_720.mpd
+
+
+========================================================================================================================================
+#EXTINF:0, tvg-id="Moji" tvg-name="Moji" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" tvg-chno="12",MOJI 
+http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
+
+#EXTINF:-1 group-title="Thể thao" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", TV 2 SPORT PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
+https://ch11-hls-live.akamaized.net/out/u/433127.mpd
+
+#EXTINF:-1 group-title="Thể thao" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", PREMIER SPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
+https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
+
+#EXTINF:-1 group-title="Thể thao" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", PREMIER SPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
+https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
+
+#EXTINF:-1 group-title="Thể thao" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", PREMIER LEAGUE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:-1 group-title="Thể thao" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", PREMIER SPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
+https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
+
+====================================================================================================================================
+#EXTINF:-1 group-title="DAZN" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", Eurosport 1 Deutsch
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-027/stream.mpd?p=web
+
+#EXTINF:-1 group-title="DAZN" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", Eurosport 2 Deutsch
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-028/stream.mpd?p=web
+
+#EXTINF:-1 group-title="DAZN" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", Eurosport 1 It
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-029/stream.mpd?p=web
+
+#EXTINF:-1 group-title="DAZN" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", Eurosport 2 It
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-030/stream.mpd?p=web
+
+#EXTINF:-1 group-title="DAZN" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", Eurosport 1 ES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd?p=web
+
+#EXTINF:-1 group-title="DAZN" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", Eurosport 2 ES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
+=================================================================================================================================================
+#EXTINF:-1 group-title="COPA" tvg-id="LIVE" tvg-logo="", COPA
+https://xyssatu.pages.dev/hls/ttfhd.m3u8
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+https://brow1.ben44mcc.workers.dev/Premier_Sports_1/index.m3u8
+https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/index.m3u8
+https://brow1.ben44mcc.workers.dev/Fox_Sports_1_Live_TV/index.m3u8
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 group-title="COPA" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", COPA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaecc5806202cba6d013a3b02343132:e4b85f440f4b55a71423e3440787e4e9,a4f4e148746e46bc401891571abeb0ca:29598f41d1cca4db6288430ad065f09a
+https://pe-fa-lp01a.9c9media.com/live/CKVR/p/dash/20000001/a889a00582c22aa9/manifest.mpd
+
+#EXTINF:-1 group-title="COPA" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", COPA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaecc5806202cba6d013a3b02343132:e4b85f440f4b55a71423e3440787e4e9,a4f4e148746e46bc401891571abeb0ca:29598f41d1cca4db6288430ad065f09a
+https://pe-fa-lp01a.9c9media.com/live/CIVI/p/dash/20000001/832d3547fbcdaed1/manifest.mpd
+
+#EXTINF:-1 group-title="COPA" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", COPA 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dazn.livestreamingbolatv1.workers.dev/https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 group-title="COPA" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", COPA 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
+https://skytest.starlive.workers.dev/https://linear001-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
+
+#EXTINF:-1 group-title="COPA" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", COPA 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
+https://testcors.starlive.workers.dev/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
+#EXTINF:-1 group-title="COPA" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", COPA 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1563586185955731899c517fca4229a8:5e987516e20522093d5ffee9a84d71b0,e6d067c9fc4e5b14b2d199307a4d4c6e:488991a152e05377cb46e6704a28eafc,11aa98b988db5b1d9dd85142d1314cf9:86d6fc031da6cca8fcf364b1655843e3
+https://tvup-ccs-live.akamaized.net/directvsportpan/directvsportpan.mpd
+
+#EXTINF:-1 group-title="COPA" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", COPA 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
+https://nontongp.livestreamingbolatv1.workers.dev/https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
 
