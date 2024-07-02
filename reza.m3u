@@ -1,49 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_060681001717400250.png", toffee 1
-https://fifabd.xyz/JOIN@TGxRANAPK33x/play.m3u8?id=match-1
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300099/logo/240x240/mobile_logo_332351001717400403.png", toffee 2
-https://fifabd.xyz/JOIN@TGxRANAPK33x/play.m3u8?id=match-2
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXRd1XLZPhxKK2lIHzu4qtWbFpZRrxCofqkA&usqp=CAU",Amazon Prime
-https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00053ac1e9b1231eed3eb4e3540b3ae1:0f03d8541826af3d9acbac975d751165
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEHVTrjKaEpoDWahCVkuwl9deMl3pBrqx9Q&s",Sky sports cricket
-https://skytest.starlive.workers.dev/https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
-
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png", Gazi TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
-
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png", T Sports HD
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="PK | PTV SPORTS SD" tvg-logo="http://webotv.asia:80/images/4db6f5b82bb4be0f8cca1cd50ac36483.png" group-title="CRICKET ➾",PK | PTV SPORTS SD
 http://filex.tv:8080/mohsin8080/347509/250211
 #EXTINF:-1 tvg-id="" tvg-name="PK | PTV SPORTS HD." tvg-logo="" group-title="CRICKET ➾",PK | PTV SPORTS HD.
 http://filex.tv:8080/mohsin8080/347509/190767
-#EXTINF:-1 tvg-id="" tvg-name=" CRICKET 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)", CRICKET 01
-http://filex.tv:8080/mohsin8080/347509/141872
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)",CRICKET 02
-http://filex.tv:8080/mohsin8080/347509/191878
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)",CRICKET 03
-http://filex.tv:8080/mohsin8080/347509/178637
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)",CRICKET 04
-http://filex.tv:8080/mohsin8080/347509/191879
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET 05" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)",CRICKET 05
-http://filex.tv:8080/mohsin8080/347509/141723
-#EXTINF:-1 tvg-id="" tvg-name="CRICKET 06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVxvZ2ypRtZBq_UDHpfp93o-UeXBf02sQhU3fNGGbNeOpXko3fGBYT0k&s=10" group-title="T20 ➾ WORLD CUP (2024)",CRICKET 06
-http://filex.tv:8080/mohsin8080/347509/191819
 #EXTINF:-1 tvg-id="" tvg-name="IN | 18 SPORTS HD" tvg-logo="http://filex.tv:8080/images/1adcf489ec18dfcb479c92b2a480425e.png" group-title="CRICKET ➾",IN | 18 SPORTS HD
 http://filex.tv:8080/mohsin8080/347509/52077
 #EXTINF:-1 tvg-id="" tvg-name="PK | GEO SUPER HD" tvg-logo="http://filex.tv:8080/images/1cb1214582ea8bd940f668d15cb75849.png" group-title="CRICKET ➾",PK | GEO SUPER HD
@@ -90,19 +52,19 @@ http://filex.tv:8080/mohsin8080/347509/297577
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMBY5XsUTc5rtSNmZLyK8XJ0NdSO1_K3fsg&s", Disney India
-https://mrkingtv.shodns.in/xstream.php?id=167551.ts
+http://filex.tv:8080/Diamond@pk@321/4193525345453/246763
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="BANGLA",BD : Star Jalsa HD
-http://filex.tv:8080/mohsin8080/347509/413344
+http://xtv.ooo:8080/live/615256288/44141514/245898.ts
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fe/Jalsha_Movies_HD_logo_%282013-present%29.png/revision/latest?cb=20210423101024" group-title="BANGLA",BD : Star Jalsa Movies
-http://filex.tv:8080/mohsin8080/347509/288302
+http://xtv.ooo:8080/live/615256288/44141514/245900.ts
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="BANGLA",BD: ZEE BANGLA HD
-http://filex.tv:8080/mohsin8080/347509/413339
+http://xtv.ooo:8080/live/615256288/44141514/245893.ts
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREA6enekHgjF8LL0s2vOLNmUUTv9Wwhf3QlA&s" group-title="BANGLA",BD: ZEE BANGLA Cinema
-http://filex.tv:8080/mohsin8080/347509/413340
+http://xtv.ooo:8080/live/615256288/44141514/245897.ts
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png", ATN Bangla
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=atn_bangla
