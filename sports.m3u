@@ -1,67 +1,25 @@
-
-
-
 [
 
-  
-  {
-    "name": "Channel-1 English VIP",
-    "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_060681001717400250.png",
-    "origin": "https://mprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718503659:KeyName=prod_live_events:Signature=1z9VI6eua8oQ4IjSEGr8UeZ6iCou5ax1WrUMwmVH5EFVVlrcgjo3yYfQCUPbkJ4YIK_QdRNyTgD1bTDJ6YOwBw",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "Channel-2 Bangla VIP",
-    "link": "https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_182385001717400375.png",
-    "origin": "https://mprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718503407:KeyName=prod_live_events:Signature=Y3POZRE0FwTdJhvwUIYya_zR256RYhGDDFV8IAtFr5AnIvSIw2MdS-m17hpML87CePRjQSZUF4oT2TKG8lX2Cg",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "Channel-3 English VIP",
-    "link": "https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/300099/logo/240x240/mobile_logo_332351001717400403.png",
-    "origin": "https://mprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1718503374:KeyName=prod_live_events:Signature=8cq_DnKzHswMCW6kxSpVRZPsqTWIt6IJl8U8U9gUGVwAi1hZjRJDtxJ_OaCaEc_sZlhBL2pyCTySYWxP6HfTAg",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-
-{
-    "name": "AMAZON prime 1",
-    "link": "https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYmQqjMn_wUu9N6ZR4htvQWztGBwpP42hlA&s",
-    "origin": "mprod-cdn.toffeelive.com",
-    "referrer": "PiratesTV",
-    "userAgent": "",
-    "cookie": "",
-    "drmScheme": "clearkey",
-    "drmLicense": "d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31"
+ {
+    "name":"LPL",
+    "link":"https://webhdrus.onlinehdhls.ru/lb/premium590/index.m3u8|referer=https://claplivehdplay.ru/",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/2/2a/Lanka_Premier_League_logo.jpg",
+    "origin":"https://claplivehdplay.ru",
+    "referrer":"https://www.t.me/rriptv",
+    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "cookie":""
   },
 {
-    "name": "AMAZON prime 2",
-    "link": "https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYmQqjMn_wUu9N6ZR4htvQWztGBwpP42hlA&s",
-    "origin": "mprod-cdn.toffeelive.com",
-    "referrer": "PiratesTV",
-    "userAgent": "",
-    "cookie": "",
-    "drmScheme": "clearkey",
-    "drmLicense": "1105b85e6db6214e686e462206ed86ec:59d851187354b65fa2d14829046893ef"
+    "name":"LPL",
+    "link":"http://121.91.61.106:8000/play/a03o/index.m3u8",
+    "logo":"https://upload.wikimedia.org/wikipedia/en/2/2a/Lanka_Premier_League_logo.jpg",
+    "origin":"https://claplivehdplay.ru",
+    "referrer":"https://www.t.me/rriptv",
+    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "cookie":""
   },
 {
-    "name":"Nagorik tv",
+    "name":"T sports",
     "link":"http://113.212.111.246:8080/hls/col12.m3u8",
     "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s",
     "origin":"",
@@ -70,58 +28,31 @@
     "cookie":""
   },
 {
-    "name":"Nagorik tv",
-    "link":"https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8",
-    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s",
-    "origin":"",
-    "referrer":"https://www.t.me/rriptv",
-    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "cookie":""
-  },
-  {
-    "name": "LIVE | UEFA Euro 2024",
-    "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
-    "logo": "https://image.tsports.com/images/mobile_logo/1718274576-EURO-LIVE-1280-.png",
-    "origin": "https://live-cdn.tsports.com",
-    "referrer": "https://live-cdn.tsports.com",
-    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1718526668:KeyName=tsports-ed25519-01:Signature=rmplN8pfXqBu4MDkiVXY8sn6UHCdmlR6vPJsJcHtxGQ11VUQL91D-AuX6Bx6dMMdAHKQBFjOOolYsdh4zwS4Aw",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "T Sports Live",
+    "name": "T Sports Live 01",
     "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
-    "logo": "https://image.tsports.com/images/mobile_logo/1718274547-LIVE.jpg",
+    "logo": "https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg",
     "origin": "https://live-cdn.tsports.com",
     "referrer": "https://live-cdn.tsports.com",
     "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1718526668:KeyName=tsports-ed25519-01:Signature=rmplN8pfXqBu4MDkiVXY8sn6UHCdmlR6vPJsJcHtxGQ11VUQL91D-AuX6Bx6dMMdAHKQBFjOOolYsdh4zwS4Aw",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1719954985:KeyName=tsports-ed25519-01:Signature=uqejoW-zt2COAEBXWe91cm1gFzcdQOWSVBecBeRspoOwACuHX-cy3Gmw3saDkwywb4Gmr5esxEcSo9mL2-6eDw",
     "drmScheme": "",
     "drmLicense": ""
-  },
-  {
-    "name":"Star Sports 1",
-    "link":"http://private1.clientline.club:80/YRvYQzBhWP/p5gBYkJBa7/321471?play_token=suiZmQ2qn0",
-    "logo":"https://i.postimg.cc/hvB3J57m/Star-Sports-Live-Cricket-Streaming.png",
-    "origin":"",
-    "referrer":"https://www.t.me/rriptv",
-    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "cookie":""
   },
 {
-    "name": "Star sports 1",
-    "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=starsp1in",
-    "logo": "https://i.postimg.cc/hvB3J57m/Star-Sports-Live-Cricket-Streaming.png",
-    "origin": "https://ptvsports2.com/",
-    "referrer": "https://ptvsports2.com/play.php?",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "cookie": "",
+    "name": "T Sports Live 02",
+    "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
+    "logo": "https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg",
+    "origin": "https://live-cdn.tsports.com",
+    "referrer": "https://live-cdn.tsports.com",
+    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1719954985:KeyName=tsports-ed25519-01:Signature=uqejoW-zt2COAEBXWe91cm1gFzcdQOWSVBecBeRspoOwACuHX-cy3Gmw3saDkwywb4Gmr5esxEcSo9mL2-6eDw",
     "drmScheme": "",
     "drmLicense": ""
   },
+  
+
  {
-    "name":"Star Sports 1 Hindi",
+    "name":"Star Sports 1",
     "link":"https://webhdrus.onlinehdhls.ru/lb/premium268/index.m3u8|referer=https://claplivehdplay.ru/",
     "logo":"https://i.postimg.cc/hvB3J57m/Star-Sports-Live-Cricket-Streaming.png",
     "origin":"https://claplivehdplay.ru",
@@ -168,7 +99,7 @@
     "cookie":""
   },
 {
-    "name":"Super sports cricket",
+    "name":"Super sports grand",
     "link":"https://webhdrus.onlinehdhls.ru/lb/premium412/index.m3u8|referer=https://claplivehdplay.ru/",
     "logo":"https://www.dstv.com/media/wyuiuifx/ss_grandstand.png?width=330",
     "origin":"https://claplivehdplay.ru",
@@ -225,8 +156,26 @@
     "cookie":""
   },
  {
-    "name":"Sky sport 3 NZ",
-    "link":"https://webhdrus.onlinehdhls.ru/lb/premium590/index.m3u8|referer=https://claplivehdplay.ru/",
+    "name":"Sony Ten 2",
+    "link":"https://webhdrus.onlinehdhls.ru/lb/premium886/index.m3u8|referer=https://claplivehdplay.ru/",
+    "logo":"https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_SD.png",
+    "origin":"https://claplivehdplay.ru",
+    "referrer":"https://www.t.me/rriptv",
+    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "cookie":""
+  },
+{
+    "name":"Fox Sports 1",
+    "link":"https://webhdrus.onlinehdhls.ru/lb/premium39/index.m3u8|referer=https://claplivehdplay.ru/",
+    "logo":"https://yt3.googleusercontent.com/curN9Dfj2hV6BgP1O03ibSsf8nRhrUbdhJ6MyBwO_T73xT8yI00aJwWyT3_Io-MkQ6g69jzv=s900-c-k-c0x00ffffff-no-rj",
+    "origin":"https://claplivehdplay.ru",
+    "referrer":"https://www.t.me/rriptv",
+    "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+    "cookie":""
+  },
+{
+    "name":"TSN 4",
+    "link":"https://webhdrus.onlinehdhls.ru/lb/premium114/index.m3u8|referer=https://claplivehdplay.ru/",
     "logo":"https://yt3.googleusercontent.com/curN9Dfj2hV6BgP1O03ibSsf8nRhrUbdhJ6MyBwO_T73xT8yI00aJwWyT3_Io-MkQ6g69jzv=s900-c-k-c0x00ffffff-no-rj",
     "origin":"https://claplivehdplay.ru",
     "referrer":"https://www.t.me/rriptv",
@@ -235,75 +184,7 @@
   },
 
 
-{
-    "name": "Sky sports cricket",
-    "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=maloskyscric",
-    "logo": "",
-    "origin": "https://ptvsports2.com/",
-    "referrer": "https://ptvsports2.com/play.php?",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-{
-    "name": "Willow",
-    "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=willowspusa",
-    "logo": "",
-    "origin": "https://ptvsports2.com/",
-    "referrer": "https://ptvsports2.com/play.php?",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-{
-    "name": "PTV Sports",
-    "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=ptvpk",
-    "logo": "",
-    "origin": "https://ptvsports2.com/",
-    "referrer": "https://ptvsports2.com/play.php?",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-{
-    "name": "TEN Sports",
-    "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=tenspk",
-    "logo": "",
-    "origin": "https://ptvsports2.com/",
-    "referrer": "https://ptvsports2.com/play.php?",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-{
-    "name": "Super Sports Grandstand",
-    "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=supergrandstand",
-    "logo": "",
-    "origin": "https://ptvsports2.com/",
-    "referrer": "https://ptvsports2.com/play.php?",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
 
-{
-    "name": "Starzplay Criclife",
-    "link": "https://ptvsports2.com/master.m3u8/?key=WASITV&c=spch32",
-    "logo": "",
-    "origin": "https://ptvsports2.com/",
-    "referrer": "https://ptvsports2.com/play.php?",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-   
- 
   
 {
     "name": "TV1",
