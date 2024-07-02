@@ -52,7 +52,7 @@ http://filex.tv:8080/mohsin8080/347509/297577
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMBY5XsUTc5rtSNmZLyK8XJ0NdSO1_K3fsg&s", Disney India
-http://filex.tv:8080/Diamond@pk@321/4193525345453/246763
+http://filex.tv:8080/live/Diamond@pk@321/4193525345453/246763.m3u8
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="BANGLA",BD : Star Jalsa HD
 http://xtv.ooo:8080/live/615256288/44141514/245898.ts
