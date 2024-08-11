@@ -2,69 +2,70 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PK | PTV SPORTS SD" tvg-logo="http://webotv.asia:80/images/4db6f5b82bb4be0f8cca1cd50ac36483.png" group-title="CRICKET ➾",PK | PTV SPORTS SD
-http://filex.tv:8080/Sohail/2309/250211
-#EXTINF:-1 tvg-id="" tvg-name="PK | PTV SPORTS HD." tvg-logo="" group-title="CRICKET ➾",PK | PTV SPORTS HD.
-http://filex.tv:8080/Sohail/2309/190767
-#EXTINF:-1 tvg-id="" tvg-name="IN | 18 SPORTS HD" tvg-logo="http://filex.tv:8080/images/1adcf489ec18dfcb479c92b2a480425e.png" group-title="CRICKET ➾",IN | 18 SPORTS HD
-http://filex.tv:8080/Sohail/2309/52077
-#EXTINF:-1 tvg-id="" tvg-name="PK | GEO SUPER HD" tvg-logo="http://filex.tv:8080/images/1cb1214582ea8bd940f668d15cb75849.png" group-title="CRICKET ➾",PK | GEO SUPER HD
-http://filex.tv:8080/Sohail/2309/52080
-#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 1 HD" tvg-logo="http://filex.tv:8080/images/91b082932cd749b2f5901584b078fea2.png" group-title="CRICKET ➾",IN | SONY TEN 1 HD
-http://filex.tv:8080/Sohail/2309/52083
-#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 2 HD" tvg-logo="http://filex.tv:8080/images/7c01d33d407b043d4e6bde3333027505.png" group-title="CRICKET ➾",IN | SONY TEN 2 HD
-http://filex.tv:8080/Sohail/2309/52085
-#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 3 HD" tvg-logo="http://filex.tv:8080/images/25530a31c5d8d360c8ab2f40db10215e.png" group-title="CRICKET ➾",IN | SONY TEN 3 HD
-http://filex.tv:8080/Sohail/2309/52086
-#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 1 HD" tvg-logo="http://filex.tv:8080/images/49262566acaa5b4680908ee4c851d6ff.png" group-title="CRICKET ➾",IN | STAR SPORTS 1 HD
-http://filex.tv:8080/Sohail/2309/52094
-#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 2 HD" tvg-logo="http://filex.tv:8080/images/cbd5bfac451fe6e0d9712c213952164d.png" group-title="CRICKET ➾",IN | STAR SPORTS 2 HD
-http://filex.tv:8080/Sohail/2309/52096
-#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS SELECT 1 HD" tvg-logo="https://i.ibb.co/rbgvLYd/Star-Sports-Select-1-X-Vision.png" group-title="CRICKET ➾",IN | STAR SPORTS SELECT 1 HD
-http://filex.tv:8080/Sohail/2309/52098
-#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS SELECT 2 HD" tvg-logo="https://i.ibb.co/dPP0vQS/Star-Sports-Select-2-X-Vision.png" group-title="CRICKET ➾",IN | STAR SPORTS SELECT 2 HD
-http://filex.tv:8080/Sohail/2309/52100
-#EXTINF:-1 tvg-id="" tvg-name="IN | TEN SPORTS HD" tvg-logo="http://sonyiptv.net:8080/images/085cd7b634f82c02e429f158d225db6f.png" group-title="CRICKET ➾",IN | TEN SPORTS HD
-http://filex.tv:8080/Sohail/2309/52106
-#EXTINF:-1 tvg-id="" tvg-name="IN | DD SPORTS" tvg-logo="http://filex.tv:8080/images/1fd5a426e1d04bedcab2bd12431e3ed2.png" group-title="CRICKET ➾",IN | DD SPORTS
-http://filex.tv:8080/Sohail/2309/52107
-#EXTINF:-1 tvg-id="" tvg-name="IN | WILLOW CRICKET HD" tvg-logo="http://webotv.asia:80/images/3ce85a6163e85e04102131ebd9c31709.png" group-title="CRICKET ➾",IN | WILLOW CRICKET HD
-http://filex.tv:8080/Sohail/2309/52109
-#EXTINF:-1 tvg-id="" tvg-name="PK | ARY SPORTS HD" tvg-logo="" group-title="CRICKET ➾",PK | ARY SPORTS HD
-http://filex.tv:8080/Sohail/2309/62393
-#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 1 HINDI FHD " tvg-logo="" group-title="CRICKET ➾",IN | STAR SPORTS 1 HINDI FHD 
-http://filex.tv:8080/Sohail/2309/90342
-#EXTINF:-1 tvg-id="" tvg-name="BD | T SPORTS" tvg-logo="http://filex.tv:8080/images/1adcf489ec18dfcb479c92b2a480425e.png" group-title="CRICKET ➾",BD | T SPORTS
-http://filex.tv:8080/Sohail/2309/111409
-#EXTINF:-1 tvg-id="" tvg-name="IN | FAST SPORTS " tvg-logo="" group-title="CRICKET ➾",IN | FAST SPORTS 
-http://filex.tv:8080/Sohail/2309/277207
 #EXTINF:-1 tvg-id="" tvg-name="NZ | SKY SPORTS CRICKET FHD" tvg-logo="http://webotv.asia:80/images/4218471aa13f88189539f8da6ad18f4d.png" group-title="CRICKET ➾",NZ | SKY SPORTS CRICKET FHD
-http://filex.tv:8080/Sohail/2309/250199
+http://filex.tv:8080/gtr/gtr/250199
+#EXTINF:-1 tvg-id="" tvg-name="PK | PTV SPORTS HD." tvg-logo="" group-title="CRICKET ➾",PK | PTV SPORTS HD.
+http://filex.tv:8080/gtr/gtr/190767
 #EXTINF:-1 tvg-id="" tvg-name="AF | SUPER SPORTS CRICKET " tvg-logo="" group-title="CRICKET ➾",AF | SUPER SPORTS CRICKET 
-http://filex.tv:8080/Sohail/2309/53044
-#EXTINF:-1 tvg-id="" tvg-name="TEN CRICKET HD" tvg-logo="" group-title="CRICKET ➾",TEN CRICKET HD
-http://filex.tv:8080/Sohail/2309/99833
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="" group-title="CRICKET ➾",ASTRO CRICKET
-http://filex.tv:8080/Sohail/2309/297577
+http://filex.tv:8080/gtr/gtr/53044
+#EXTINF:-1 tvg-id="" tvg-name="IN | 18 SPORTS HD" tvg-logo="http://filex.tv:8080/images/1adcf489ec18dfcb479c92b2a480425e.png" group-title="CRICKET ➾",IN | 18 SPORTS HD
+http://filex.tv:8080/gtr/gtr/52077
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO SUPER HD" tvg-logo="http://filex.tv:8080/images/1cb1214582ea8bd940f668d15cb75849.png" group-title="CRICKET ➾",PK | GEO SUPER HD
+http://filex.tv:8080/gtr/gtr/52080
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 1 HD" tvg-logo="http://filex.tv:8080/images/91b082932cd749b2f5901584b078fea2.png" group-title="CRICKET ➾",IN | SONY TEN 1 HD
+http://filex.tv:8080/gtr/gtr/52083
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 2 HD" tvg-logo="http://filex.tv:8080/images/7c01d33d407b043d4e6bde3333027505.png" group-title="CRICKET ➾",IN | SONY TEN 2 HD
+http://filex.tv:8080/gtr/gtr/52085
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 3 HD" tvg-logo="http://filex.tv:8080/images/25530a31c5d8d360c8ab2f40db10215e.png" group-title="CRICKET ➾",IN | SONY TEN 3 HD
+http://filex.tv:8080/gtr/gtr/52086
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 1 HD" tvg-logo="http://filex.tv:8080/images/49262566acaa5b4680908ee4c851d6ff.png" group-title="CRICKET ➾",IN | STAR SPORTS 1 HD
+http://filex.tv:8080/gtr/gtr/52094
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 2 HD" tvg-logo="http://filex.tv:8080/images/cbd5bfac451fe6e0d9712c213952164d.png" group-title="CRICKET ➾",IN | STAR SPORTS 2 HD
+http://filex.tv:8080/gtr/gtr/52096
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS SELECT 1 HD" tvg-logo="https://i.ibb.co/rbgvLYd/Star-Sports-Select-1-X-Vision.png" group-title="CRICKET ➾",IN | STAR SPORTS SELECT 1 HD
+http://filex.tv:8080/gtr/gtr/52098
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS SELECT 2 HD" tvg-logo="https://i.ibb.co/dPP0vQS/Star-Sports-Select-2-X-Vision.png" group-title="CRICKET ➾",IN | STAR SPORTS SELECT 2 HD
+http://filex.tv:8080/gtr/gtr/52100
+#EXTINF:-1 tvg-id="" tvg-name="IN | TEN SPORTS HD" tvg-logo="http://sonyiptv.net:8080/images/085cd7b634f82c02e429f158d225db6f.png" group-title="CRICKET ➾",IN | TEN SPORTS HD
+http://filex.tv:8080/gtr/gtr/52106
+#EXTINF:-1 tvg-id="" tvg-name="IN | DD SPORTS" tvg-logo="http://filex.tv:8080/images/1fd5a426e1d04bedcab2bd12431e3ed2.png" group-title="CRICKET ➾",IN | DD SPORTS
+http://filex.tv:8080/gtr/gtr/52107
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY SPORTS HD" tvg-logo="" group-title="CRICKET ➾",PK | ARY SPORTS HD
+http://filex.tv:8080/gtr/gtr/62393
+#EXTINF:-1 tvg-id="" tvg-name="IN | STAR SPORTS 1 HINDI FHD " tvg-logo="" group-title="CRICKET ➾",IN | STAR SPORTS 1 HINDI FHD 
+http://filex.tv:8080/gtr/gtr/90342
+#EXTINF:-1 tvg-id="" tvg-name="PK | PTV SPORTS SD" tvg-logo="http://webotv.asia:80/images/4db6f5b82bb4be0f8cca1cd50ac36483.png" group-title="CRICKET ➾",PK | PTV SPORTS SD
+http://filex.tv:8080/gtr/gtr/250211
+#EXTINF:-1 tvg-id="" tvg-name="IN | FAST SPORTS " tvg-logo="" group-title="CRICKET ➾",IN | FAST SPORTS 
+http://filex.tv:8080/gtr/gtr/277207
+#EXTINF:-1 tvg-id="" tvg-name="IN | EURO SPORTS" tvg-logo="" group-title="CRICKET ➾",IN | EURO SPORTS
+http://filex.tv:8080/gtr/gtr/297577
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 4 HD" tvg-logo="" group-title="CRICKET ➾",IN | SONY TEN 4 HD
+http://filex.tv:8080/gtr/gtr/453434
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TEN 5 HD" tvg-logo="" group-title="CRICKET ➾",IN | SONY TEN 5 HD
+http://filex.tv:8080/gtr/gtr/453435
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS: MotuPatlu 24/7" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F596093700663326377%2F&psig=AOvVaw1gDpzHmmqD0VqeLQrLx-Qx&ust=1723456172705000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiD1s7U7IcDFQAAAAAdAAAAABAE" group-title="IN ➾ KIDS 24/7",KIDS: MotuPatlu 24/7
+http://filex.tv:8080/gtr/gtr/141903
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuMBY5XsUTc5rtSNmZLyK8XJ0NdSO1_K3fsg&s", Disney India
-http://filex.tv:8080/Diamond@pk@321/4193525345453/246763
+http://xtv.ooo:8080/live/saqib7066/70402021/167551.ts
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="BANGLA",BD : Star Jalsa HD
-http://xtv.ooo:8080/live/615256288/44141514/245898.ts
+http://xtv.ooo:8080/live/saqib7066/70402021/245898.ts
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fe/Jalsha_Movies_HD_logo_%282013-present%29.png/revision/latest?cb=20210423101024" group-title="BANGLA",BD : Star Jalsa Movies
-http://xtv.ooo:8080/live/615256288/44141514/245900.ts
+http://xtv.ooo:8080/live/saqib7066/70402021/245900.ts
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="BANGLA",BD: ZEE BANGLA HD
-http://xtv.ooo:8080/live/615256288/44141514/245893.ts
+http://xtv.ooo:8080/live/saqib7066/70402021/245893.ts
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD : Star Jalsa HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREA6enekHgjF8LL0s2vOLNmUUTv9Wwhf3QlA&s" group-title="BANGLA",BD: ZEE BANGLA Cinema
-http://xtv.ooo:8080/live/615256288/44141514/245897.ts
+http://xtv.ooo:8080/live/saqib7066/70402021/245897.ts
 
 
 #EXTINF:-1 ,Discover Pakistan TV
