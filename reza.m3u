@@ -1,11 +1,16 @@
 #EXTM3U
 
 
-#EXTINF:-1,champions-trophy-2025
-https://xenolive.xyz/toffee/live.php?id=match-1&e=.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
+#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",Prime
+https://aba5sdmaaaaaaaamdgp3ryzabcel7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1koccf0pf1/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
 
 #EXTINF:-1,champions-trophy-2025
-https://xenolive.xyz/toffee/live.php?id=match-2&e=.m3u8
+https://bdixmafia.com/vod/toffee/live.php?id=match-1&e=.m3u8
+
+#EXTINF:-1,champions-trophy-2025
+https://bdixmafia.com/vod/toffee/live.php?id=match-2&e=.m3u8
 
 #EXTINF:-1,champions-trophy-2025
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
@@ -45,10 +50,6 @@ https://cdn.hoichoi24.com/Nagorik-TV-Hoichoi24.com/tracks-v1a1/mono.ts.m3u8
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40dbb569b90b5c7798f63ed6d7577ccb:4ea09395289d3c2e633f24f07c180169
-#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",bein 2
-https://bein-apac-live.akamaized.net/bein/sea_bein_sports_02/sea_bein_sports_02.isml/playlist.mpd?hdnts=st=-62135596800~exp=1719150087~acl=/*~id=VID_rJHu7MJKFCZQOW6DioIrknYonzAE~hmac=f14c736eafd0073d0e8278d4b9cc7039115f4256cdd3028f5e8d5b8613765984
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7
