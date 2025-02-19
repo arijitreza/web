@@ -16,19 +16,20 @@ https://bdixmafia.com/vod/toffee/live.php?id=match-2&e=.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 #EXTINF:-1,champions-trophy-2025
-https://yt-king-hello-people-tv.tiiny.io/stream.php?id=ptvpk&e=.m3u8
+	
+https://live.rriptv.top/watch.php?id=e11f5fd4a4f8d93211d512209b24111c15593bd2484daf7fd8c890afebdddea4b0c7b3971b2a0b096513372145709f96&e=.m3u8
 
 #EXTINF:-1,champions-trophy-2025
-https://hocdn.news/live/star1in.m3u8
+https://live.rriptv.top/watch.php?id=e11f5fd4a4f8d93211d512209b24111c15593bd2484daf7fd8c890afebdddea4364fd3620ab9268948bf4d527616ba07&e=.m3u8
 
 #EXTINF:-1,champions-trophy-2025
-https://hocdn.news/live/skyscric.m3u8
+https://live.rriptv.top/watch.php?id=e11f5fd4a4f8d93211d512209b24111c15593bd2484daf7fd8c890afebdddea4b981bda5f68b096e47ce5213b3e3bf4434b8b35b69ef91249b32132036c47cf8&e=.m3u8
 
-#EXTINF:-1,champions-trophy-2025
-https://hocdn.news/live/willowusa.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQagsNGVuAJyaMS65cDa-V-Sz2jwlckaF0dbncZ6twaaaXP3cyoN11QPTPx&s=10" group-title="Sports",Willow Sports ᴴᴰ
+https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1,champions-trophy-2025
-https://hocdn.news/live/supercricket.m3u8
 
 #EXTINF:-1,champions-trophy-2025
 https://cdn.hoichoi24.com/Nagorik-TV-Hoichoi24.com/tracks-v1a1/mono.ts.m3u8
