@@ -4,10 +4,10 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
 #EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",Prime
-https://aba5sdmaaaaaaaamdgp3ryzabcel7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1koccf0pf1/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
+https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wr8i0xhnut/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
 
 #EXTINF:-1,champions-trophy-2025
-https://fifabd.site/TOFx/play.m3u8?id=match-1
+https://fifabd.site/TOFxRANAPK/play.m3u8?id=match-1
 
 #EXTINF:-1,champions-trophy-2025
 https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
