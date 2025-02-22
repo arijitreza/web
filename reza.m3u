@@ -6,21 +6,20 @@
 #EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",Prime
 https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wr8i0xhnut/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
 
-#EXTINF:-1,champions-trophy-2025
+#EXTINF:-1,Toffee
 https://fifabd.site/TOFxRANAPK/play.m3u8?id=match-1
 
-#EXTINF:-1,champions-trophy-2025
+#EXTINF:-1,Myco
 https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
 
-#EXTINF:-1,champions-trophy-2025
+#EXTINF:-1,T-Sports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
-#EXTINF:-1,champions-trophy-2025
-	
-https://live.rriptv.top/watch.php?id=e11f5fd4a4f8d93211d512209b24111c15593bd2484daf7fd8c890afebdddea4b0c7b3971b2a0b096513372145709f96&e=.m3u8
+#EXTINF:-1,Sports18
+https://userx534.protect-cdn.net/live/m2-720p.m3u8
 
-#EXTINF:-1,champions-trophy-2025
-https://live.rriptv.top/watch.php?id=e11f5fd4a4f8d93211d512209b24111c15593bd2484daf7fd8c890afebdddea4364fd3620ab9268948bf4d527616ba07&e=.m3u8
+#EXTINF:-1,Hotstar
+https://otttv.co.in/cricket/english.m3u8
 
 #EXTINF:-1,champions-trophy-2025
 https://live.rriptv.top/watch.php?id=e11f5fd4a4f8d93211d512209b24111c15593bd2484daf7fd8c890afebdddea4b981bda5f68b096e47ce5213b3e3bf4434b8b35b69ef91249b32132036c47cf8&e=.m3u8
