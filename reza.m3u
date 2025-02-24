@@ -19,13 +19,6 @@ https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="GitTv",Champions Trophy (Prime HEVC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=867ab2da044bcc1e4cc1a9252b03ce3e:0db59352d361b0a132c0a64bb231750a
-https://abhvfwoaaaaaaaamge5xi5icfzq64.otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xjrxodbgeh/out/v1/69b95861163a42d9a34a1d4ceece7a7a/cenc.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="GitTv",Geo Super
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -38,13 +31,6 @@ https://live5.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1740328395~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=17eb82a32e2f37cd44acee6f917b97b901e0d63a387e9616eb1c0fca59bd7de9/manifest.mpd
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="GitTv",Champions Trophy (Prime AVC 1.2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
-https://aba5sdmaaaaaaaamjyr2xiy4rbicb.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wr8i0xhnut/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
 
 
 
