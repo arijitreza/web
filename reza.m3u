@@ -11,13 +11,21 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1ccq7sy9m7/
 #EXTINF:-1,Toffee
 https://fifabd.site/TOFxRANAPK/play.m3u8?id=match-1
 
+#EXTINF:-1,T-Sports
+http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="GitTv",Star Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd
-
-
+8
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORTS", Sports 18
+8#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://alraqi-tv.com/id/SPORTS18-1/index.mpd
 
 
 #EXTINF:-1 tvg-logo="" group-title="GitTv",Geo Super
@@ -382,13 +390,7 @@ https://rbtv.livestreamingbolatv1.workers.dev/https://fhlsport18.1mv.xyz/by07rsp
 https://xyssatu.pages.dev/hls/vnlch2.m3u8
 ========================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key00051ad8db73a944abe9ec83ad88987b:100c985696718d923c4b1289c1cf0d7d
-#https://linear014-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tntsport1)/manifest_hd.mpd
-https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(tntsport1)/manifest_720.mpd
+
 
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
