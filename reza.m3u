@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="" group-title="GitTv",Champions Trophy (Prime AVC 1.1)
+#EXTINF:-1 tvg-logo="" group-title="GitTv",Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
@@ -18,11 +18,6 @@ https://fifabd.site/TOFxRANAPK/play.m3u8?id=match-1
 https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd
 
 
-#EXTINF:-1,Myco
-https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
-
-#EXTINF:-1,T-Sports
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="GitTv",Geo Super
@@ -31,16 +26,33 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2
 https://live5.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="GitTv",Jio Hotstar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+#EXTINF:-1 tvg-logo="" group-title="GitTv",Willow 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1740328395~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=17eb82a32e2f37cd44acee6f917b97b901e0d63a387e9616eb1c0fca59bd7de9/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://nee.moviesflixter.com/stream.m3u8?id=a3b242ada0f2&e=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="GitTv",Sky sports 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://nee.moviesflixter.com/stream.m3u8?id=46cdbd289973&e=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="GitTv",PTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://nee.moviesflixter.com/BD%20/index.php?play=450।Reffer=https://nee.moviesflixter.com/
 
 
 
 
 
+#EXTINF:-1,Myco
+https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
+
+#EXTINF:-1,T-Sports
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="GitTv",Willow Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -48,11 +60,7 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/4/1/2/1440412_willowtvlogo_775034.jpg" group-title="GitTv",Willow 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-https://nee.moviesflixter.com/stream.m3u8?id=a3b242ada0f2&e=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="GitTv",TNT Sports 1 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
