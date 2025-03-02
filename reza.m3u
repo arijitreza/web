@@ -4,8 +4,8 @@
 #EXTINF:-1 tvg-logo="" group-title="GitTv",Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a5191838da17a2ab771f4258fad347f:54b7a084437459368eed07d182ad644c
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/clients/dash/enc/9zdhmclf6e/out/v1/fe9782633a364a6a84c9410f26d9b2c4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7aa124253d518f18740c5bd932d581a3:1819c82fc27225f5e79ae189ddece0ea
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ys7k1c1ipx/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="GitTv",Astro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -13,8 +13,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/clients/dash/enc/9zdhmclf6e/out/v1
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://sg-cors.onrender.com/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
-#EXTINF:-1,Toffee
-https://fifabd.site/TOFxRANAPK/play.m3u8?id=match-1
+#EXTINF:-1,ESPN
+https://tx2.nexgen.bz:4000//ESPN/index.m3u8
 
 #EXTINF:-1,T-Sports
 http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
