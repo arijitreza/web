@@ -22,14 +22,13 @@ https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="", tvg-id="ksport1hd" group-title="SPORTS", Sports 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://alraqi-tv.com/id/SPORTS18-1/index.mpd
+https://airplay.bgrid.in/IPTVS/live/voot/1033.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="GitTv",Geo Super
+#EXTINF:-1 tvg-logo="" group-title="GitTv",Color Cineplex
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2
-https://live5.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
+https://airplay.bgrid.in/IPTVS/live/voot/61.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GitTv",Willow 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
