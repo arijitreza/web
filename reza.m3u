@@ -11,7 +11,7 @@ https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tsrm0zirxz/o
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 YGX/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1740932505~acl=%2Fvariant%2Fv1blackout%2Fvcg-01-d%2F*~data=hdntl~hmac=e56f675082a1ca9be50282d689ad191960de19da5ec73dce18e62990e07e2c6a/manifest.mpd
+https://mix.drmlive.au/mix/icctv1.mpd
 
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/301935/logo/240x240/mobile_logo_428673001738570163.png", Toffee
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
