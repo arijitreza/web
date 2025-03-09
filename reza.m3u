@@ -13,6 +13,8 @@ https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tsrm0zirxz/o
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 https://mix.drmlive.au/mix/icctv1.mpd
 
+#EXTINF:-1,Toffee
+https://fifabd.site/TOFxRANAPK/play.m3u8?id=match-1
 
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/301935/logo/240x240/mobile_logo_428673001738570163.png", Champions Trophy 2025 VIP
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
@@ -66,8 +68,7 @@ https://its-ferdos-alom.top/daddy/live.php?cid=450&e=.m3u8
 
 
 
-#EXTINF:-1,Myco
-https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1741558854:KeyName=prod_live_events:Signature=m39vW1HgZ7jII8biucGla9HMLYG8PaQ6_CptXYdIwmqOYGAViWOgAWPsuUBxfgmIes4BbMK85eHKUKeu3_E4Cg
+
 
 #EXTINF:-1,T-Sports
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
