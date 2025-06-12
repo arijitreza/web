@@ -7,12 +7,12 @@
 #KODIPROP:inputstream.adaptive.license_key=ec2147a4b9b1b87ee3d8dc6915bc7928:c84fcd82767a9cd9e2e0c0d1b47a72c5
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/uugw0qkwob/out/v1/acfdcf2dabd24075bb615c6c19ba9bd4/cenc.mpd
 
-{
-#EXTINF:-1 tvg-logo="" group-title="GitTv",ICC TV
+
+#EXTINF:-1 tvg-logo="" group-title="GitTv",WTC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 YGX/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://mix.drmlive.au/mix/icctv1.mpd
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #EXTINF:-1,Toffee
 https://fifabd.site/TOFxRANAPK/play.m3u8?id=match-1
