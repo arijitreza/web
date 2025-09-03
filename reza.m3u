@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg", SONY SPORTS TEN 1 HD
+http://66.102.120.18:8000/play/a012
+
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg", SONY SPORTS TEN 2 HD
+http://66.102.120.18:8000/play/a01y
+
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png", SONY SPORTS TEN 5 HD 
+http://66.102.120.18:8000/play/a07b
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", TNT SPORTS 1
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 
