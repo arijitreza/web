@@ -5,7 +5,7 @@
 http://nayatv.ydns.eu/live/xfireflix/flixfire/11681.ts
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
-http://nayatv.ydns.eu/live/xfireflix/flixfire/11681.ts
+http://nayatv.ydns.eu/xfireflix/flixfire/11681
 
 #EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg", Tapmad
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tap301t@P25@35/master.m3u8
@@ -20,8 +20,11 @@ https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-http://175.107.244.52:4456/play/a042/index.m3u8
+http://175.107.244.52:4456/play/a042
 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt" group-title="SR AynaOTT", Sky Sports Cricket
+http://nayatv.ydns.eu/xfireflix/flixfire/12558
 
 
 
