@@ -1,19 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg", SONY SPORTS TEN 1 HD
-http://66.102.120.18:8000/play/a012
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg", SONY SPORTS TEN 2 HD
-http://66.102.120.18:8000/play/a01y
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
+http://nayatv.ydns.eu/live/xfireflix/flixfire/11681.ts
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png", SONY SPORTS TEN 5 HD 
-http://66.102.120.18:8000/play/a07b
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
+http://nayatv.ydns.eu/live/xfireflix/flixfire/11681.ts
+
+#EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg", Tapmad
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tap301t@P25@35/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="GitTv",Ten sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="GitTv",PTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+http://175.107.244.52:4456/play/a042/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60", TNT SPORTS 1
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="SR AynaOTT", T sports HD
-https://live.tsports.com/live/tsports_live_1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SR AynaOTT", Gazi tv
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="SR AynaOTT", T sports HD
 https://tvsen5.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8
