@@ -5,7 +5,7 @@
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
-http://nayatv.ydns.eu/xfireflix/flixfire/11681
+https://mprod-cdn.toffeelive.com/live/match-asiacup/index.m3u8?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1758078004:KeyName=prod_live_events:Signature=kuprD4O_OY7BG8kBJXHBTHs0yfNR2lu3PAX_FoShEo4e26EtkFmRrV5unpYvCw4R9Ak6m1BWCm8VMa4l1ExLBg
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
 http://195.181.169.162:80/TEN_1_HD/index.mpd?token=test
@@ -56,7 +56,7 @@ https://cdn.bdixtv24.xyz/live/stream/tsports/index.m3u8|Referer=https://bdixtv24
 
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", Fancode+LIV
-https://allinonereborn.fun/fcw/live.php?url=https://dqjnt5d1aglzv.cloudfront.net/out/v1/c17faa9ad30f4d42b6bbdb161c8717d6/index.m3u8|Referer=https://allinonereborn.fun
+https://allinonereborn.fun/fcw/live.php?url=https://dai.fancode.com/primary/136739_english_hls_072d0dc2d317640ta-di_h264/index.m3u8|Referer=https://allinonereborn.fun
 
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" group-title="GitTv",Fancode Cric 1
