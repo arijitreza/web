@@ -2,10 +2,10 @@
 
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+https://www.xfireflix.fun/Sl/index.m3u8?id=7rS0tG%252FnMT2N47cE8g68%252BA%253D%253D&token=KiW145f6cLC2HJVh20BYjw%253D%253D
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
-https://mprod-cdn.toffeelive.com/live/match-asiacup/index.m3u8?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1758078004:KeyName=prod_live_events:Signature=kuprD4O_OY7BG8kBJXHBTHs0yfNR2lu3PAX_FoShEo4e26EtkFmRrV5unpYvCw4R9Ak6m1BWCm8VMa4l1ExLBg
+https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
 http://195.181.169.162:80/TEN_1_HD/index.mpd?token=test
@@ -82,9 +82,8 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesu
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw" group-title="GitTv",Willow 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 YGX/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af3c54ce1fa61c00c0085aeae9c5fd32:e5619ebdd91aade47c70381a6f57c643
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/3l2na7uyyg/out/v1/2bd1be0d119c4c96895f3c5ef304d288/cenc.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=d116f4f4b478e8ed23718b1919ca0612:7627e5b85dec6981e77530822788de0e
+https://abfdm2saaaaaaaamljqrv7ybrrx7h.47348d5020154bfaac6dd4418cd23c5d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ds2bcdb7en/out/v1/8bf017fbdb2240d2abd40e020463a8ba/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/54163718-53c4-4ac6-8d86-ceca29d69554.png" group-title="SR AynaOTT", BTV National
 https://tvsen6.aynaott.com/btvhd/tracks-v1a1/mono.ts.m3u8
