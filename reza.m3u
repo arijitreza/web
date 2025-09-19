@@ -5,10 +5,13 @@
 https://cdn5aws.tamashaweb.com/out/v1/9fff7780125a4614a7f3567bc506dc7a/index.m3u8?start=1758110280
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
+https://purple-scene-a3d4.diwij76343.workers.dev/?v=sonyespnind|Referer=https://players.ironmancreation.workers.dev/
+
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
-http://195.181.169.162:80/TEN_1_HD/index.mpd?token=test
+http://nayatv.ydns.eu/live/xfireflix/flixfire/11681.ts
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/79/ac/65/79ac659e-6de4-59b8-3ab4-76008a65cc54/source/512x512bb.jpg", FOX 501
 https://lv.hexvai56.workers.dev/XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0hfIl8GAREyVzZaJDxaBj8L/index.m3u8|Referer=https://dash-hex.pages.dev/&Origin=https://dash-hex.pages.dev
@@ -29,7 +32,8 @@ https://proxy.mydementiacompanion.com.au/https://linearjitp-playback.astro.com.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
+http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/1372.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="GitTv",PTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
