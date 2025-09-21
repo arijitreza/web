@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://www.app.com.pk/wp-content/uploads/2025/07/Tamasha-kashmir-english-1024x576-1.webp", TAMASHA
-https://cdn5aws.tamashaweb.com/out/v1/9fff7780125a4614a7f3567bc506dc7a/index.m3u8?start=1758110280
+https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/Tmshsrtmain.m3u8?timeshift=1&start=1758455880
 
 
 
@@ -13,7 +13,7 @@ https://dtvxtream.com/sonyliv2/300256.m3u8
 https://dtvxtream.com/sonyliv2/300255.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
-https://play.denver1769.fun/Sliv/hls/sony-ten-1/index.m3u8
+https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
 http://nayatv.ydns.eu/live/xfireflix/flixfire/11681.ts
