@@ -13,10 +13,11 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/lscoafr17s/
 #KODIPROP:inputstream.adaptive.license_key=0d9efa8287a52a2497a281f7a9012211:e4f832d372943014fe5c30928a90e547
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://www.app.com.pk/wp-content/uploads/2025/07/Tamasha-kashmir-english-1024x576-1.webp", TAMASHA
-https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51bb1ea5064913eb2a83ea/TMSH_U1_WEB.m3u8?timeshift=1&start=1758455880
-
-
+#EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg" group-title="GitTv",Tapmad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db37cedce80683943cdc55a190b6d51b:760e7faeab55bf56717974bdf3cfd414
+https://tapmad-live.cdn.vustreams.com/live/4a8f7708-80c4-4ef6-bef4-bd9899de77d6/live.isml/4a8f7708-80c4-4ef6-bef4-bd9899de77d6.mpd
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
 https://dtvxtream.com/sonyliv2/300256.m3u8
@@ -41,6 +42,7 @@ http://103.73.107.122:3255/TSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg", Tapmad
 https://premierleageplnew2.akamaized.net/hls/live/2107109/image2025season/hdntl=exp=1758550139~acl=%2f*~data=hdntl~hmac=84d61b9547dc01d07ed6ba8e6bec64f85df6728fab00ab416e91aab09f58e9bb/level_2.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="GitTv",Astro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
