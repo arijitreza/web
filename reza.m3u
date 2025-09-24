@@ -16,11 +16,12 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4sq4g0s5on/o
 #KODIPROP:inputstream.adaptive.license_key=5ccdccf0818d3d9ff6c26076fc1153ac:f8d7fda7e3f11a29b346a37e98f749d4
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
+
 #EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg" group-title="GitTv",Tapmad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db37cedce80683943cdc55a190b6d51b:760e7faeab55bf56717974bdf3cfd414
-https://tapmad-live.cdn.vustreams.com/live/4a8f7708-80c4-4ef6-bef4-bd9899de77d6/live.isml/4a8f7708-80c4-4ef6-bef4-bd9899de77d6.mpd
+#KODIPROP:inputstream.adaptive.license_key=955eaaca4a9d15336991635b11d2a9f1:f33749f7fc0a5af3395e75a1cad48091
+https://tapmad-live.cdn.vustreams.com/live/e3997c67-0c71-49ec-abac-331bd29752a9/live.isml/e3997c67-0c71-49ec-abac-331bd29752a9.mpd
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
 https://sonymtpristinenew.akamaized.net/hls/live/2119931/cricacc12409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1758766313~acl=/*~id=87795466119465564496649231917159~hmac=2733db3ddc896f8c56d951ffbf6a5bd05e054c364f2427f5ef59d5354d9d77f9
