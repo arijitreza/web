@@ -4,6 +4,13 @@
 #EXTINF:-1 tvg-logo="https://h5-static.aoneroom.com/oneroomStatic/public/_nuxt/web-logo.apJjVir2.svg", Movie box
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw" group-title="GitTv",jio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 YGX/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3c924f8358e22b66de5f33733d9f3f0:fad4b95bbbafc7ac3e221851aa29bb04
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Asia_Cup_English_MOB/WDVLive/index.mpd|cookie=__hdnea__=st=1759065112~exp=1759151512~acl=/*~hmac=cb9b5178910f9389615670dbf2f79358c73199c87de4c49327a565a0df9e8ff7
+
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw" group-title="GitTv",Willow
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 YGX/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
