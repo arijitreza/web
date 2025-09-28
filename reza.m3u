@@ -25,8 +25,8 @@ https://sundirectgo-live.pc.cdn.bitgravity.com/hd21/dth.mpd
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw" group-title="GitTv",Willow
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 YGX/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d3c924f8358e22b66de5f33733d9f3f0:fad4b95bbbafc7ac3e221851aa29bb04
-https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jwsgpgb4sa/out/v1/fba6fb5bc2a8475685d7c699dd59ca3a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=31f91da574d667855834640e323f647d:044dbc740ad84f6069277a6cabd76adf
+https://a168aivottlinear-a.akamaihd.net/IAD/lhr-nitro/clients/dash/enc/llriqg36oy/out/v1/d5d0b76a4cab4567888ffea90cc42a2c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="GitTv",TNT Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
