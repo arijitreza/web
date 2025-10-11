@@ -7,8 +7,8 @@
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://h5-static.aoneroom.com/oneroomStatic/public/_nuxt/web-logo.apJjVir2.svg", Movie box
-https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg", TAPMAD
+https://premierleagpl23.akamaized.net/hls/live/2107108/TapSerie-1@2025/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
 https://jiotvbpkmob.cdn.jio.com/bpk-tv/Asia_Cup_English_MOB/WDVLive/index.mpd|cookie=__hdnea__=st=1759065112~exp=1759151512~acl=/*~hmac=cb9b5178910f9389615670dbf2f79358c73199c87de4c49327a565a0df9e8ff7
