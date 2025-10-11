@@ -10,6 +10,20 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inp
 #EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg", TAPMAD
 https://premierleagpl23.akamaized.net/hls/live/2107108/TapSerie-1@2025/master.m3u8
 
+#EXTINF:-1 tvg-id="68d662eeddc71c71d25ff860" tvg-name="Afghanistan VS Bangladesh" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758880490127-833520268.webp" group-title="Live",Afghanistan VS Bangladesh
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
+
+#EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b4c69f166939345.Y3JvcCwzNDUxLDI3MDAsNjc1LDA.jpg" group-title="Live",Womens Cricket World Cup 2025
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
+https://live.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd
+
+
+
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
 https://jiotvbpkmob.cdn.jio.com/bpk-tv/Asia_Cup_English_MOB/WDVLive/index.mpd|cookie=__hdnea__=st=1759065112~exp=1759151512~acl=/*~hmac=cb9b5178910f9389615670dbf2f79358c73199c87de4c49327a565a0df9e8ff7
 
