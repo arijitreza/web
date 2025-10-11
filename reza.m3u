@@ -14,6 +14,10 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/TapSerie-1@2025/master.m3
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251010%2Fmycolive-thumblivepng-1760114388682.webp&w=3840&q=30" group-title="Live",England vs Sri Lanka | Match -  12 | ICC Women’s World Cup Live on myco
+#EXTVLCOPT:http-referrer=https://myco.io/
+https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8
+
 #EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b4c69f166939345.Y3JvcCwzNDUxLDI3MDAsNjc1LDA.jpg" group-title="Live",Womens Cricket World Cup 2025
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
