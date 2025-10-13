@@ -85,22 +85,17 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesu
 
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
-http://filex.me:8080/live/03317143343/abdulsalam/453435.ts
+http://185.46.40.10/~acc877klivfun/opo13/stream.php?id=109983
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/79/ac/65/79ac659e-6de4-59b8-3ab4-76008a65cc54/source/512x512bb.jpg", FOX 501
-https://lv.hexvai56.workers.dev/XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0hfIl8GAREyVzZaJDxaBj8L/index.m3u8|Referer=https://dash-hex.pages.dev/&Origin=https://dash-hex.pages.dev
+http://185.46.40.10/~acc877klivfun/opo13/stream.php?id=167593
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQH4VBSB9lGpTA/company-logo_200_200/company-logo_200_200/0/1630668356175?e=2147483647&v=beta&t=YHP4YFiZr_hR9Xyu8PlNcxfCbr1PTYjjqPw5zTzsyfU", Toffee
-http://103.73.107.122:3255/TSportsHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg", Tapmad
-https://premierleagpl23.akamaized.net/hls/live/2107108/Seri-1-Metro-ODI-FNF/level_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="GitTv",Astro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-https://proxy.mydementiacompanion.com.au/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+http://185.46.40.10/~acc877klivfun/opo13/stream.php?id=167581
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="GitTv",Ten sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -115,9 +110,60 @@ http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/1372.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 http://175.107.244.52:4456/play/a042
 
+#EXTINF:-1 tvg-name="PTV SPORTS FHD" group-title="SPORTS",PTV SPORTS FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/498
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt" group-title="SR AynaOTT", Sky Sports Cricket
-http://nayatv.ydns.eu/xfireflix/flixfire/12558
+
+#EXTINF:-1 tvg-name="WILLOW CRICKET HD" group-title="SPORTS",WILLOW CRICKET HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/517
+
+
+#EXTINF:-1 tvg-name="STAR SPRTS 1 HD" group-title="SPORTS",STAR SPRTS 1 HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1063
+
+
+#EXTINF:-1 tvg-name="ind: STAR sprts HD2" group-title="SPORTS",ind: STAR sprts HD2
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1066
+#EXTINF:-1 tvg-name="STAR SPRTS SELECT 1 FHD" group-title="SPORTS",STAR SPRTS SELECT 1 FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1125
+#EXTINF:-1 tvg-name="STAR sprts select 2 FHD" group-title="SPORTS",STAR sprts select 2 FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1315
+
+#EXTINF:-1 tvg-name="Sony Sports 1 FHD" group-title="SPORTS",Sony Sports 1 FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/497
+
+#EXTINF:-1 tvg-name="Sony Sports 5 FHD" group-title="SPORTS",Sony Sports 5 FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1367
+
+
+#EXTINF:-1 tvg-name="Sly Sprts Mainevnt HD" group-title="SPORTS",Sly Sprts Mainevnt HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2479
+
+#EXTINF:-1 tvg-name="Sly Sprts Cricket  HD" group-title="SPORTS",Sly Sprts Cricket  HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2480
+
+#EXTINF:-1 tvg-name="Sly Sprts mix FHD" group-title="SPORTS",Sly Sprts mix FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/943
+
+#EXTINF:-1 tvg-name="TNT SPRT 1 FHD" group-title="SPORTS",TNT SPRT 1 FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3933
+#EXTINF:-1 tvg-name="TNT SPRT 2 FHD" group-title="SPORTS",TNT SPRT 2 FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3934
+#EXTINF:-1 tvg-name="TNT SPRT 3 FHD" group-title="SPORTS",TNT SPRT 3 FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3935
+#EXTINF:-1 tvg-name="TNT SPRT 4 FHD" group-title="SPORTS",TNT SPRT 4 FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3936
+
+#EXTINF:-1 tvg-name="T SPORT HD" group-title="SPORTS",T SPORT HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1136
+#EXTINF:-1 tvg-name="Astro Cricket" group-title="SPORTS",Astro Cricket
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/516
+#EXTINF:-1 tvg-name="TEN SPRTS PK" group-title="SPORTS",TEN SPRTS PK
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1372
+#EXTINF:-1 tvg-name="FOX 501 HD" group-title="SPORTS",FOX 501 HD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/6651
+#EXTINF:-1 tvg-name="SUPER SPRTS Cricket" group-title="SPORTS",SUPER SPRTS Cricket
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1317
 
 
 
@@ -127,49 +173,374 @@ https://allinonereborn.fun/fcw/live.php?url=https://in-mcacc-fdlive.fancode.com/
 https://allinonereborn.fun/fcw/live.php?url=https://in-mcacc-fdlive.fancode.com/mumbai-acc/136747_english_hls_630f7ced5b32225ta-di_h264/index.m3u8|Referer=https://allinonereborn.fun
 
 
+#EXTINF:-1 group-title="-",&flix HD - Rs 19.00
+http://66.102.120.18:8000/play/a022
+#EXTINF:-1 group-title="-",&pictures HD - Rs 19.00
+http://66.102.120.18:8000/play/a01t
+#EXTINF:-1 group-title="-",&tv HD - Rs 19.00
+http://66.102.120.18:8000/play/a01u
+#EXTINF:-1 group-title="-",24 News HD
+http://66.102.120.18:8000/play/a04v
+#EXTINF:-1 group-title="-",24B HD
+http://66.102.120.18:8000/play/a044
+#EXTINF:-1 group-title="-",365 NEWS
+http://66.102.120.18:8000/play/a039
+#EXTINF:-1 group-title="-",8XM HD
+http://66.102.120.18:8000/play/a050
+#EXTINF:-1 group-title="-",92 Entertainment
+http://66.102.120.18:8000/play/a06m
+#EXTINF:-1 group-title="-",92 News HD
+http://66.102.120.18:8000/play/a04y
+#EXTINF:-1 group-title="-",A SportsHD
+http://66.102.120.18:8000/play/a032
+#EXTINF:-1 group-title="-",A1 TV
+http://66.102.120.18:8000/play/a04q
+#EXTINF:-1 group-title="-",AAJ ENTERTANMENT
+http://66.102.120.18:8000/play/a05b
+#EXTINF:-1 group-title="-",AAJ NEWS
+http://66.102.120.18:8000/play/a05a
+#EXTINF:-1 group-title="-",AAN TV - HD
+http://66.102.120.18:8000/play/a05j
+#EXTINF:-1 group-title="-",ABBTAKK HD
+http://66.102.120.18:8000/play/a051
+#EXTINF:-1 group-title="-",AIK NEWS
+http://66.102.120.18:8000/play/a03d
+#EXTINF:-1 group-title="-",APNA CHANNEL HD
+http://66.102.120.18:8000/play/a04z
+#EXTINF:-1 group-title="-",APlus Pakistan
+http://66.102.120.18:8000/play/a03c
+#EXTINF:-1 group-title="-",ARYDigitalAsia HD
+http://66.102.120.18:8000/play/a030
+#EXTINF:-1 group-title="-",ARYMusik
+http://66.102.120.18:8000/play/a036
+#EXTINF:-1 group-title="-",ARYNewsAsia
+http://66.102.120.18:8000/play/a02z
+#EXTINF:-1 group-title="-",ARYQTV
+http://66.102.120.18:8000/play/a014
+#EXTINF:-1 group-title="-",ARYZindagi
+http://66.102.120.18:8000/play/a031
+#EXTINF:-1 group-title="-",ATV ENT HD
+http://66.102.120.18:8000/play/a03t
+#EXTINF:-1 group-title="-",AUR_Life HD
+http://66.102.120.18:8000/play/a05k
+#EXTINF:-1 group-title="-",AXN 
+http://66.102.120.18:8000/play/a06i
+#EXTINF:-1 group-title="-",Al Jazeera English HD
+http://66.102.120.18:8000/play/a015
+#EXTINF:-1 group-title="-",Animal Planet HD  
+http://66.102.120.18:8000/play/a00o
+#EXTINF:-1 group-title="-",B4U Movies - Free
+http://66.102.120.18:8000/play/a01w
+#EXTINF:-1 group-title="-",BBC News 
+http://66.102.120.18:8000/play/a074
+#EXTINF:-1 group-title="-",BOL News Urdu
+http://66.102.120.18:8000/play/a038
+#EXTINF:-1 group-title="-",CITY-21
+http://66.102.120.18:8000/play/a05z
+#EXTINF:-1 group-title="-",CITY-42 HD
+http://66.102.120.18:8000/play/a05x
+#EXTINF:-1 group-title="-",CNN International
+http://66.102.120.18:8000/play/a017
+#EXTINF:-1 group-title="-",COLORS CINIPLEX HD
+http://66.102.120.18:8000/play/a06z
+#EXTINF:-1 group-title="-",Capital TV
+http://66.102.120.18:8000/play/a02y
+#EXTINF:-1 group-title="-",Cartoon Network - Rs 4.75
+http://66.102.120.18:8000/play/a00t
+#EXTINF:-1 group-title="-",Cartoon Network HD+ - Rs 7.0
+http://66.102.120.18:8000/play/a011
+#EXTINF:-1 group-title="-",Colors Cineplex Bollywood - Rs 0.10
+http://66.102.120.18:8000/play/a01a
+#EXTINF:-1 group-title="-",Colors HD
+http://66.102.120.18:8000/play/a00a
+#EXTINF:-1 group-title="-",Colors Infinity HD
+http://66.102.120.18:8000/play/a00q
+#EXTINF:-1 group-title="-",DW English HD
+http://66.102.120.18:8000/play/a03i
+#EXTINF:-1 group-title="-",Discover Pakistan
+http://66.102.120.18:8000/play/a06r
+#EXTINF:-1 group-title="-",Discover Pakistan
+http://66.102.120.18:8000/play/a03v
+#EXTINF:-1 group-title="-",Discovery HD - Rs 8.00
+http://66.102.120.18:8000/play/a01k
+#EXTINF:-1 group-title="-",Discovery Kids - Rs 3.50
+http://66.102.120.18:8000/play/a00k
+#EXTINF:-1 group-title="-",Discovery Science - Rs 1.00
+http://66.102.120.18:8000/play/a01l
+#EXTINF:-1 group-title="-",Discovery Turbo - Rs 1.00
+http://66.102.120.18:8000/play/a016
+#EXTINF:-1 group-title="-",Disney International HD
+http://66.102.120.18:8000/play/a078
+#EXTINF:-1 group-title="-",Disney Junior
+http://66.102.120.18:8000/play/a004
+#EXTINF:-1 group-title="-",Disny 
+http://66.102.120.18:8000/play/a070
+#EXTINF:-1 group-title="-",Dunya News HD
+http://66.102.120.18:8000/play/a04u
+#EXTINF:-1 group-title="-",EXP ENTERTAINMENT
+http://66.102.120.18:8000/play/a054
+#EXTINF:-1 group-title="-",EXPRESS NEWS
+http://66.102.120.18:8000/play/a053
+#EXTINF:-1 group-title="-",Eurosport HD - Rs 6.00
+http://66.102.120.18:8000/play/a01g
+#EXTINF:-1 group-title="-",FAST SPORTS HD
+http://66.102.120.18:8000/play/a05f
+#EXTINF:-1 group-title="-",FILMAX
+http://66.102.120.18:8000/play/a04c
+#EXTINF:-1 group-title="-",FILMAZIA
+http://66.102.120.18:8000/play/a04d
+#EXTINF:-1 group-title="-",FILMAZIA PUNJABI
+http://66.102.120.18:8000/play/a04n
+#EXTINF:-1 group-title="-",FIX&FOXI
+http://66.102.120.18:8000/play/a04b
+#EXTINF:-1 group-title="-",FN MOVIES HD
+http://66.102.120.18:8000/play/a06e
+#EXTINF:-1 group-title="-",GEM COMEDY
+http://66.102.120.18:8000/play/a049
+#EXTINF:-1 group-title="-",GEM TV HD
+http://66.102.120.18:8000/play/a045
+#EXTINF:-1 group-title="-",GEO HD
+http://66.102.120.18:8000/play/a062
+#EXTINF:-1 group-title="-",GEO KAHANI HD
+http://66.102.120.18:8000/play/a064
+#EXTINF:-1 group-title="-",GEO NEWS
+http://66.102.120.18:8000/play/a05w
+#EXTINF:-1 group-title="-",GEO SUPER HD
+http://66.102.120.18:8000/play/a063
+#EXTINF:-1 group-title="-",GNNHD
+http://66.102.120.18:8000/play/a06p
+#EXTINF:-1 group-title="-",GTV NEWS HD
+http://66.102.120.18:8000/play/a05m
+#EXTINF:-1 group-title="-",GTV NEWS HD
+http://66.102.120.18:8000/play/a05l
+#EXTINF:-1 group-title="-",Geo Tez
+http://66.102.120.18:8000/play/a05o
+#EXTINF:-1 group-title="-",HUM HD
+http://66.102.120.18:8000/play/a06c
+#EXTINF:-1 group-title="-",HUM NEWS HD
+http://66.102.120.18:8000/play/a05e
+#EXTINF:-1 group-title="-",HUM SITARAY
+http://66.102.120.18:8000/play/a05i
+#EXTINF:-1 group-title="-",Hidayat TV
+http://66.102.120.18:8000/play/a04p
+#EXTINF:-1 group-title="-",History TV18 HD - Rs 7.00 
+http://66.102.120.18:8000/play/a01q
+#EXTINF:-1 group-title="-",Hoora TV
+http://66.102.120.18:8000/play/a040
+#EXTINF:-1 group-title="-",INPLUS Pakistan
+http://66.102.120.18:8000/play/a02x
+#EXTINF:-1 group-title="-",Investigation Discovery - Rs 1.00
+http://66.102.120.18:8000/play/a01h
+#EXTINF:-1 group-title="-",Isaac TV
+http://66.102.120.18:8000/play/a04j
+#EXTINF:-1 group-title="-",JALWA HD
+http://66.102.120.18:8000/play/a052
+#EXTINF:-1 group-title="-",KSA SPORT1 HD
+http://66.102.120.18:8000/play/a03o
+#EXTINF:-1 group-title="-",KSA SPORT2 HD
+http://66.102.120.18:8000/play/a03p
+#EXTINF:-1 group-title="-",Khyber News HD
+http://66.102.120.18:8000/play/a058
+#EXTINF:-1 group-title="-",Kidzone Pakistan
+http://66.102.120.18:8000/play/a02l
+#EXTINF:-1 group-title="-",LTN FAMILY
+http://66.102.120.18:8000/play/a04a
+#EXTINF:-1 group-title="-",Lahore News HD
+http://66.102.120.18:8000/play/a04x
+#EXTINF:-1 group-title="-",Lahore Rang HD
+http://66.102.120.18:8000/play/a05h
+#EXTINF:-1 group-title="-",LotusTV
+http://66.102.120.18:8000/play/a03b
+#EXTINF:-1 group-title="-",MASALA TV
+http://66.102.120.18:8000/play/a059
+#EXTINF:-1 group-title="-",MIFA + HD
+http://66.102.120.18:8000/play/a047
+#EXTINF:-1 group-title="-",MIFA + HD
+http://66.102.120.18:8000/play/a048
+#EXTINF:-1 group-title="-",MIFA MUSIC HD
+http://66.102.120.18:8000/play/a046
+#EXTINF:-1 group-title="-",MINIMAX 2
+http://66.102.120.18:8000/play/a04o
+#EXTINF:-1 group-title="-",MTCL 1HD
+http://66.102.120.18:8000/play/a07m
+#EXTINF:-1 group-title="-",MTCL 2HD
+http://66.102.120.18:8000/play/a07j
+#EXTINF:-1 group-title="-",MTCL 3HD
+http://66.102.120.18:8000/play/a07k
+#EXTINF:-1 group-title="-",MTCL 4HD
+http://66.102.120.18:8000/play/a07l
+#EXTINF:-1 group-title="-",MTCL 5HD
+http://66.102.120.18:8000/play/a07i
+#EXTINF:-1 group-title="-",MTCL 6HD
+http://66.102.120.18:8000/play/a07h
+#EXTINF:-1 group-title="-",MTCL 8HD
+http://66.102.120.18:8000/play/a07g
+#EXTINF:-1 group-title="-",MTCL7HD
+http://66.102.120.18:8000/play/a07f
+#EXTINF:-1 group-title="-",MUN TV
+http://66.102.120.18:8000/play/a02j
+#EXTINF:-1 group-title="-",Metro 1
+http://66.102.120.18:8000/play/a034
+#EXTINF:-1 group-title="-",Movies Now HD - Rs 14.00
+http://66.102.120.18:8000/play/a019
+#EXTINF:-1 group-title="-",NATIONAL GEOGRAPHIC HD - Rs 14.00
+http://66.102.120.18:8000/play/a01f
+#EXTINF:-1 group-title="-",NEO NEWS HD
+http://66.102.120.18:8000/play/a05g
+#EXTINF:-1 group-title="-",NEWS ONE
+http://66.102.120.18:8000/play/a057
+#EXTINF:-1 group-title="-",NHK WORLD-JPN
+http://66.102.120.18:8000/play/a03k
+#EXTINF:-1 group-title="-",NOOR TV PK
+http://66.102.120.18:8000/play/a04m
+#EXTINF:-1 group-title="-",Nat Geo Wild HD - Rs 8.00
+http://66.102.120.18:8000/play/a01d
+#EXTINF:-1 group-title="-",Nick  - Rs 6.00
+http://66.102.120.18:8000/play/a00w
+#EXTINF:-1 group-title="-",Nick HD+ 
+http://66.102.120.18:8000/play/a07a
+#EXTINF:-1 group-title="-",Nick Jr. - Rs 1.00
+http://66.102.120.18:8000/play/a00m
+#EXTINF:-1 group-title="-",ONYX HD
+http://66.102.120.18:8000/play/a041
+#EXTINF:-1 group-title="-",PTV HOME HD
+http://66.102.120.18:8000/play/a04r
+#EXTINF:-1 group-title="-",PTV NATIONAL
+http://66.102.120.18:8000/play/a03s
+#EXTINF:-1 group-title="-",PTV NEWS HD
+http://66.102.120.18:8000/play/a04s
+#EXTINF:-1 group-title="-",PTV WORLD HD
+http://66.102.120.18:8000/play/a04t
+#EXTINF:-1 group-title="-",PTV-SPORTS-HD
+http://66.102.120.18:8000/play/a04w
+#EXTINF:-1 group-title="-",Paigham Pashto
+http://66.102.120.18:8000/play/a04g
+#EXTINF:-1 group-title="-",Paigham Urdu
+http://66.102.120.18:8000/play/a03e
+#EXTINF:-1 group-title="-",Paigham Urdu
+http://66.102.120.18:8000/play/a04k
+#EXTINF:-1 group-title="-",Peace TV English  HD
+http://66.102.120.18:8000/play/a05q
+#EXTINF:-1 group-title="-",Peace TV Urdu  HD
+http://66.102.120.18:8000/play/a05p
+#EXTINF:-1 group-title="-",Planet Fun HD
+http://66.102.120.18:8000/play/a02k
+#EXTINF:-1 group-title="-",Pogo - Rs 4.75
+http://66.102.120.18:8000/play/a00l
+#EXTINF:-1 group-title="-",Public News
+http://66.102.120.18:8000/play/a03u
+#EXTINF:-1 group-title="-",QURAN TV
+http://66.102.120.18:8000/play/a04h
+#EXTINF:-1 group-title="-",RIVER HD
+http://66.102.120.18:8000/play/a043
+#EXTINF:-1 group-title="-",ROHI TV
+http://66.102.120.18:8000/play/a05y
+#EXTINF:-1 group-title="-",RUBIX HD
+http://66.102.120.18:8000/play/a042
+#EXTINF:-1 group-title="-",Romedy Now - Rs 5.00
+http://66.102.120.18:8000/play/a01j
+#EXTINF:-1 group-title="-",SAMAA
+http://66.102.120.18:8000/play/a06o
+#EXTINF:-1 group-title="-",SAUDI CH For Quran HD
+http://66.102.120.18:8000/play/a03m
+#EXTINF:-1 group-title="-",SAUDI CH For Sunnah HD
+http://66.102.120.18:8000/play/a03n
+#EXTINF:-1 group-title="-",SET HD - Rs 19.00
+http://66.102.120.18:8000/play/a005
+#EXTINF:-1 group-title="-",SONY BBC EARTH HD - Rs 19.00
+http://66.102.120.18:8000/play/a01r
+#EXTINF:-1 group-title="-",SONY MAX - Rs 19.00
+http://66.102.120.18:8000/play/a00u
+#EXTINF:-1 group-title="-",SONY MAX 2 - Rs 1.00
+http://66.102.120.18:8000/play/a00h
+#EXTINF:-1 group-title="-",SONY MAX HD
+http://66.102.120.18:8000/play/a071
+#EXTINF:-1 group-title="-",SONY PIX HD - Rs 19.00
+http://66.102.120.18:8000/play/a01z
+#EXTINF:-1 group-title="-",SONY SAB HD - Rs 19.00
+http://66.102.120.18:8000/play/a00d
+#EXTINF:-1 group-title="-",SONY SPORTS TEN 1 HD - Rs 19.00
+http://66.102.120.18:8000/play/a002
+#EXTINF:-1 group-title="-",SONY SPORTS TEN 2 HD - Rs 19.00
+http://66.102.120.18:8000/play/a01y
+#EXTINF:-1 group-title="-",SONY SPORTS TEN 3 HD - Rs 19.00
+http://66.102.120.18:8000/play/a001
+#EXTINF:-1 group-title="-",SONY SPORTS TEN 5 HD - Rs 25.00
+http://66.102.120.18:8000/play/a010
+#EXTINF:-1 group-title="-",SONY YAY! - Rs 4.00
+http://66.102.120.18:8000/play/a00s
+#EXTINF:-1 group-title="-",STAR GOLD HD - Rs 19.00
+http://66.102.120.18:8000/play/a00f
+#EXTINF:-1 group-title="-",STAR Movies HD - Rs 19.00
+http://66.102.120.18:8000/play/a021
+#EXTINF:-1 group-title="-",STAR Movies Select HD - Rs 19.00
+http://66.102.120.18:8000/play/a020
+#EXTINF:-1 group-title="-",STAR Plus HD - Rs 22.00
+http://66.102.120.18:8000/play/a008
+#EXTINF:-1 group-title="-",STAR SPORTS S1 HD
+http://66.102.120.18:8000/play/a06x
+#EXTINF:-1 group-title="-",STAR SPORTS S2 HD
+http://66.102.120.18:8000/play/a06y
+#EXTINF:-1 group-title="-",STAR Sports 1 Hindi HD 
+http://66.102.120.18:8000/play/a072
+#EXTINF:-1 group-title="-",STAR Sports2 Hindi HD 
+http://66.102.120.18:8000/play/a00v
+#EXTINF:-1 group-title="-",SUNO NEWS HD
+http://66.102.120.18:8000/play/a05n
+#EXTINF:-1 group-title="-",Sab TV
+http://66.102.120.18:8000/play/a035
+#EXTINF:-1 group-title="-",See TV
+http://66.102.120.18:8000/play/a03y
+#EXTINF:-1 group-title="-",Set Entertainment
+http://66.102.120.18:8000/play/a05r
+#EXTINF:-1 group-title="-",Sindh News
+http://66.102.120.18:8000/play/a03x
+#EXTINF:-1 group-title="-",Sindh TV
+http://66.102.120.18:8000/play/a03w
+#EXTINF:-1 group-title="-",Sonic - Rs 1.00
+http://66.102.120.18:8000/play/a00p
+#EXTINF:-1 group-title="-",Star Bharat HD - Rs 19
+http://66.102.120.18:8000/play/a012
+#EXTINF:-1 group-title="-",Star Gold 2 - Rs 3.00
+http://66.102.120.18:8000/play/a00g
+#EXTINF:-1 group-title="-",Star Gold 2 HD
+http://66.102.120.18:8000/play/a077
+#EXTINF:-1 group-title="-",Star Gold Romance - Rs 2.00
+http://66.102.120.18:8000/play/a00r
+#EXTINF:-1 group-title="-",Star Gold Select HD - Rs 8.00
+http://66.102.120.18:8000/play/a01s
+#EXTINF:-1 group-title="-",Star Gold Thrills - Rs 2.00
+http://66.102.120.18:8000/play/a00c
+#EXTINF:-1 group-title="-",Star Sports 1 HD - Rs 19.00
+http://66.102.120.18:8000/play/a009
+#EXTINF:-1 group-title="-",Star Sports 1 Hindi - Rs 19.00
+http://66.102.120.18:8000/play/a00i
+#EXTINF:-1 group-title="-",TLC HD - Rs 3.00
+http://66.102.120.18:8000/play/a01c
+#EXTINF:-1 group-title="-",TRT World HD
+http://66.102.120.18:8000/play/a03l
+#EXTINF:-1 group-title="-",TV ONE
+http://66.102.120.18:8000/play/a055
+#EXTINF:-1 group-title="-",Travelxp HD
+http://66.102.120.18:8000/play/a075
+#EXTINF:-1 group-title="-",WASEB TV
+http://66.102.120.18:8000/play/a056
+#EXTINF:-1 group-title="-",Zee Anmol Cinema - Rs 0.10
+http://66.102.120.18:8000/play/a01v
+#EXTINF:-1 group-title="-",Zee Bollywood - Rs 3.00
+http://66.102.120.18:8000/play/a00n
+#EXTINF:-1 group-title="-",Zee Cafe HD
+http://66.102.120.18:8000/play/a076
+#EXTINF:-1 group-title="-",Zee Cinema HD 
+http://66.102.120.18:8000/play/a06w
+#EXTINF:-1 group-title="-",Zee Classic - Rs 0.10
+http://66.102.120.18:8000/play/a006
+#EXTINF:-1 group-title="-",Zee TV HD - Rs 19.00
+http://66.102.120.18:8000/play/a00y
+#EXTINF:-1 group-title="-",iFilm English
+http://66.102.120.18:8000/play/a06n
 
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="GitTv",TNT Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d9efa8287a52a2497a281f7a9012211:e4f832d372943014fe5c30928a90e547
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="GitTv",TNT Sports 1 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="GitTv",TNT Sports 2 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="GitTv",TNT Sports 3 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-#EXTINF:-1 tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60", TNT SPORTS 1
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="GitTv",TNT Sports 5 UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd?
 
