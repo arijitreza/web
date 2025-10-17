@@ -85,17 +85,17 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesu
 
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
-http://185.46.40.10/~acc877klivfun/opo13/stream.php?id=109983
+http://185.46.40.10/~acc877klivfun/opo13/stream.php?id=109983&format=.m3u8
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/79/ac/65/79ac659e-6de4-59b8-3ab4-76008a65cc54/source/512x512bb.jpg", FOX 501
-http://185.46.40.10/~acc877klivfun/opo13/stream.php?id=167593
+http://185.46.40.10/~acc877klivfun/opo13/stream.php?id=167593&format=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="GitTv",Astro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-http://185.46.40.10/~acc877klivfun/opo13/stream.php?id=167581
+http://185.46.40.10/~acc877klivfun/opo13/stream.php?id=167581&format=.m3u8
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="GitTv",Ten sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -111,59 +111,59 @@ http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/1372.m3u8
 http://175.107.244.52:4456/play/a042
 
 #EXTINF:-1 tvg-name="PTV SPORTS FHD" group-title="SPORTS",PTV SPORTS FHD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/498
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/498.m3u8
 
 
 #EXTINF:-1 tvg-name="WILLOW CRICKET HD" group-title="SPORTS",WILLOW CRICKET HD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/517
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/517.m3u8
 
 
 #EXTINF:-1 tvg-name="STAR SPRTS 1 HD" group-title="SPORTS",STAR SPRTS 1 HD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1063
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1063.m3u8
 
 
 #EXTINF:-1 tvg-name="ind: STAR sprts HD2" group-title="SPORTS",ind: STAR sprts HD2
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1066
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1066.m3u8
 #EXTINF:-1 tvg-name="STAR SPRTS SELECT 1 FHD" group-title="SPORTS",STAR SPRTS SELECT 1 FHD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1125
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1125.m3u8
 #EXTINF:-1 tvg-name="STAR sprts select 2 FHD" group-title="SPORTS",STAR sprts select 2 FHD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1315
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1315.m3u8
 
 #EXTINF:-1 tvg-name="Sony Sports 1 FHD" group-title="SPORTS",Sony Sports 1 FHD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/497
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/497.m3u8
 
 #EXTINF:-1 tvg-name="Sony Sports 5 FHD" group-title="SPORTS",Sony Sports 5 FHD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1367
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1367.m3u8
 
 
 #EXTINF:-1 tvg-name="Sly Sprts Mainevnt HD" group-title="SPORTS",Sly Sprts Mainevnt HD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2479
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/2479.m3u8
 
 #EXTINF:-1 tvg-name="Sly Sprts Cricket  HD" group-title="SPORTS",Sly Sprts Cricket  HD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/2480
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/2480.m3u8
 
 #EXTINF:-1 tvg-name="Sly Sprts mix FHD" group-title="SPORTS",Sly Sprts mix FHD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/943
+http://main.epgmaker.com/live/live/Ali130225/Cpyej2JL56Xy/943.m3u8
 
 #EXTINF:-1 tvg-name="TNT SPRT 1 FHD" group-title="SPORTS",TNT SPRT 1 FHD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3933
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3933.m3u8
 #EXTINF:-1 tvg-name="TNT SPRT 2 FHD" group-title="SPORTS",TNT SPRT 2 FHD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3934
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3934.m3u8
 #EXTINF:-1 tvg-name="TNT SPRT 3 FHD" group-title="SPORTS",TNT SPRT 3 FHD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3935
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3935.m3u8
 #EXTINF:-1 tvg-name="TNT SPRT 4 FHD" group-title="SPORTS",TNT SPRT 4 FHD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3936
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3936.m3u8
 
 #EXTINF:-1 tvg-name="T SPORT HD" group-title="SPORTS",T SPORT HD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1136
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1136.m3u8
 #EXTINF:-1 tvg-name="Astro Cricket" group-title="SPORTS",Astro Cricket
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/516
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/516.m3u8
 #EXTINF:-1 tvg-name="TEN SPRTS PK" group-title="SPORTS",TEN SPRTS PK
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1372
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1372.m3u8
 #EXTINF:-1 tvg-name="FOX 501 HD" group-title="SPORTS",FOX 501 HD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/6651
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/6651.m3u8
 #EXTINF:-1 tvg-name="SUPER SPRTS Cricket" group-title="SPORTS",SUPER SPRTS Cricket
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1317
+http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/1317.m3u8
 
 
 
