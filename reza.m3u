@@ -4,10 +4,10 @@
 #EXTVLCOPT:http-referrer=https://www.sandbrix.com/
 https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
 
-#EXTINF:-1 , channel name
+#EXTINF:-1 , channel 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://akashgo.yflix.top/license?id=f9e1c145-b66f
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.mpd
 
