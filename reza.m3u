@@ -13,9 +13,15 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" group-title="GitTv",Akash go
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://akashgo.yflix.top/
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_url=https://akashgo.yflix.top/license?id=f9e1c145-b66f
+#KODIPROP:inputstream.adaptive.license_key=https://akashgo.yflix.top/license?id=f9e1c145-b66f
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://omzolix.elementfx.com/logo/konoha.jpg" group-title="LIGA BRI",Sportstar 3 SD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=widevine
+https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" group-title="GitTv",Fancode Cric 1
