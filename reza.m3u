@@ -1,12 +1,21 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/kry0ziqxril1cw1k7r4j" group-title="Live",3rd ODI, Bangladesh v West Indies (1st Innings)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/hdntl=exp=1761209793~acl=/variant/v1blackout/vcg-01-d/*~hmac=1964464c7dc34404d63134a6693289422afe70f4331027ae73a62a02c728a258/manifest.mpd
 
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/kry0ziqxril1cw1k7r4j" group-title="Live",3rd ODI, Bangladesh v West Indies (1st Innings)
+https://bd-mc-fdlive.fancode.com/mumbai/137702_english_hls_a99a194daf68548ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/kry0ziqxril1cw1k7r4j" group-title="Live",3rd ODI, Bangladesh v West Indies (1st Innings)
+https://ams.sandbrix.live/LiveApp/streams/d8dG8ew76tuf4Zhk242747603365482.m3u8
+
+#EXTINF:-1 tvg-id="68eca927e4b44a5c727eb798" tvg-name="Bangladesh VS West Indies" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760340251624-720987054.webp" group-title="Live",Bangladesh VS West Indies
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
+
+#EXTINF:-1 tvg-id="67fd06f9213b30ba5bd38651" tvg-name="Australia VS India" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1759828731807-494895120.webp" group-title="Live",Australia VS India
+#EXTVLCOPT:http-referrer=https://www.sandbrix.com/
+https://ams.sandbrix.live/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8
+
+#EXTINF:-1 tvg-id="67fd06f9213b30ba5bd38651" tvg-name="Australia VS India" tvg-logo="https://sandbrix.b-cdn.net/styxsports-public/matches/1759828731807-494895120.webp" group-title="Live",Australia VS India
 
 
 #EXTINF:-1 , TNT SPORTS 1
@@ -15,19 +24,8 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c8.alamy.com/comp/2YRHMJF/australia-vs-india-3d-illustration-vector-flags-in-shaded-rounded-rectangle-with-flash-versus-match-2YRHMJF.jpg" group-title="BHARAT vs AUS", Fox 501 4K
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f1a5816f871e4817b41241b6017faadf:0ab300bf80017380c00af6c750487be2,94bf80604e884243a689fd8c546b7c32:38ba8fb5656ca2076778092615ab5f82
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/86966d5956d944f2b1e5b7dfa405353a/index.mpd
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" group-title="GitTv",Akash go
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://yflix.top/
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://akashgo.yflix.top/license?id=f9e1c145-b66f
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" group-title="GitTv",Fancode Cric 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -61,13 +59,9 @@ http://147.93.154.65/Bein3/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg", TAPMAD
 https://premierleagpl23.akamaized.net/hls/live/2107108/TapSerie-1@2025/master.m3u8
 
-#EXTINF:-1 tvg-id="68d662eeddc71c71d25ff860" tvg-name="Afghanistan VS Bangladesh" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758880490127-833520268.webp" group-title="Live",Afghanistan VS Bangladesh
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251010%2Fmycolive-thumblivepng-1760114388682.webp&w=3840&q=30" group-title="Live",ICC Women’s World Cup Live on myco
+#EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251022%2Fmycolive-thumblivepng-1761149958384.webp&w=3840&q=30" group-title="Live",India vs New Zealand | Match - 24 | ICC Women’s World Cup Live on myco
 #EXTVLCOPT:http-referrer=https://myco.io/
-https://rtmp-pk.ml-pull-dvc-myco.io/RTMP-ICC-WWC/index.m3u8
+https://ml-pull-dvc-myco.io:2096/MYCO_ICC_WWC_PROMO/index.m3u8
 
 #EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b4c69f166939345.Y3JvcCwzNDUxLDI3MDAsNjc1LDA.jpg" group-title="Live",Womens Cricket World Cup 2025
 #KODIPROP:inputstream=inputstream.adaptive
@@ -113,7 +107,7 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesu
 http://185.46.40.10/~acc877klivfun/opo13/stream.php?id=109983&format=.m3u8
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/79/ac/65/79ac659e-6de4-59b8-3ab4-76008a65cc54/source/512x512bb.jpg", FOX 501
-http://185.46.40.10/~acc877klivfun/opo13/stream.php?id=167593&format=.m3u8
+https://hugh.cdn.rumble.cloud/live/d5a20b4d/slot-141/u49a-lu5c/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="GitTv",Astro
