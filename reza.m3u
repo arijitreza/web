@@ -10,13 +10,12 @@ https://ams.sandbrix.live/LiveApp/streams/3vpXsRXF3rdOgS1A148650091411.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c8.alamy.com/comp/2YRHMJF/australia-vs-india-3d-illustration-vector-flags-in-shaded-rounded-rectangle-with-flash-versus-match-2YRHMJF.jpg" group-title="BHARAT vs AUS", Fox 501 4K
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=f1a5816f871e4817b41241b6017faadf&key=0ab300bf80017380c00af6c750487be2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/86966d5956d944f2b1e5b7dfa405353a/index.mpd
 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" group-title="GitTv",Akash go
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://yflix.top/
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://akashgo.yflix.top/license?id=f9e1c145-b66f
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png" group-title="GitTv",Fancode Cric 1
