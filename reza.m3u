@@ -12,7 +12,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c8.alamy.com/comp/2YRHMJF/australia-vs-india-3d-illustration-vector-flags-in-shaded-rounded-rectangle-with-flash-versus-match-2YRHMJF.jpg" group-title="BHARAT vs AUS", Fox 501 4K
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=f1a5816f871e4817b41241b6017faadf&key=0ab300bf80017380c00af6c750487be2
+#KODIPROP:inputstream.adaptive.license_key=f1a5816f871e4817b41241b6017faadf:0ab300bf80017380c00af6c750487be2,94bf80604e884243a689fd8c546b7c32:38ba8fb5656ca2076778092615ab5f82
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/86966d5956d944f2b1e5b7dfa405353a/index.mpd
 
