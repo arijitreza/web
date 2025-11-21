@@ -13,6 +13,9 @@ https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-41/teed-wyvn/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", FOX CRICKET
 https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-117/zw23-96or_1080p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", ASTRO CRICKET
+http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
+
 #EXTINF:-1 , TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
