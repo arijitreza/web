@@ -1,17 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", T-SPORTS
+http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 , SKY SPORTS NZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
-https://dice-live-oc.akamaized.net/hdntl=exp=1763757343~acl=%2F*~id=476e826c-8131-4620-9ef0-91b08fdf1bef~data=hdntl,dWlkPXNWa2pnc3w2ZjZmZTIwMS02NWUyLTRmNWMtOWY3OC01MTBlNDU0NzY0YWUmaXA9MjAzLjk2LjIxOC4yNCZleHA9MTc2Mzc1NzM3MiZlaWQ9MjE5MDI2JmNpZD1kY2Uuc2t5bnomb2lkPTMxOCZ0eXBlPUxJVkU~hmac=092a71f440be4125a74d9c543cd70cebd4661036f4b0b4b3813ab3635918a1da/dash/live/2093662/219026-311262/manifest-d.mpd
+#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", PTV
+http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", 7
-https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-41/teed-wyvn/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", GAZI TV
+http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", FOX CRICKET
-https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-117/zw23-96or_1080p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", IND vs SA
+https://foxstream.pages.dev/e.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", ASHES
+https://foxstream.pages.dev/Cricsters01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", Ashes
+https://foxstream.pages.dev/Cricsters02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", WI vs NZ
+https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", ASTRO CRICKET
 http://103.240.44.26/Astro-Cricket/index.fmp4.m3u8
