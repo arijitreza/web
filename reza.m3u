@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", IN vs SA
-https://m.xigzo.store/live.php?id=a5f26c117efc&e=.m3u8
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 
 #EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", T-SPORTS
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
@@ -88,13 +88,13 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/TapSerie-1@2025/master.m3
 #EXTVLCOPT:http-referrer=https://myco.io/
 https://ml-pull-dvc-myco.io:2096/MYCO_ICC_WWC_PROMO/index.m3u8
 
-#EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b4c69f166939345.Y3JvcCwzNDUxLDI3MDAsNjc1LDA.jpg" group-title="Live",Womens Cricket World Cup 2025
+#EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="" group-title="Live",ASTRO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
-https://live.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd
+#KODIPROP:inputstream.adaptive.license_key=581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba
+https://allinonereborn.online/mpd/mpd.php/5117/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw" group-title="GitTv",Willow 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 YGX/537.36
