@@ -4,11 +4,17 @@
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="SR AynaOTT", T sports HD
 http://172.19.1.2/63463433/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", T-SPORTS
-http://10.16.100.213:8080/hls/tsports.m3u8
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="SR AynaOTT", T sports HD
+https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", GTV
-https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/tracks-v1a1/mono.m3u8?nimblesessionid=1458654510
+#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", PTV-SPORTS
+http://163.61.227.29:8000/play/a05l
+
+#EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg", STAR SP
+https://tvsen7.aynaott.com/sspts1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", NAGARIK TV
+http://103.151.61.12/NAGORIK_TV-2/video.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", PRIME
 https://cors-proxy.cooks.fyi/https://abdiqdlaaaaaaaamd3yw4nq5noo2t.ta.bia-cf.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/pnes4dv2ag/out/v1/e21d21ec21e34c7192049a44ee3de428/cenc.mpd|drmScheme=clearkey&drmLicense=ed76c18710d621a87c89dedc7c13019f:7241c82fe48525a9dc6be6d7bb86611f
@@ -43,8 +49,7 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inp
 
 
 
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="SR AynaOTT", T sports HD
-http://172.19.1.2/sports1/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="SR AynaOTT", T sports HD
 http://116.204.149.16/t_sports/index.m3u8
@@ -57,8 +62,7 @@ http://147.93.154.65/Bein3/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg", TAPMAD
-https://premierleagpl23.akamaized.net/hls/live/2107108/TapSerie-1@2025/master.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20251022%2Fmycolive-thumblivepng-1761149958384.webp&w=3840&q=30" group-title="Live",India vs New Zealand | Match - 24 | ICC Women’s World Cup Live on myco
 #EXTVLCOPT:http-referrer=https://myco.io/
