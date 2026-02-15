@@ -1,19 +1,18 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="SR AynaOTT", T sports HD
+http://172.19.1.2/63463433/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", T-SPORTS
 http://10.16.100.213:8080/hls/tsports.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", PTV
-http://10.16.100.206:8080/hls/PtvSportsHD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", GTV
+https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/tracks-v1a1/mono.m3u8?nimblesessionid=1458654510
 
-#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", A_SPORTS
-http://10.16.100.202:8080/hls/asports.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", PRIME
+https://cors-proxy.cooks.fyi/https://abdiqdlaaaaaaaamd3yw4nq5noo2t.ta.bia-cf.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/pnes4dv2ag/out/v1/e21d21ec21e34c7192049a44ee3de428/cenc.mpd|drmScheme=clearkey&drmLicense=ed76c18710d621a87c89dedc7c13019f:7241c82fe48525a9dc6be6d7bb86611f
 
-#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", STAR SP 1
-http://172.27.27.90:8080/tv2/index.m3u8
 
 
 
@@ -42,8 +41,7 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="SR AynaOTT", T sports HD
-http://172.27.27.90:8080/tv1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="SR AynaOTT", T sports HD
 http://172.19.1.2/sports1/tracks-v1a1/mono.ts.m3u8
