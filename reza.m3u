@@ -7,8 +7,7 @@ http://172.19.1.2/63463433/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="SR AynaOTT", T sports HD
 https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", PTV-SPORTS
-http://163.61.227.29:8000/play/a05l
+
 
 #EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg", STAR SP 1
 http://103.182.170.32:8888/play/a040
@@ -19,8 +18,18 @@ https://tvsen7.aynaott.com/sspts1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", NAGARIK TV
 http://103.151.61.12/NAGORIK_TV-2/video.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", PRIME
-https://cors-proxy.cooks.fyi/https://abdiqdlaaaaaaaamd3yw4nq5noo2t.ta.bia-cf.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/pnes4dv2ag/out/v1/e21d21ec21e34c7192049a44ee3de428/cenc.mpd|drmScheme=clearkey&drmLicense=ed76c18710d621a87c89dedc7c13019f:7241c82fe48525a9dc6be6d7bb86611f
+#EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="" group-title="Live",ASTRO
+https://lx20.net/t/SPORTS_ASTRO_CRICKET/index.m3u8?token=7ca43af9848d082beb6be0d0e6884f89
+
+#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", PTV-SPORTS
+http://163.61.227.29:8000/play/a05l
+
+#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", PTV-SPORTS
+https://lx20.net/t/UR_PTV_SPORTS/index.m3u8?token=337c227e2e6e79e8da779fd6fbf4aca4
+
+#EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", SKY-SPORTS
+https://lx20.net/t/UK_SKY_SPORTS_CRICKET/index.m3u8?token=973a57bc6c614c62462f3d9b9af5202c
+
 
 
 
@@ -71,13 +80,7 @@ http://147.93.154.65/Bein3/index.m3u8
 #EXTVLCOPT:http-referrer=https://myco.io/
 https://ml-pull-dvc-myco.io:2096/MYCO_ICC_WWC_PROMO/index.m3u8
 
-#EXTINF:-1 tvg-id="Shoq Tv" tvg-logo="" group-title="Live",ASTRO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba
-https://allinonereborn.online/mpd/mpd.php/5117/default_primary.mpd
+
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw" group-title="GitTv",Willow 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 YGX/537.36
