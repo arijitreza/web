@@ -10,13 +10,13 @@ http://172.19.1.2/63463433/tracks-v1a1/mono.m3u8
 http://103.158.133.62:8080/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/8f951219-25ee-4c91-80ff-25cf62577599.png" group-title="SR AynaOTT", T sports HD
-https://stream.imotv.net/stream/wwiZY05tXwsWyKAHXkM1Cg/1771879029/tsports/index.m3u8
+http://203.18.159.115/TSPORTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", T sports
 http://10.16.100.202:8080/hls/tsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg", STAR SP-1
-https://stream.imotv.net/stream/r-vmzlVWvTdnHzCR8lGj0Q/1771879020/starsports-1-1/index.m3u8
+http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg", STAR SP-1
 http://103.229.254.25:7001/play/a0a0
