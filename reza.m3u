@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", Willow
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/glqjh8kskc/out/v1/45bfbb3a527944c295223376e0bb6dc0/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=ac38fc1a8c759f4d1a43163432e964e9:9a55742c7164153e9440811712faa806
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/wfdj3lglfg/out/v1/b2db8919b7f44ee38826dd1fa0c846d3/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=106c1cd8b773f4486335cd98f4d3b8d8:167828189119ff2eda785eb4c0c7f35c
 
 #EXTINF:-1 tvg-logo="" group-title="SR AynaOTT", NAGARIK TV
 http://203.18.159.115/NAGORIK/tracks-v1a1/mono.m3u8
