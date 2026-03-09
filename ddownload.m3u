@@ -1,4 +1,18 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="1373" tvg-language="Hindi" group-title="KashurFlix Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.mhdtvhub.com/
+https://tulnit.fun/jio/stream.php/Disney_Channel_BTS/output/index.mpd
+#EXTINF:-1 tvg-id="697" tvg-language="Bengali" group-title="KashurFlix Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyAATH.png",Sony aath
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c00c75edb2a65e2d86f4094249bfbd85:9221a2bda61fe219560311c60662ce30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.mhdtvhub.com/
+https://tulnit.fun/jio/stream.php/SonyAATH_BTS/output/index.mpd
+
 #EXTINF:-1 tvg-id="1368" tvg-language="Hindi" group-title="KashurFlix Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png",Colors SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5727d2eea91255a3abcad8bf6e97cee6:66e77c7cf5c7f654c68f05455f44fea0
@@ -813,12 +827,7 @@ https://tulnit.fun/jio/stream.php/Colors_Kannada_SD_MOB/WDVLive/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.mhdtvhub.com/
 https://tulnit.fun/jio/stream.php/Colors_Tamil_MOB/WDVLive/index.mpd
-#EXTINF:-1 tvg-id="1373" tvg-language="Hindi" group-title="KashurFlix Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.mhdtvhub.com/
-https://tulnit.fun/jio/stream.php/Disney_Channel_BTS/output/index.mpd
+
 #EXTINF:-1 tvg-id="1374" tvg-language="Hindi" group-title="KashurFlix Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png",Disney Junior
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b1f9702f7d853c1b198495f64924311:40e11e60a12dd6c154dfea0ffbd5bda8
@@ -3425,7 +3434,7 @@ https://tulnit.fun/jio/stream.php/MNS_News_BTS/output/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.mhdtvhub.com/
 https://tulnit.fun/jio/stream.php/Gj_Desi_News_BTS/output/index.mpd
-#EXTINF:-1 tvg-id="3314" tvg-language="Gujarati" group-title="KashurFlix Infotainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gujarat_Wild_TV.png",Gujarat  Wild TV
+#EXTINF:-1 tvg-id="3314" tvg-language="Gujarati" group-title="KashurFlix Infotainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gujarat_Wild_TV.png",Gujarat Wild TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bb78c97648859a4a43322fff6d39929:0bee9e4ab52b2e6b127b3ceaa74c8e70
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -4595,12 +4604,7 @@ https://tulnit.fun/jio/stream.php/News18BiharJK_BTS/output/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.mhdtvhub.com/
 https://tulnit.fun/jio/stream.php/DD_Sahayadri_BTS/output/index.mpd
-#EXTINF:-1 tvg-id="697" tvg-language="Bengali" group-title="KashurFlix Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyAATH.png",Sony aath
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c00c75edb2a65e2d86f4094249bfbd85:9221a2bda61fe219560311c60662ce30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.mhdtvhub.com/
-https://tulnit.fun/jio/stream.php/SonyAATH_BTS/output/index.mpd
+
 #EXTINF:-1 tvg-id="698" tvg-language="Bengali" group-title="KashurFlix Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",Aakash Aath
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b137c51f880d5536b7c3ab2b1dcb2101:385e14a54c8770b828f74bb59e8ad309
@@ -5943,7 +5947,7 @@ https://tulnit.fun/jio/stream.php/Global_Sanjh_BTS/output/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.mhdtvhub.com/
 https://tulnit.fun/jio/stream.php/Janapriyam_News_BTS/output/index.mpd
-#EXTINF:-1 tvg-id="1221" group-title="KashurFlix Infotainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/World_Punjab.png",World  Punjabi
+#EXTINF:-1 tvg-id="1221" group-title="KashurFlix Infotainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/World_Punjab.png",World Punjabi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null:null
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
