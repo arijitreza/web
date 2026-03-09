@@ -1,8 +1,10 @@
 #EXTM3U
 
-#EXTINF:0,& FLIX HD
+#EXTINF:11,SONY PIX HD1
+http://103.161.153.165:8000/play/a056/index.m3u8
+#EXTINF:11,& FLIX_HD
 http://103.161.153.165:8000/play/a01z/index.m3u8
-#EXTINF:0,& TV_HD
+#EXTINF:11,&TV HD1
 http://103.161.153.165:8000/play/a05c/index.m3u8
 #EXTINF:0,&PICTURESHD
 http://103.161.153.165:8000/play/a04d/index.m3u8
@@ -166,9 +168,9 @@ http://103.161.153.165:8000/play/a04j/index.m3u8
 http://103.161.153.165:8000/play/a03j/index.m3u8
 #EXTINF:0,NEXUS TV ENC1
 http://103.161.153.165:8000/play/a02z/index.m3u8
-#EXTINF:0,NICK HD+
+#EXTINF:11,NICK TV_HD+
 http://103.161.153.165:8000/play/a00w/index.m3u8
-#EXTINF:0,NICK SD
+#EXTINF:11,SONIC_SD
 http://103.161.153.165:8000/play/a013/index.m3u8
 #EXTINF:0,NTV HD EN-1
 http://103.161.153.165:8000/play/a02l/index.m3u8
@@ -188,22 +190,20 @@ http://103.161.153.165:8000/play/a028/index.m3u8
 http://103.161.153.165:8000/play/a023/index.m3u8
 #EXTINF:0,SABTV HD
 http://103.161.153.165:8000/play/a03r/index.m3u8
-#EXTINF:0,SANGSAD TV HD
+#EXTINF:11,SANGSAD TV HD
 http://103.161.153.165:8000/play/a029/index.m3u8
 #EXTINF:0,SANONDAA CINEMA HD
 http://103.161.153.165:8000/play/a03a/index.m3u8
-#EXTINF:0,SKY CRICKET HD
+#EXTINF:11,SKY SPORTS GOLF HD
 http://103.161.153.165:8000/play/a00m/index.m3u8
-#EXTINF:0,SONIC
+#EXTINF:11,SONIC_SD
 http://103.161.153.165:8000/play/a015/index.m3u8
-#EXTINF:0,SONY AATH
+#EXTINF:11,SONNY ATTH SD1
 http://103.161.153.165:8000/play/sonyatth/index.m3u8
 #EXTINF:0,SONY HD
 http://103.161.153.165:8000/play/a01i/index.m3u8
 #EXTINF:0,SONY MAX HD
 http://103.161.153.165:8000/play/a01k/index.m3u8
-#EXTINF:11,SONY PIX_HD
-http://103.161.153.165:8000/play/a056/index.m3u8
 #EXTINF:0,SONY PIX HD
 http://103.161.153.165:8000/play/a04f/index.m3u8
 #EXTINF:0,SONY SAB_HD
@@ -238,6 +238,8 @@ http://103.161.153.165:8000/play/stp2h/index.m3u8
 http://103.161.153.165:8000/play/a03q/index.m3u8
 #EXTINF:0,STAR SPORTS HINDI 2 HD
 http://103.161.153.165:8000/play/a04m/index.m3u8
+#EXTINF:0,STAR SPORTS HINDI 2_HD
+http://103.161.153.165:8000/play/a05f/index.m3u8
 #EXTINF:0,STAR SPORTS SEL 2 HD
 http://103.161.153.165:8000/play/starspsel2/index.m3u8
 #EXTINF:0,STAR SPORTS SL 1 HD
@@ -300,7 +302,7 @@ http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 http://103.161.153.165:8000/play/a00q/index.m3u8
 #EXTINF:0,ZEE TV HD
 http://103.161.153.165:8000/play/a01j/index.m3u8
-#EXTINF:0,asiantvHD
+#EXTINF:11,asiantvHD
 http://103.161.153.165:8000/play/a024/index.m3u8
 #EXTINF:0,kuwait TV
 http://103.161.153.165:8000/play/a04x/index.m3u8
