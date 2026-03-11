@@ -21,6 +21,9 @@ http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="AynaOTT",T Sports HD
 http://sm-monirul.top/AyNa/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
 
+#EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="AynaOTT",T Sports HD
+http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg", STAR SP-1
 http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
 
