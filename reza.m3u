@@ -62,10 +62,7 @@ https://webiptv.site/byps3.m3u8
 https://webiptv.site/byps.m3u8
 
 #EXTINF:-1 tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8800573917753836117&width=600&height=100&rule=Station_Temp", sky sports main event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webiptv.site
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=PHPSESSID=ruldtipnqc8ja19c2qm46kshcl
-https://webiptv.site/t.me/webipTvOfficial.m3u8?id=167593
+https://webiptv.site/t.me/webipTvOfficial.m3u8?|cookie=PHPSESSID=ruldtipnqc8ja19c2qm46kshcl&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png", TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
