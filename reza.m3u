@@ -2,6 +2,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014", PTV Sports
+https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014", PTV Sports
 http://172.19.1.2/9346574/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014", PTV Sports
