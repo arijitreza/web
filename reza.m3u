@@ -56,10 +56,12 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:3F:2B:17&stream=152
 
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/79/ac/65/79ac659e-6de4-59b8-3ab4-76008a65cc54/source/512x512bb.jpg", FOX 501
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webiptv.site/
+#EXTVLCOPT:http-origin=https://webiptv.site/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
-https://webiptv.site/foxtel.php/c1566607e84d4dd0bc7e53bc26943d14/index.mpd|cookie=PHPSESSID=ruldtipnqc8ja19c2qm46kshcl&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua="Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://webiptv.site/foxtel.php/c1566607e84d4dd0bc7e53bc26943d14/index.mpd|cookie=PHPSESSID=ruldtipnqc8ja19c2qm46kshcl&sec-ch-ua="Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKSS41D7jzTMxkx52IhE1g_GTleMFaiIc6_6fBW3-0w&s=10", Willow
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
