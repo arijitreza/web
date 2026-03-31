@@ -55,7 +55,7 @@ https://mysouq1.com/76631957/10205687/12
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:3F:2B:17&stream=1520176&extension=ts
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/79/ac/65/79ac659e-6de4-59b8-3ab4-76008a65cc54/source/512x512bb.jpg", FOX 501
-https://webiptv.site/htwbb.m3u8|cookie=PHPSESSID=ruldtipnqc8ja19c2qm46kshcl&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua="Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://webiptv.site/htwbb.m3u8?%7C&accept=*/*&accept-encoding=gzip, deflate, br, zstd&accept-language=en-GB,en-US;q=0.9,en;q=0.8&cache-control=no-cache&dnt=1&pragma=no-cache&priority=u=1, i&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKSS41D7jzTMxkx52IhE1g_GTleMFaiIc6_6fBW3-0w&s=10", Willow
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -64,15 +64,16 @@ https://webiptv.site/htwbb.m3u8|cookie=PHPSESSID=ruldtipnqc8ja19c2qm46kshcl&refe
 https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEZqHL3v6Go5B_Qqzko3ixCteoxVScRkXEm3HKuPa41g&s=10", Willow Cricbuzz
-https://webiptv.site/byps3.m3u8|cookie=PHPSESSID=ruldtipnqc8ja19c2qm46kshcl&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua="Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://webiptv.site/byps3.m3u8?%7C&accept=*/*&accept-encoding=gzip, deflate, br, zstd&accept-language=en-GB,en-US;q=0.9,en;q=0.8&cache-control=no-cache&dnt=1&pragma=no-cache&priority=u=1, i&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
 
 #EXTINF:-1 tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8800573917753836117&width=600&height=100&rule=Station_Temp", sky sports cric
-https://webiptv.site/byps.m3u8|cookie=PHPSESSID=ruldtipnqc8ja19c2qm46kshcl&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua="Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://webiptv.site/byps.m3u8?%7C&accept=*/*&accept-encoding=gzip, deflate, br, zstd&accept-language=en-GB,en-US;q=0.9,en;q=0.8&cache-control=no-cache&dnt=1&pragma=no-cache&priority=u=1, i&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
 
 #EXTINF:-1 tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8800573917753836117&width=600&height=100&rule=Station_Temp", sky sports main event
-https://webiptv.site/t.me/webipTvOfficial.m3u8|cookie=PHPSESSID=ruldtipnqc8ja19c2qm46kshcl&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua="Not:A-Brand";v="99", "Google Chrome";v="145", "Chromium";v="145"&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://webiptv.site/t.me/webipTvOfficial.m3u8?%7C&accept=*/*&accept-encoding=gzip, deflate, br, zstd&accept-language=en-GB,en-US;q=0.9,en;q=0.8&cache-control=no-cache&dnt=1&pragma=no-cache&priority=u=1, i&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+
 
 #EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png", TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
