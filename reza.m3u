@@ -1,10 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKSS41D7jzTMxkx52IhE1g_GTleMFaiIc6_6fBW3-0w&s=10", hub4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKSS41D7jzTMxkx52IhE1g_GTleMFaiIc6_6fBW3-0w&s=10", CricLife 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
-https://mpdchecker.webiptv.site/get.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FHubSports4HDnew%2Foutput%2Fmanifest.mpd?%7C&accept=*/*&cookie=PHPSESSID=ruldtipnqc8ja19c2qm46kshcl&accept-encoding=gzip, deflate, br, zstd&accept-language=en-GB,en-US;q=0.9,en;q=0.8&cache-control=no-cache&dnt=1&pragma=no-cache&priority=u=1, i&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
+#KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
+https://cors-proxy.cooks.fyi/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKSS41D7jzTMxkx52IhE1g_GTleMFaiIc6_6fBW3-0w&s=10", Fox 501
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -68,7 +67,7 @@ https://mysouq1.com/76631957/10205687/12
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/19146/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/79/ac/65/79ac659e-6de4-59b8-3ab4-76008a65cc54/source/512x512bb.jpg", FOX 501
-https://webiptv.site/byps2.m3u8?%7C&accept=*/*&accept-encoding=gzip, deflate, br, zstd&accept-language=en-GB,en-US;q=0.9,en;q=0.8&cache-control=no-cache&dnt=1&pragma=no-cache&priority=u=1, i&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://webiptv.site/htwbb.m3u8?%7C&accept=*/*&cookie=PHPSESSID=ruldtipnqc8ja19c2qm46kshcl&accept-encoding=gzip, deflate, br, zstd&accept-language=en-GB,en-US;q=0.9,en;q=0.8&cache-control=no-cache&dnt=1&pragma=no-cache&priority=u=1, i&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKSS41D7jzTMxkx52IhE1g_GTleMFaiIc6_6fBW3-0w&s=10", Willow
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
