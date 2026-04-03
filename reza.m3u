@@ -3,12 +3,14 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKSS41D7jzTMxkx52IhE1g_GTleMFaiIc6_6fBW3-0w&s=10", hub4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
-https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
+https://mpdchecker.webiptv.site/get.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FHubSports4HDnew%2Foutput%2Fmanifest.mpd?%7C&accept=*/*&cookie=PHPSESSID=ruldtipnqc8ja19c2qm46kshcl&accept-encoding=gzip, deflate, br, zstd&accept-language=en-GB,en-US;q=0.9,en;q=0.8&cache-control=no-cache&dnt=1&pragma=no-cache&priority=u=1, i&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKSS41D7jzTMxkx52IhE1g_GTleMFaiIc6_6fBW3-0w&s=10", Willow HD 2
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKSS41D7jzTMxkx52IhE1g_GTleMFaiIc6_6fBW3-0w&s=10", Fox 501
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5e65429e2944656ae35ff06d957a1f4:37804ad4e587308a0e9a7c27869ac98d
-http://p-cdn1-a-cg14-linear-cbd46b77.movetv.com/clipslist/672/20260403T080000Z/20260403T090000Z.mpd
+#KODIPROP:inputstream.adaptive.license_key=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
+https://webiptv.site/foxtel.php/c1566607e84d4dd0bc7e53bc26943d14/index.mpd?%7C&accept=*/*&cookie=PHPSESSID=ruldtipnqc8ja19c2qm46kshcl&accept-encoding=gzip, deflate, br, zstd&accept-language=en-GB,en-US;q=0.9,en;q=0.8&cache-control=no-cache&dnt=1&pragma=no-cache&priority=u=1, i&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014", PTV Sports
 http://10.16.100.206:8080/hls/PtvSportsHD.m3u8
