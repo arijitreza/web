@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKSS41D7jzTMxkx52IhE1g_GTleMFaiIc6_6fBW3-0w&s=10", Willow HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKSS41D7jzTMxkx52IhE1g_GTleMFaiIc6_6fBW3-0w&s=10", hub4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b83fdce448024c988df1c888e490cbd3:4ae4e68216a35b52dbd83dc4c1a1b978
-http://p-cdn1-a-cg14-linear-cbd46b77.movetv.com/clipslist/22/20260403T070000Z/20260403T120000Z.mpd
+#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
+https://ucdn.starhubgo.com/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKSS41D7jzTMxkx52IhE1g_GTleMFaiIc6_6fBW3-0w&s=10", Willow HD 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
