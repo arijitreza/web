@@ -39,29 +39,29 @@ http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg", STAR SP-1
 #http://103.229.254.25:7001/play/a0a0
-https://starshare.net/76631957/10205687/148
+https://starshare.net/live/76631957/10205687/148.ts
 
 #EXTINF:-1 tvg-logo="https://assets.hireside.com/Companies/tapmad/Logo.jpg", STAR SP 2
-https://starshare.net/76631957/10205687/239
+https://starshare.net/live/76631957/10205687/239.ts
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
-https://starshare.net/76631957/10205687/31314
+https://starshare.net/live/76631957/10205687/31314.ts
 
 #EXTINF:-1 tvg-logo="",ASTRO
-https://starshare.net/76631957/10205687/2494
+https://starshare.net/live/76631957/10205687/2494.ts
 
 #EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/121159466.cms", Cricbuzz
 #https://webiptv.site/htwb.m3u8?%7C&accept=*/*&accept-encoding=gzip, deflate, br, zstd&accept-language=en-GB,en-US;q=0.9,en;q=0.8&cache-control=no-cache&dnt=1&pragma=no-cache&priority=u=1, i&referer=https://webiptv.site/&origin=https://webiptv.site&sec-ch-ua-mobile=?0&sec-ch-ua-platform="Windows"&sec-fetch-dest=empty&sec-fetch-mode=cors&sec-fetch-site=same-origin&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://starshare.net/76631957/10205687/2494
+http://starshare.net/live/76631957/10205687/2494.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKSS41D7jzTMxkx52IhE1g_GTleMFaiIc6_6fBW3-0w&s=10", Willow
-https://mysouq1.com/76631957/10205687/215
+https://mysouq1.com/live/76631957/10205687/215.ts
 
 #EXTINF:-1 tvg-logo="", HUB-SPORTS
-https://starshare.net/76631957/10205687/196347
+https://starshare.net/live/76631957/10205687/196347.ts
 
 #EXTINF:-1 tvg-logo="", SKY-SPORTS
-https://starshare.net/76631957/10205687/12
+https://starshare.net/live/76631957/10205687/12.ts
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/79/ac/65/79ac659e-6de4-59b8-3ab4-76008a65cc54/source/512x512bb.jpg", FOX 501
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/19146/index.m3u8
